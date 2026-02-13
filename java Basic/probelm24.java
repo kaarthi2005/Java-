@@ -1,1 +1,30 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/20012b1c534e49a1806b54b8b52166194cf8df5f', 'html': 'https://github.com/kaarthi2005/Java-/blob/7a8b6d948a4dc19c0a38927b895e20bde7fb8593/java%20Basic/probelm24.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm24.java?ref=7a8b6d948a4dc19c0a38927b895e20bde7fb8593'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgcHJv\nYmVsbTI0ew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1td\nIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIo\nU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRl\nciBhIHRvdGFsIGZ1bmQgb2YgcmVnaXN0cmF0aW9uOiAiKTsNCiAgICAgICAg\naW50IHJlZyA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICANCiAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIGFtb3VudCBvZiBicm9hZGNh\nc3QiKTsNCiAgICAgICAgaW50IGJyb2FkY2FzdCA9IHNjYW4ubmV4dEludCgp\nOw0KDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50ZXIgYSBzcG9u\nc29yIDogIik7DQogICAgICAgIGludCBzcG9uc29yID0gc2Nhbi5uZXh0SW50\nKCk7DQoNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIGFt\nb3VudCBmb3IgcHJpY2VzIDogIik7DQogICAgICAgIGludCBwcmljZSA9IHNj\nYW4ubmV4dEludCgpOw0KDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nRW50ZXIgYSBhbW91bnQgb2YgcmVudCBmb3Igc3RhZGl1bSA6ICIpOw0KICAg\nICAgICBpbnQgcmVudD0gc2Nhbi5uZXh0SW50KCk7DQoNCiAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCJFbnRlciBhIHRvdGFsIGFtb3VudCBvZiBhZCIp\nOw0KICAgICAgICBpbnQgYWQgPSBzY2FuLm5leHRJbnQoKTsNCg0KDQogICAg\nICAgIGludCB0b3RhbCA9IHJlZyticm9hZGNhc3Qrc3BvbnNvci1wcmljZS1y\nZW50LWFkOw0KDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0b3RhbCk7\nDQogICAgfQ0KfQ0KDQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/7a8b6d948a4dc19c0a38927b895e20bde7fb8593/java%20Basic/probelm24.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/20012b1c534e49a1806b54b8b52166194cf8df5f', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/7a8b6d948a4dc19c0a38927b895e20bde7fb8593/java%20Basic/probelm24.java', 'name': 'probelm24.java', 'path': 'java Basic/probelm24.java', 'sha': '20012b1c534e49a1806b54b8b52166194cf8df5f', 'size': 869, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm24.java?ref=7a8b6d948a4dc19c0a38927b895e20bde7fb8593'}
+import java.util.Scanner;
+
+public class probelm24{
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a total fund of registration: ");
+        int reg = scan.nextInt();
+        
+        System.out.println("Enter a amount of broadcast");
+        int broadcast = scan.nextInt();
+
+        System.out.println("Enter a sponsor : ");
+        int sponsor = scan.nextInt();
+
+        System.out.println("Enter a amount for prices : ");
+        int price = scan.nextInt();
+
+        System.out.println("Enter a amount of rent for stadium : ");
+        int rent= scan.nextInt();
+
+        System.out.println("Enter a total amount of ad");
+        int ad = scan.nextInt();
+
+
+        int total = reg+broadcast+sponsor-price-rent-ad;
+
+        System.out.println(total);
+    }
+}
+

@@ -1,1 +1,35 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/57892d7032ad953532dd139a979703d284959e9b', 'html': 'https://github.com/kaarthi2005/Java-/blob/e784787a60eadfce68dc1ae8a67c6770b2a87469/java%20Basic/probelm16.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm16.java?ref=e784787a60eadfce68dc1ae8a67c6770b2a87469'}, 'content': 'DQppbXBvcnQgamF2YS51dGlsLlNjYW5uZXI7DQoNCnB1YmxpYyBjbGFzcyBw\ncm9iZWxtMTYgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJF\nbnRlciBhIHRvdGFsIG5vIG9mIGdlblBhc3M6ICIpOw0KICAgICAgICBpbnQg\nZ2VucGFzcyA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oIkVudGVyIGEgYW1vdW50IG9mIGdlbnBhc3M6ICIpOw0KDQog\nICAgICAgIGludCBnZW5mYXJlID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiRW50ZXIgYSB0b3RhbCBubyBvZiBBQ3Bh\nc3M6ICIpOw0KDQogICAgICAgIGludCBBQ3Bhc3MgPSBzY2FuLm5leHRJbnQo\nKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIGFtb3Vu\ndCBvZiBBQ3Bhc3M6ICIpOw0KDQogICAgICAgIGludCBBQ2ZhcmU9IHNjYW4u\nbmV4dEludCgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkVudGVy\nIGEgcGxhdGZyb20gZmVlOiAiKTsNCg0KICAgICAgICBpbnQgcGxhdGZyb20g\nPSBzY2FuLm5leHRJbnQoKTsNCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oIkVudGVyIGEgbWFpbnRhbmluY2U6ICIpOw0KDQogICAgICAgIGludCBt\nYWludGFpbmFuY2UgPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgU3lzdGVt\nLm91dC5wcmludGxuKCJFbnRlciBhIGZldWxjb3N0OiAiKTsNCg0KICAgICAg\nICBpbnQgZmV1bGNvc3QgPSBzY2FuLm5leHRJbnQoKTsNCg0KDQoNCiAgICAg\nICAgaW50IHRvdGFsID0gKGdlbnBhc3MqZ2VuZmFyZSkgKyAoQUNmYXJlKkFD\ncGFzcykgKyBwbGF0ZnJvbSAtbWFpbnRhaW5hbmNlIC0gZmV1bGNvc3Q7DQoN\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRvdGFsKTsNCiAgICB9DQp9\nDQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/e784787a60eadfce68dc1ae8a67c6770b2a87469/java%20Basic/probelm16.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/57892d7032ad953532dd139a979703d284959e9b', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/e784787a60eadfce68dc1ae8a67c6770b2a87469/java%20Basic/probelm16.java', 'name': 'probelm16.java', 'path': 'java Basic/probelm16.java', 'sha': '57892d7032ad953532dd139a979703d284959e9b', 'size': 992, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm16.java?ref=e784787a60eadfce68dc1ae8a67c6770b2a87469'}
+
+import java.util.Scanner;
+
+public class probelm16 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a total no of genPass: ");
+        int genpass = scan.nextInt();
+        System.out.println("Enter a amount of genpass: ");
+
+        int genfare = scan.nextInt();
+        System.out.println("Enter a total no of ACpass: ");
+
+        int ACpass = scan.nextInt();
+        System.out.println("Enter a amount of ACpass: ");
+
+        int ACfare= scan.nextInt();
+        System.out.println("Enter a platfrom fee: ");
+
+        int platfrom = scan.nextInt();
+
+        System.out.println("Enter a maintanince: ");
+
+        int maintainance = scan.nextInt();
+        System.out.println("Enter a feulcost: ");
+
+        int feulcost = scan.nextInt();
+
+
+
+        int total = (genpass*genfare) + (ACfare*ACpass) + platfrom -maintainance - feulcost;
+
+        System.out.println(total);
+    }
+}

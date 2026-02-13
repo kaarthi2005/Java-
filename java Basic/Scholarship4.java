@@ -1,1 +1,24 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/6fb77ef924730af6bb763978d13a0bfad26dad08', 'html': 'https://github.com/kaarthi2005/Java-/blob/d85896f465a97b8db3501338d67ae4e31ccb6a29/java%20Basic/Scholarship4.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/Scholarship4.java?ref=d85896f465a97b8db3501338d67ae4e31ccb6a29'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgU2No\nb2xhcnNoaXA0ew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJF\nbnRlciB0aGUgdHV0aW9uZmVlczogIik7DQoNCiAgICAgICAgaW50IHR1dGlv\nbl9mZWVzID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oIkVudGVyIHRoZSBzY2hvbGFyc2hpcDogIik7DQogICAgICAg\nIGludCBzY2hvbGFyc2hpcCA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciB0aGUgZXhhbWZlZTogIik7DQog\nICAgICAgIGludCBleGFtZmVlID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oIkVudGVyIHRoZSBsaWJyYXk6ICIpOw0K\nICAgICAgICBpbnQgbGliYXJ5ID0gc2Nhbi5uZXh0SW50KCk7DQoNCiAgICAg\nICAgaW50IHNjaG9sYXJzaGlwXzEgPSAodHV0aW9uX2ZlZXMgKiBzY2hvbGFy\nc2hpcCApLzEwMDsNCiAgICAgICAgaW50IHRvdGFsID0gdHV0aW9uX2ZlZXMg\nKyBleGFtZmVlK2xpYmFyeSAtIHNjaG9sYXJzaGlwXzE7DQoNCiAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKHRvdGFsKTsNCg0KDQoNCiAgICB9DQp9\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/d85896f465a97b8db3501338d67ae4e31ccb6a29/java%20Basic/Scholarship4.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/6fb77ef924730af6bb763978d13a0bfad26dad08', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/d85896f465a97b8db3501338d67ae4e31ccb6a29/java%20Basic/Scholarship4.java', 'name': 'Scholarship4.java', 'path': 'java Basic/Scholarship4.java', 'sha': '6fb77ef924730af6bb763978d13a0bfad26dad08', 'size': 717, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/Scholarship4.java?ref=d85896f465a97b8db3501338d67ae4e31ccb6a29'}
+import java.util.Scanner;
+
+public class Scholarship4{
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter the tutionfees: ");
+
+        int tution_fees = scan.nextInt();
+         System.out.println("Enter the scholarship: ");
+        int scholarship = scan.nextInt();
+         System.out.println("Enter the examfee: ");
+        int examfee = scan.nextInt();
+         System.out.println("Enter the libray: ");
+        int libary = scan.nextInt();
+
+        int scholarship_1 = (tution_fees * scholarship )/100;
+        int total = tution_fees + examfee+libary - scholarship_1;
+
+        System.out.println(total);
+
+
+
+    }
+}

@@ -1,1 +1,27 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/f204d8053bb2bc583608735aa786c3e258f9a49c', 'html': 'https://github.com/kaarthi2005/Java-/blob/03a7093017e02fec503d9c81734f949612f21e0a/java%20Basic/probelm20.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm20.java?ref=03a7093017e02fec503d9c81734f949612f21e0a'}, 'content': 'DQppbXBvcnQgamF2YS51dGlsLlNjYW5uZXI7DQoNCnB1YmxpYyBjbGFzcyBw\ncm9iZWxtMjAgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJF\nbnRlciBhIHRvdGFsIGFtb3VudCBvZiBhZHM6ICIpOw0KICAgICAgICBpbnQg\nYWRzID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbigiRW50ZXIgYSBhbW91bnQgb2Ygc3BvbnNvcjogIik7DQoNCiAgICAg\nICAgaW50IHNwb25zb3IgPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCJFbnRlciBhIGFtb3VudCBvZiBhZmZpbGl0YXRl\nIDogIik7DQoNCiAgICAgICAgaW50IGFmZmlsaXRhdGUgPSBzY2FuLm5leHRJ\nbnQoKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIGFt\nb3VudCBvZiB0YXg6ICIpOw0KDQogICAgICAgIGludCB0YXg9IHNjYW4ubmV4\ndEludCgpOw0KDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50ZXIg\nYSB0b3RhbCBhbW91bnQgb2YgcHJvZHVjdGlvbiIpOw0KICAgICAgICBpbnQg\ncHJvZHVjdGlvbiA9IHNjYW4ubmV4dEludCgpOw0KDQogICAgICAgIGludCB0\nb3RhbCA9YWRzK3Nwb25zb3IrYWZmaWxpdGF0ZS10YXgtcHJvZHVjdGlvbjsN\nCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG90YWwpOw0KICAgIH0N\nCn0NCg0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/03a7093017e02fec503d9c81734f949612f21e0a/java%20Basic/probelm20.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/f204d8053bb2bc583608735aa786c3e258f9a49c', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/03a7093017e02fec503d9c81734f949612f21e0a/java%20Basic/probelm20.java', 'name': 'probelm20.java', 'path': 'java Basic/probelm20.java', 'sha': 'f204d8053bb2bc583608735aa786c3e258f9a49c', 'size': 771, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm20.java?ref=03a7093017e02fec503d9c81734f949612f21e0a'}
+
+import java.util.Scanner;
+
+public class probelm20 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a total amount of ads: ");
+        int ads = scan.nextInt();
+        System.out.println("Enter a amount of sponsor: ");
+
+        int sponsor = scan.nextInt();
+        System.out.println("Enter a amount of affilitate : ");
+
+        int affilitate = scan.nextInt();
+        System.out.println("Enter a amount of tax: ");
+
+        int tax= scan.nextInt();
+
+        System.out.println("Enter a total amount of production");
+        int production = scan.nextInt();
+
+        int total =ads+sponsor+affilitate-tax-production;
+
+        System.out.println(total);
+    }
+}
+

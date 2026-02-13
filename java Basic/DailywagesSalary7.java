@@ -1,1 +1,20 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/e14fb6f1d7a76adc32ad8ae36d91ad823be31f59', 'html': 'https://github.com/kaarthi2005/Java-/blob/56982a08b6661278c9b81e530ed489dc5ecd5c13/java%20Basic/DailywagesSalary7.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/DailywagesSalary7.java?ref=56982a08b6661278c9b81e530ed489dc5ecd5c13'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KDQpwdWJsaWMgY2xhc3MgRGFpbHl3YWdl\nc1NhbGFyeTcgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJF\nbnRlciB0aGUgd29ya2VkIERheXM6ICIpOw0KICAgICAgICBpbnQgZGF5d29y\na2VkID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbigiRW50ZXIgdGhlIHdhZ2VQZXJEYXk6ICIpOw0KICAgICAgICBpbnQg\nd2FnZVBlckRheSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50bG4oIkVudGVyIHRoZSBvdmVydGltZUJvbnVzOiAiKTsNCiAg\nICAgICAgaW50IG92ZXJ0aW1lQm9udXMgPSBzY2FuLm5leHRJbnQoKTsNCiAg\nICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciB0aGUgTWFpbnRhaW4g\nY2hhcmdlOiAiKTsNCiAgICAgICAgaW50IG1haW50YWluY2hhcmdlID0gc2Nh\nbi5uZXh0SW50KCk7DQoNCiAgICAgICAgaW50IHNhbGFyeSA9IGRheXdvcmtl\nZCp3YWdlUGVyRGF5Ow0KICAgICAgICBpbnQgdG90YWwgPSBzYWxhcnkrb3Zl\ncnRpbWVCb251cy1tYWludGFpbmNoYXJnZTsNCg0KICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50bG4odG90YWwpOw0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/56982a08b6661278c9b81e530ed489dc5ecd5c13/java%20Basic/DailywagesSalary7.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/e14fb6f1d7a76adc32ad8ae36d91ad823be31f59', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/56982a08b6661278c9b81e530ed489dc5ecd5c13/java%20Basic/DailywagesSalary7.java', 'name': 'DailywagesSalary7.java', 'path': 'java Basic/DailywagesSalary7.java', 'sha': 'e14fb6f1d7a76adc32ad8ae36d91ad823be31f59', 'size': 706, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/DailywagesSalary7.java?ref=56982a08b6661278c9b81e530ed489dc5ecd5c13'}
+import java.util.*;
+
+public class DailywagesSalary7 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter the worked Days: ");
+        int dayworked = scan.nextInt();
+        System.out.println("Enter the wagePerDay: ");
+        int wagePerDay = scan.nextInt();
+        System.out.println("Enter the overtimeBonus: ");
+        int overtimeBonus = scan.nextInt();
+        System.out.println("Enter the Maintain charge: ");
+        int maintaincharge = scan.nextInt();
+
+        int salary = dayworked*wagePerDay;
+        int total = salary+overtimeBonus-maintaincharge;
+
+        System.out.println(total);
+    }
+}

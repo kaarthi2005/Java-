@@ -1,1 +1,25 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/ee6c2022ae856f6eb36985591bb8616e73e19083', 'html': 'https://github.com/kaarthi2005/Java-/blob/090060fab9be6c3e78c7a539cf1715bdce1202ff/java%20Basic/probelm9.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm9.java?ref=090060fab9be6c3e78c7a539cf1715bdce1202ff'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgcHJv\nYmVsbTkgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1td\nIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIo\nU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRl\nciBhIFJvb21jaGFyZ2U6ICIpOw0KICAgICAgICBpbnQgcm9vbWNoYXJnZSA9\nIHNjYW4ubmV4dEludCgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIkVudGVyIGEgZGF5OiAiKTsNCg0KICAgICAgICBpbnQgZGF5ID0gc2Nhbi5u\nZXh0SW50KCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50ZXIg\nYSBtZWRpY2FsY29zdDogIik7DQoNCiAgICAgICAgaW50IG1lZGljb3N0ID0g\nc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nRW50ZXIgYSBsYWJmZWVzOiAiKTsNCg0KICAgICAgICBpbnQgbGFiZmVlcyA9\nIHNjYW4ubmV4dEludCgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIkVudGVyIGEgaW5zdXJhbmNlY292ZXJhZ2U6ICIpOw0KDQogICAgICAgIGlu\ndCBpbnN1cmFuY2UgPSBzY2FuLm5leHRJbnQoKTsNCg0KICAgICAgICBpbnQg\ndG90YWwgPSAocm9vbWNoYXJnZSAqIGRheSkgKyBtZWRpY29zdCArIGxhYmZl\nZXMgLSBpbnN1cmFuY2U7DQoNCiAgICAgICAgU3lzdGVtLmVyci5wcmludGxu\nKHRvdGFsKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/090060fab9be6c3e78c7a539cf1715bdce1202ff/java%20Basic/probelm9.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/ee6c2022ae856f6eb36985591bb8616e73e19083', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/090060fab9be6c3e78c7a539cf1715bdce1202ff/java%20Basic/probelm9.java', 'name': 'probelm9.java', 'path': 'java Basic/probelm9.java', 'sha': 'ee6c2022ae856f6eb36985591bb8616e73e19083', 'size': 740, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm9.java?ref=090060fab9be6c3e78c7a539cf1715bdce1202ff'}
+import java.util.Scanner;
+
+public class probelm9 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a Roomcharge: ");
+        int roomcharge = scan.nextInt();
+        System.out.println("Enter a day: ");
+
+        int day = scan.nextInt();
+        System.out.println("Enter a medicalcost: ");
+
+        int medicost = scan.nextInt();
+        System.out.println("Enter a labfees: ");
+
+        int labfees = scan.nextInt();
+        System.out.println("Enter a insurancecoverage: ");
+
+        int insurance = scan.nextInt();
+
+        int total = (roomcharge * day) + medicost + labfees - insurance;
+
+        System.err.println(total);
+    }
+}

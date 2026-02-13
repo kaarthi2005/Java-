@@ -1,1 +1,27 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/974e043a41577bcb993c0a30233e3d86159b1f94', 'html': 'https://github.com/kaarthi2005/Java-/blob/c03a5cf11c7886c65b09be0dc24b97f062ff887d/java%20Basic/probelm17.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm17.java?ref=c03a5cf11c7886c65b09be0dc24b97f062ff887d'}, 'content': 'DQppbXBvcnQgamF2YS51dGlsLlNjYW5uZXI7DQoNCnB1YmxpYyBjbGFzcyBw\ncm9iZWxtMTcgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJF\nbnRlciBhIGhvdXI6ICIpOw0KICAgICAgICBpbnQgaG91ciA9IHNjYW4ubmV4\ndEludCgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkVudGVyIGEg\ncmF0ZTogIik7DQoNCiAgICAgICAgaW50IHJhdGUgPSBzY2FuLm5leHRJbnQo\nKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIGRlc2ln\nbiBhbW91bnQ6ICIpOw0KDQogICAgICAgIGludCBkZXNpZ25fYW1vdW50ID0g\nc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nRW50ZXIgYSB0ZXN0aW5nOiAiKTsNCg0KICAgICAgICBpbnQgdGVzdGluZz0g\nc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nRW50ZXIgYSBhZHZhbmNlOiAiKTsNCg0KICAgICAgICBpbnQgYWR2YW5jZSA9\nIHNjYW4ubmV4dEludCgpOw0KDQogICAgICAgIGludCB0b3RhbCA9IChob3Vy\nKnJhdGUpK2Rlc2lnbl9hbW91bnQrdGVzdGluZy1hZHZhbmNlOw0KDQogICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRsbih0b3RhbCk7DQogICAgfQ0KfQ0KDQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/c03a5cf11c7886c65b09be0dc24b97f062ff887d/java%20Basic/probelm17.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/974e043a41577bcb993c0a30233e3d86159b1f94', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/c03a5cf11c7886c65b09be0dc24b97f062ff887d/java%20Basic/probelm17.java', 'name': 'probelm17.java', 'path': 'java Basic/probelm17.java', 'sha': '974e043a41577bcb993c0a30233e3d86159b1f94', 'size': 719, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm17.java?ref=c03a5cf11c7886c65b09be0dc24b97f062ff887d'}
+
+import java.util.Scanner;
+
+public class probelm17 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a hour: ");
+        int hour = scan.nextInt();
+        System.out.println("Enter a rate: ");
+
+        int rate = scan.nextInt();
+        System.out.println("Enter a design amount: ");
+
+        int design_amount = scan.nextInt();
+        System.out.println("Enter a testing: ");
+
+        int testing= scan.nextInt();
+        System.out.println("Enter a advance: ");
+
+        int advance = scan.nextInt();
+
+        int total = (hour*rate)+design_amount+testing-advance;
+
+        System.out.println(total);
+    }
+}
+

@@ -1,1 +1,18 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/6d931fcb228bf74a6a3d6f87ac9c31cf7458e876', 'html': 'https://github.com/kaarthi2005/Java-/blob/462134190d4540d4d4fdd9292ec5fcd078fa36a6/java%20Basic/probelm12.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm12.java?ref=462134190d4540d4d4fdd9292ec5fcd078fa36a6'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgcHJv\nYmVsbTEyIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50\nZXIgYSB0b3RhbCBhbW91bnQgb2YgdGlja2V0IHJldmVudWU6ICIpOw0KICAg\nICAgICBpbnQgdGlja2V0X3JldmVudWUgPSBzY2FuLm5leHRJbnQoKTsNCiAg\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50ZXIgYSB0b3RhbCBhbW91\nbnQgb2YgU25hY2sgcmV2ZW51ZTogIik7DQogICAgICAgIGludCBzbmFja19y\nZXZlbnVlID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oIkVudGVyIGEgdG90YWwgYW1vdW50IG9mIG1haW50YWluYW5j\nZTogIik7DQogICAgICAgIGludCBtYWludGFuYW5jZSA9IHNjYW4ubmV4dElu\ndCgpOw0KICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIHRv\ndGFsIGFtb3VudCBvZiBlbGVjdGljaXR5IGJpbGw6ICIpOw0KICAgICAgICBp\nbnQgZWxlY3RyaWNpdHkgPSBzY2FuLm5leHRJbnQoKTsNCg0KICAgICAgICBp\nbnQgdG90YWwgPSB0aWNrZXRfcmV2ZW51ZStzbmFja19yZXZlbnVlLW1haW50\nYW5hbmNlLWVsZWN0cmljaXR5Ow0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4odG90YWwpOw0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/462134190d4540d4d4fdd9292ec5fcd078fa36a6/java%20Basic/probelm12.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/6d931fcb228bf74a6a3d6f87ac9c31cf7458e876', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/462134190d4540d4d4fdd9292ec5fcd078fa36a6/java%20Basic/probelm12.java', 'name': 'probelm12.java', 'path': 'java Basic/probelm12.java', 'sha': '6d931fcb228bf74a6a3d6f87ac9c31cf7458e876', 'size': 742, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm12.java?ref=462134190d4540d4d4fdd9292ec5fcd078fa36a6'}
+import java.util.Scanner;
+
+public class probelm12 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a total amount of ticket revenue: ");
+        int ticket_revenue = scan.nextInt();
+         System.out.println("Enter a total amount of Snack revenue: ");
+        int snack_revenue = scan.nextInt();
+         System.out.println("Enter a total amount of maintainance: ");
+        int maintanance = scan.nextInt();
+         System.out.println("Enter a total amount of electicity bill: ");
+        int electricity = scan.nextInt();
+
+        int total = ticket_revenue+snack_revenue-maintanance-electricity;
+        System.out.println(total);
+    }
+}

@@ -1,1 +1,26 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/a03329a67355e43e3e5f524ab7d6ab4270d2300f', 'html': 'https://github.com/kaarthi2005/Java-/blob/3336f87bd6de1d75089f170a850208d9f99c684a/java%20Basic/probelm14.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm14.java?ref=3336f87bd6de1d75089f170a850208d9f99c684a'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgcHJv\nYmVsbTE0IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50\nZXIgYSBCYXNlc2FsYXJ5OiAiKTsNCiAgICAgICAgaW50IGJhc2VzYWxhcnkg\nPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJFbnRlciBhIHNlc3Npb246ICIpOw0KDQogICAgICAgIGludCBzZXNzaW9u\nID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbigiRW50ZXIgYSBleHRyYSBzZXNzaW9uIGNvc3Q6ICIpOw0KDQogICAgICAg\nIGludCBwYXlzZXNzaW9uX3BlcmNvc3QgPSBzY2FuLm5leHRJbnQoKTsNCiAg\nICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIGJvdW5zOiAiKTsN\nCg0KICAgICAgICBpbnQgYm91bnMgPSBzY2FuLm5leHRJbnQoKTsNCiAgICAg\nICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIG1haW50YWluZW5jZTog\nIik7DQoNCiAgICAgICAgaW50IG1haW50YWluYW5jZSA9IHNjYW4ubmV4dElu\ndCgpOw0KDQogICAgICAgIGludCB0b3RhbCA9IGJhc2VzYWxhcnkgKyAoc2Vz\nc2lvbipwYXlzZXNzaW9uX3BlcmNvc3QpICsgYm91bnMgLSBtYWludGFpbmFu\nY2U7DQoNCiAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKHRvdGFsKTsNCiAg\nICB9DQp9DQoNCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/3336f87bd6de1d75089f170a850208d9f99c684a/java%20Basic/probelm14.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/a03329a67355e43e3e5f524ab7d6ab4270d2300f', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/3336f87bd6de1d75089f170a850208d9f99c684a/java%20Basic/probelm14.java', 'name': 'probelm14.java', 'path': 'java Basic/probelm14.java', 'sha': 'a03329a67355e43e3e5f524ab7d6ab4270d2300f', 'size': 775, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm14.java?ref=3336f87bd6de1d75089f170a850208d9f99c684a'}
+import java.util.Scanner;
+
+public class probelm14 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a Basesalary: ");
+        int basesalary = scan.nextInt();
+        System.out.println("Enter a session: ");
+
+        int session = scan.nextInt();
+        System.out.println("Enter a extra session cost: ");
+
+        int paysession_percost = scan.nextInt();
+        System.out.println("Enter a bouns: ");
+
+        int bouns = scan.nextInt();
+        System.out.println("Enter a maintainence: ");
+
+        int maintainance = scan.nextInt();
+
+        int total = basesalary + (session*paysession_percost) + bouns - maintainance;
+
+        System.err.println(total);
+    }
+}
+

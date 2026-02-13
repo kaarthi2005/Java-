@@ -1,1 +1,27 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/59b17a11b0d69431cbdf73dce9219fe33d2ffca0', 'html': 'https://github.com/kaarthi2005/Java-/blob/313610a6dd600ac9d3d505316e1ea54347093cf1/java%20Basic/probelm19.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm19.java?ref=313610a6dd600ac9d3d505316e1ea54347093cf1'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgcHJv\nYmVsbTE5IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50\nZXIgYSB0b3RhbCBudW0gb2YgZGF5czogIik7DQogICAgICAgIGludCBkYXkg\nPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJFbnRlciBhIGFtb3VudCBvZiByZW50OiAiKTsNCg0KICAgICAgICBpbnQg\ncmVudCA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oIkVudGVyIGEgYW1vdW50IG9mIGxhdGVmZWUgOiAiKTsNCg0KICAg\nICAgICBpbnQgbGF0ZWZlZSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICBT\neXN0ZW0ub3V0LnByaW50bG4oIkVudGVyIGEgYW1vdW50IG9mIGZ1ZWw6ICIp\nOw0KDQogICAgICAgIGludCBmZXVsY29zdD0gc2Nhbi5uZXh0SW50KCk7DQog\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50ZXIgYSBhbW91bnQgb2Yg\nbWFpbnRlbmFuY2U6ICIpOw0KDQogICAgICAgDQogICAgICAgIGludCBtYWlu\ndGFpbmFuY2U9IHNjYW4ubmV4dEludCgpOw0KDQogICAgICAgIGludCB0b3Rh\nbCA9KGRheSpyZW50KStsYXRlZmVlLWZldWxjb3N0LW1haW50YWluYW5jZTsN\nCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG90YWwpOw0KICAgIH0N\nCn0NCg0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/313610a6dd600ac9d3d505316e1ea54347093cf1/java%20Basic/probelm19.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/59b17a11b0d69431cbdf73dce9219fe33d2ffca0', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/313610a6dd600ac9d3d505316e1ea54347093cf1/java%20Basic/probelm19.java', 'name': 'probelm19.java', 'path': 'java Basic/probelm19.java', 'sha': '59b17a11b0d69431cbdf73dce9219fe33d2ffca0', 'size': 771, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm19.java?ref=313610a6dd600ac9d3d505316e1ea54347093cf1'}
+import java.util.Scanner;
+
+public class probelm19 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a total num of days: ");
+        int day = scan.nextInt();
+        System.out.println("Enter a amount of rent: ");
+
+        int rent = scan.nextInt();
+        System.out.println("Enter a amount of latefee : ");
+
+        int latefee = scan.nextInt();
+        System.out.println("Enter a amount of fuel: ");
+
+        int feulcost= scan.nextInt();
+        System.out.println("Enter a amount of maintenance: ");
+
+       
+        int maintainance= scan.nextInt();
+
+        int total =(day*rent)+latefee-feulcost-maintainance;
+
+        System.out.println(total);
+    }
+}
+

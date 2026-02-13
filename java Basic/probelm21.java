@@ -1,1 +1,29 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/0036f6b60b256711d238223a0bdfeb7303521df4', 'html': 'https://github.com/kaarthi2005/Java-/blob/68dc88fae1d34dbf6826d547e852d9272570d8e0/java%20Basic/probelm21.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm21.java?ref=68dc88fae1d34dbf6826d547e852d9272570d8e0'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgcHJv\nYmVsbTIxIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50\nZXIgYSB0b3RhbCBhbW91bnQgb2YgbWFpbnRhdGVuY2U6ICIpOw0KICAgICAg\nICBpbnQgbWFpbnRhbmluY2UgPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIGNvbGxlY3Rpb24gaW4gcGFy\na2luZzogIik7DQoNCiAgICAgICAgaW50IHBhcmtpbmcgPSBzY2FuLm5leHRJ\nbnQoKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIGFt\nb3VudCBvZiBoYWxscmVudCA6ICIpOw0KDQogICAgICAgIGludCBoYWxscmVu\ndCA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oIkVudGVyIGEgYW1vdW50IG9mIHNlY3VyaXR5OiAiKTsNCg0KICAgICAg\nICBpbnQgc2VjdXJpdHk9IHNjYW4ubmV4dEludCgpOw0KDQogICAgICAgIFN5\nc3RlbS5vdXQucHJpbnRsbigiRW50ZXIgYSB0b3RhbCBhbW91bnQgb2YgZWxl\nY3RyaWNpdHkiKTsNCiAgICAgICAgaW50IGVsZWN0cmljaXR5ID0gc2Nhbi5u\nZXh0SW50KCk7DQoNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRl\nciBhIHRvdGFsIGFtb3VudCBvZiBjbGVhbmluZyBjaGFyZ2UiKTsNCiAgICAg\nICAgaW50IGNsZWFuaW5nID0gc2Nhbi5uZXh0SW50KCk7DQoNCiAgICAgICAg\naW50IHRvdGFsID0gbWFpbnRhbmluY2UrcGFya2luZytoYWxscmVudC1zZWN1\ncml0eS1lbGVjdHJpY2l0eS1jbGVhbmluZzsNCg0KICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50bG4odG90YWwpOw0KICAgIH0NCn0NCg0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/68dc88fae1d34dbf6826d547e852d9272570d8e0/java%20Basic/probelm21.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/0036f6b60b256711d238223a0bdfeb7303521df4', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/68dc88fae1d34dbf6826d547e852d9272570d8e0/java%20Basic/probelm21.java', 'name': 'probelm21.java', 'path': 'java Basic/probelm21.java', 'sha': '0036f6b60b256711d238223a0bdfeb7303521df4', 'size': 933, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm21.java?ref=68dc88fae1d34dbf6826d547e852d9272570d8e0'}
+import java.util.Scanner;
+
+public class probelm21 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a total amount of maintatence: ");
+        int maintanince = scan.nextInt();
+        System.out.println("Enter a collection in parking: ");
+
+        int parking = scan.nextInt();
+        System.out.println("Enter a amount of hallrent : ");
+
+        int hallrent = scan.nextInt();
+        System.out.println("Enter a amount of security: ");
+
+        int security= scan.nextInt();
+
+        System.out.println("Enter a total amount of electricity");
+        int electricity = scan.nextInt();
+
+        System.out.println("Enter a total amount of cleaning charge");
+        int cleaning = scan.nextInt();
+
+        int total = maintanince+parking+hallrent-security-electricity-cleaning;
+
+        System.out.println(total);
+    }
+}
+

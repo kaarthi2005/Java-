@@ -1,1 +1,19 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/b22d34ca9b9dcb5a900c488a5dcbb45cf75d8f6f', 'html': 'https://github.com/kaarthi2005/Java-/blob/622a9b87b5132b033bab51616f20ffe424b8e820/java%20Basic/probelm13.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm13.java?ref=622a9b87b5132b033bab51616f20ffe424b8e820'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KcHVibGljIGNsYXNzIHByb2JlbG0xMyB7\nDQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykg\new0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5lcihTeXN0ZW0u\naW4pOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkVudGVyIGEgWWVp\nbGQgcGVyIGFjcmVzOiAiKTsNCiAgICAgICAgaW50IHllbGlkcGVyX2FjcmUg\nPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJFbnRlciBhIEFjcmVzOiAiKTsNCiAgICAgICAgaW50IGFjcmVzID0gc2Nh\nbi5uZXh0SW50KCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50\nZXIgYSBleHRyYSB5ZWlsZDogIik7DQogICAgICAgIGludCBleHRyYXllaWxk\nID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbigiRW50ZXIgYSBEYW1hZ2VkIENyb3BzOiAiKTsNCiAgICAgICAgaW50IGRh\nbWFnZWRDcm9wcyA9IHNjYW4ubmV4dEludCgpOw0KDQoNCiAgICAgICAgaW50\nIHRvdGFsID0gKHllbGlkcGVyX2FjcmUqYWNyZXMpK2V4dHJheWVpbGQtZGFt\nYWdlZENyb3BzOw0KDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0b3Rh\nbCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/622a9b87b5132b033bab51616f20ffe424b8e820/java%20Basic/probelm13.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/b22d34ca9b9dcb5a900c488a5dcbb45cf75d8f6f', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/622a9b87b5132b033bab51616f20ffe424b8e820/java%20Basic/probelm13.java', 'name': 'probelm13.java', 'path': 'java Basic/probelm13.java', 'sha': 'b22d34ca9b9dcb5a900c488a5dcbb45cf75d8f6f', 'size': 645, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm13.java?ref=622a9b87b5132b033bab51616f20ffe424b8e820'}
+import java.util.*;
+public class probelm13 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a Yeild per acres: ");
+        int yelidper_acre = scan.nextInt();
+        System.out.println("Enter a Acres: ");
+        int acres = scan.nextInt();
+        System.out.println("Enter a extra yeild: ");
+        int extrayeild = scan.nextInt();
+        System.out.println("Enter a Damaged Crops: ");
+        int damagedCrops = scan.nextInt();
+
+
+        int total = (yelidper_acre*acres)+extrayeild-damagedCrops;
+
+        System.out.println(total);
+    }
+}

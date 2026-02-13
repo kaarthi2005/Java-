@@ -1,1 +1,25 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/84022e2be7065fe74191aeb83cf1be7ad8438371', 'html': 'https://github.com/kaarthi2005/Java-/blob/85079990a6d66a1bf1c0b1b6543c4a7ba29ea56c/java%20Basic/probelm11.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm11.java?ref=85079990a6d66a1bf1c0b1b6543c4a7ba29ea56c'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgcHJv\nYmVsbTExIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50\nZXIgYSBkaXN0YW5jZTogIik7DQogICAgICAgIGludCBkaXN0YW5jZSA9IHNj\nYW4ubmV4dEludCgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkVu\ndGVyIGEgcmF0ZTogIik7DQoNCiAgICAgICAgaW50IHJhdGUgPSBzY2FuLm5l\neHRJbnQoKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBh\nIG1haW50YW5hbmNlOiAiKTsNCg0KICAgICAgICBpbnQgbWFpbnRhaW5jaGFy\nZ2UgPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJFbnRlciBhIGFsbG93YW5jZTogIik7DQoNCiAgICAgICAgaW50IGFs\nbG93YW5jZSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oIkVudGVyIGEgc3Vic2lkeTogIik7DQoNCiAgICAgICAgaW50\nIHN1YnNpZHkgPSBzY2FuLm5leHRJbnQoKTsNCg0KICAgICAgICBpbnQgdG90\nYWwgPSAoZGlzdGFuY2UqIHJhdGUpICsgbWFpbnRhaW5jaGFyZ2UrIGFsbG93\nYW5jZSAtIHN1YnNpZHk7DQoNCiAgICAgICAgU3lzdGVtLmVyci5wcmludGxu\nKHRvdGFsKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/85079990a6d66a1bf1c0b1b6543c4a7ba29ea56c/java%20Basic/probelm11.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/84022e2be7065fe74191aeb83cf1be7ad8438371', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/85079990a6d66a1bf1c0b1b6543c4a7ba29ea56c/java%20Basic/probelm11.java', 'name': 'probelm11.java', 'path': 'java Basic/probelm11.java', 'sha': '84022e2be7065fe74191aeb83cf1be7ad8438371', 'size': 740, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm11.java?ref=85079990a6d66a1bf1c0b1b6543c4a7ba29ea56c'}
+import java.util.Scanner;
+
+public class probelm11 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a distance: ");
+        int distance = scan.nextInt();
+        System.out.println("Enter a rate: ");
+
+        int rate = scan.nextInt();
+        System.out.println("Enter a maintanance: ");
+
+        int maintaincharge = scan.nextInt();
+        System.out.println("Enter a allowance: ");
+
+        int allowance = scan.nextInt();
+        System.out.println("Enter a subsidy: ");
+
+        int subsidy = scan.nextInt();
+
+        int total = (distance* rate) + maintaincharge+ allowance - subsidy;
+
+        System.err.println(total);
+    }
+}

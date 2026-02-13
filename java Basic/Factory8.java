@@ -1,1 +1,21 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/11e30cf8f6f053fca598b4c6c9f6ec512af133f8', 'html': 'https://github.com/kaarthi2005/Java-/blob/96efe09bd20f35fd3b704067f75daa52e987f67e/java%20Basic/Factory8.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/Factory8.java?ref=96efe09bd20f35fd3b704067f75daa52e987f67e'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KDQpwdWJsaWMgY2xhc3MgRmFjdG9yeTgg\new0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3Mp\nIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIoU3lzdGVt\nLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciB0aGUg\ncm9kIGNvdW50IHBlciBob3VyOiAiKTsNCiAgICAgICAgaW50IHJvZF9wZXJo\nb3VyID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oIkVudGVyIHRoZSB0b3RhbCBXb3JraW5nIGhvdXJzOiAiKTsNCiAg\nICAgICAgaW50IGhvdXJzX3dvcmtlZCA9c2Nhbi5uZXh0SW50KCk7DQogICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkVudGVyIHRoZSBvdmVydGltZSBy\nb2QgOiAiKTsNCiAgICAgICAgaW50IG92ZXJ0aW1lX3JvZCA9IHNjYW4ubmV4\ndEludCgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkVudGVyIHRo\nZSByZWplY3RlZCByb2Q6ICIpOw0KICAgICAgICBpbnQgcmVqZWN0ZWRfcm9k\nID0gc2Nhbi5uZXh0SW50KCk7DQoNCg0KICAgICAgICBpbnQgdG90YWxfcm9k\ncGVyaG91ciA9IHJvZF9wZXJob3VyICogaG91cnNfd29ya2VkOw0KICAgICAg\nICBpbnQgdG90YWxfcm9kID0gdG90YWxfcm9kcGVyaG91citvdmVydGltZV9y\nb2QtcmVqZWN0ZWRfcm9kOw0KDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbih0b3RhbF9yb2QpOw0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/96efe09bd20f35fd3b704067f75daa52e987f67e/java%20Basic/Factory8.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/11e30cf8f6f053fca598b4c6c9f6ec512af133f8', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/96efe09bd20f35fd3b704067f75daa52e987f67e/java%20Basic/Factory8.java', 'name': 'Factory8.java', 'path': 'java Basic/Factory8.java', 'sha': '11e30cf8f6f053fca598b4c6c9f6ec512af133f8', 'size': 745, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/Factory8.java?ref=96efe09bd20f35fd3b704067f75daa52e987f67e'}
+import java.util.*;
+
+public class Factory8 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter the rod count per hour: ");
+        int rod_perhour = scan.nextInt();
+         System.out.println("Enter the total Working hours: ");
+        int hours_worked =scan.nextInt();
+         System.out.println("Enter the overtime rod : ");
+        int overtime_rod = scan.nextInt();
+        System.out.println("Enter the rejected rod: ");
+        int rejected_rod = scan.nextInt();
+
+
+        int total_rodperhour = rod_perhour * hours_worked;
+        int total_rod = total_rodperhour+overtime_rod-rejected_rod;
+
+        System.out.println(total_rod);
+    }
+}

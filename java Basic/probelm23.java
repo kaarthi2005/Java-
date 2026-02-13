@@ -1,1 +1,30 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/dd13d2fe0243b08de1912df3675d994b43536094', 'html': 'https://github.com/kaarthi2005/Java-/blob/80d288a068106e72b557370ffc4d4872988b4398/java%20Basic/probelm23.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm23.java?ref=80d288a068106e72b557370ffc4d4872988b4398'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgcHJv\nYmVsbTIzew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1td\nIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIo\nU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRl\nciBhIHRvdGFsIGtnIG9mIHdlaWdodDogIik7DQogICAgICAgIGludCB3ZWln\naHQgPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgDQogICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigiRW50ZXIgYSByYXRlIHBlciBrZyIpOw0KICAgICAg\nICBpbnQgcmF0ZSA9IHNjYW4ubmV4dEludCgpOw0KDQogICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigiRW50ZXIgYSBwcmlvcml0eWNoYXJnZXMgOiAiKTsN\nCiAgICAgICAgaW50IHByaW9yaXR5Y2hhcmdlcyA9IHNjYW4ubmV4dEludCgp\nOw0KDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50ZXIgYSBhbW91\nbnQgZm9yIGluc3VyYW5jZWZlZXMgOiAiKTsNCiAgICAgICAgaW50IGluc3Vy\nYW5jZSA9IHNjYW4ubmV4dEludCgpOw0KDQogICAgICAgIFN5c3RlbS5vdXQu\ncHJpbnRsbigiRW50ZXIgYSBhbW91bnQgb2YgaGFuZGxpbmcgOiAiKTsNCiAg\nICAgICAgaW50IGhhbmRsaW5nPSBzY2FuLm5leHRJbnQoKTsNCg0KICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oIkVudGVyIGEgdG90YWwgYW1vdW50IG9m\nIGZ1ZWxzdXJjaGFyZ2UiKTsNCiAgICAgICAgaW50IGZldWwgPSBzY2FuLm5l\neHRJbnQoKTsNCg0KDQogICAgICAgIGludCB0b3RhbCA9ICh3ZWlnaHQgKiBy\nYXRlKStwcmlvcml0eWNoYXJnZXMraW5zdXJhbmNlLWhhbmRsaW5nLWZldWw7\nDQoNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRvdGFsKTsNCiAgICB9\nDQp9DQoNCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/80d288a068106e72b557370ffc4d4872988b4398/java%20Basic/probelm23.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/dd13d2fe0243b08de1912df3675d994b43536094', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/80d288a068106e72b557370ffc4d4872988b4398/java%20Basic/probelm23.java', 'name': 'probelm23.java', 'path': 'java Basic/probelm23.java', 'sha': 'dd13d2fe0243b08de1912df3675d994b43536094', 'size': 907, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/probelm23.java?ref=80d288a068106e72b557370ffc4d4872988b4398'}
+import java.util.Scanner;
+
+public class probelm23{
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a total kg of weight: ");
+        int weight = scan.nextInt();
+        
+        System.out.println("Enter a rate per kg");
+        int rate = scan.nextInt();
+
+        System.out.println("Enter a prioritycharges : ");
+        int prioritycharges = scan.nextInt();
+
+        System.out.println("Enter a amount for insurancefees : ");
+        int insurance = scan.nextInt();
+
+        System.out.println("Enter a amount of handling : ");
+        int handling= scan.nextInt();
+
+        System.out.println("Enter a total amount of fuelsurcharge");
+        int feul = scan.nextInt();
+
+
+        int total = (weight * rate)+prioritycharges+insurance-handling-feul;
+
+        System.out.println(total);
+    }
+}
+

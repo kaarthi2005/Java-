@@ -1,1 +1,17 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/1f3488838cfa1e5e2828b736ff6ebb13fb4a5d73', 'html': 'https://github.com/kaarthi2005/Java-/blob/726ff8ca378a99cc9d61cc607a0a95c1d3a3bdbd/java%20Basic/Salary1.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/Salary1.java?ref=726ff8ca378a99cc9d61cc607a0a95c1d3a3bdbd'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOwoKcHVibGljIGNsYXNzIFNhbGFy\neSB7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdz\nKSB7CiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIoU3lzdGVt\nLmluKTsKCiAgICAgICAgaW50IGJhc2ljID0gc2Nhbi5uZXh0SW50KCk7CiAg\nICAgICAgaW50IGhyYSA9IHNjYW4ubmV4dEludCgpOwogICAgICAgIGludCBi\nb251cyA9IHNjYW4ubmV4dEludCgpOwogICAgICAgIGludCB0YXggPSBzY2Fu\nLm5leHRJbnQoKTsKICAgICAgICBpbnQgcGYgPXNjYW4ubmV4dEludCgpOwoK\nICAgICAgICBpbnQgdG90YWwgPSBiYXNpYytocmErYm9udXMtdGF4LXBmOwoK\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG90YWwpOwogICAgfQp9Cg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/726ff8ca378a99cc9d61cc607a0a95c1d3a3bdbd/java%20Basic/Salary1.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/1f3488838cfa1e5e2828b736ff6ebb13fb4a5d73', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/726ff8ca378a99cc9d61cc607a0a95c1d3a3bdbd/java%20Basic/Salary1.java', 'name': 'Salary1.java', 'path': 'java Basic/Salary1.java', 'sha': '1f3488838cfa1e5e2828b736ff6ebb13fb4a5d73', 'size': 403, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/java%20Basic/Salary1.java?ref=726ff8ca378a99cc9d61cc607a0a95c1d3a3bdbd'}
+import java.util.Scanner;
+
+public class Salary {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int basic = scan.nextInt();
+        int hra = scan.nextInt();
+        int bonus = scan.nextInt();
+        int tax = scan.nextInt();
+        int pf =scan.nextInt();
+
+        int total = basic+hra+bonus-tax-pf;
+
+        System.out.println(total);
+    }
+}
