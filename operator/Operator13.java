@@ -1,1 +1,19 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/809f6abd0119273ba80932f310e167841e494443', 'html': 'https://github.com/kaarthi2005/Java-/blob/65b53b67286df2a178eec431412699a402e12d07/operator/Operator13.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator13.java?ref=65b53b67286df2a178eec431412699a402e12d07'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgT3Bl\ncmF0b3IxMyB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KDQogICAgICAgIGludCBjb25uZWN0aW9uVmFsdWUg\nPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgaW50IGFwcGxpYW5jZU1hc2sg\nPSBzY2FuLm5leHRJbnQoKTsNCg0KICAgICAgICBpbnQgdmFsID0gY29ubmVj\ndGlvblZhbHVlICYgYXBwbGlhbmNlTWFzazsNCg0KICAgICAgICBpZih2YWw+\nMCl7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkFjaXR2ZSIp\nOw0KICAgICAgICB9ZWxzZXsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbigiSW5hY3RpdmUiKTsNCiAgICAgICAgfQ0KICAgIHNjYW4uY2xvc2Uo\nKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/65b53b67286df2a178eec431412699a402e12d07/operator/Operator13.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/809f6abd0119273ba80932f310e167841e494443', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/65b53b67286df2a178eec431412699a402e12d07/operator/Operator13.java', 'name': 'Operator13.java', 'path': 'operator/Operator13.java', 'sha': '809f6abd0119273ba80932f310e167841e494443', 'size': 464, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator13.java?ref=65b53b67286df2a178eec431412699a402e12d07'}
+import java.util.Scanner;
+
+public class Operator13 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int connectionValue = scan.nextInt();
+        int applianceMask = scan.nextInt();
+
+        int val = connectionValue & applianceMask;
+
+        if(val>0){
+            System.out.println("Acitve");
+        }else{
+            System.out.println("Inactive");
+        }
+    scan.close();
+    }
+}

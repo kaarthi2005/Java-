@@ -1,1 +1,21 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/5447eaf652ec203751baba0678c389587f72f492', 'html': 'https://github.com/kaarthi2005/Java-/blob/11b4f6c2c32aa093bf3ff0c67c490249b4c221c1/operator/Operator1.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator1.java?ref=11b4f6c2c32aa093bf3ff0c67c490249b4c221c1'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOwoKcHVibGljIGNsYXNzIE9wZXJhdG9yMSB7\nCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7\nCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIoU3lzdGVtLmlu\nKTsKICAgICAgICBpbnQgYSA9IHNjYW4ubmV4dEludCgpOwogICAgICAgIGlu\ndCBiID0gc2Nhbi5uZXh0SW50KCk7CgogICAgICAgIGludCBjID0gYSArIGI7\nCiAgICAgICAgaW50IGF2ZXJhZ2UgPSBjIC8gMjsKCiAgICAgICAgaWYgKGF2\nZXJhZ2UgPj0gNjAgJiYgYSA+PSA1MCkgewogICAgICAgICAgICBpZiAoYiA+\nPSA1MCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJQ\nYXNzIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgfSBlbHNlIHsKICAgICAg\nICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGYWlsIik7CiAgICAgICAgfQog\nICAgfQp9Cg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/11b4f6c2c32aa093bf3ff0c67c490249b4c221c1/operator/Operator1.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/5447eaf652ec203751baba0678c389587f72f492', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/11b4f6c2c32aa093bf3ff0c67c490249b4c221c1/operator/Operator1.java', 'name': 'Operator1.java', 'path': 'operator/Operator1.java', 'sha': '5447eaf652ec203751baba0678c389587f72f492', 'size': 457, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator1.java?ref=11b4f6c2c32aa093bf3ff0c67c490249b4c221c1'}
+import java.util.*;
+
+public class Operator1 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        int b = scan.nextInt();
+
+        int c = a + b;
+        int average = c / 2;
+
+        if (average >= 60 && a >= 50) {
+            if (b >= 50) {
+                System.out.println("Pass");
+            }
+
+        } else {
+            System.out.println("Fail");
+        }
+    }
+}

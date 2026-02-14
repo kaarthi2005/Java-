@@ -1,1 +1,14 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/c4fb668341a1a4b04829b0fe255017956093a1f9', 'html': 'https://github.com/kaarthi2005/Java-/blob/3bbc69b9e87096d839d20ac703f7aacf841122d5/operator/Operator12.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator12.java?ref=3bbc69b9e87096d839d20ac703f7aacf841122d5'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgT3Bl\ncmF0b3IxMiB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KDQogICAgICAgIGludCBmaWxlU2l6ZSA9IHNjYW4u\nbmV4dEludCgpOw0KICAgICAgICBpbnQgY29tcHJlc3NpbkN5Y2xlcyA9IHNj\nYW4ubmV4dEludCgpOw0KDQogICAgICAgIGludCBzaXplID0gZmlsZVNpemUg\nPj4gY29tcHJlc3NpbkN5Y2xlczsNCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKHNpemUpOw0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/3bbc69b9e87096d839d20ac703f7aacf841122d5/operator/Operator12.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/c4fb668341a1a4b04829b0fe255017956093a1f9', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/3bbc69b9e87096d839d20ac703f7aacf841122d5/operator/Operator12.java', 'name': 'Operator12.java', 'path': 'operator/Operator12.java', 'sha': 'c4fb668341a1a4b04829b0fe255017956093a1f9', 'size': 360, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator12.java?ref=3bbc69b9e87096d839d20ac703f7aacf841122d5'}
+import java.util.Scanner;
+
+public class Operator12 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int fileSize = scan.nextInt();
+        int compressinCycles = scan.nextInt();
+
+        int size = fileSize >> compressinCycles;
+        System.out.println(size);
+        scan.close();
+    }
+}

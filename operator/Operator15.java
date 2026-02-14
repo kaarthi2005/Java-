@@ -1,1 +1,14 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/39dc09c4671477110b3a14363ab99976ff680273', 'html': 'https://github.com/kaarthi2005/Java-/blob/cf1e002587df4468db0fe669fd4a4eb9d3e318c4/operator/Operator15.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator15.java?ref=cf1e002587df4468db0fe669fd4a4eb9d3e318c4'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgT3Bl\ncmF0b3IxNSB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KDQogICAgICAgIGludCBzaW5nbmFsMSA9IHNjYW4u\nbmV4dEludCgpOw0KICAgICAgICBpbnQgc2luZ25hbDIgPSBzY2FuLm5leHRJ\nbnQoKTsNCg0KICAgICAgIGludCB2YWwgPSBzaW5nbmFsMV5zaW5nbmFsMjsN\nCiAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmFsKTsNCiAgICBzY2FuLmNs\nb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/cf1e002587df4468db0fe669fd4a4eb9d3e318c4/operator/Operator15.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/39dc09c4671477110b3a14363ab99976ff680273', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/cf1e002587df4468db0fe669fd4a4eb9d3e318c4/operator/Operator15.java', 'name': 'Operator15.java', 'path': 'operator/Operator15.java', 'sha': '39dc09c4671477110b3a14363ab99976ff680273', 'size': 333, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator15.java?ref=cf1e002587df4468db0fe669fd4a4eb9d3e318c4'}
+import java.util.Scanner;
+
+public class Operator15 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int singnal1 = scan.nextInt();
+        int singnal2 = scan.nextInt();
+
+       int val = singnal1^singnal2;
+       System.out.println(val);
+    scan.close();
+    }
+}

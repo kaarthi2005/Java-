@@ -1,1 +1,16 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/54ac4a34a571993d913be2aa8407e964c7338a4f', 'html': 'https://github.com/kaarthi2005/Java-/blob/59ad13553022915cd32950a2af42ff68f9f3d6f2/operator/Operator5.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator5.java?ref=59ad13553022915cd32950a2af42ff68f9f3d6f2'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgT3Bl\ncmF0b3I1IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQoNCiAgICAgICAgaW50IHNhbGFyeSA9IHNjYW4ubmV4\ndEludCgpOw0KICAgICAgICBpbnQgY2liaWwgPSBzY2FuLm5leHRJbnQoKTsN\nCg0KICAgICAgICBpZihzYWxhcnkgPiAyNTAwMCAmJiBjaWJpbCA+NzAwKXsN\nCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTG9hbiBBcHByb3Zl\nZCIpOw0KICAgICAgICB9ZWxzZXsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQu\ncHJpbnRsbigiTG9hbiBSZWplY3RlZCIpOw0KICAgICAgICB9DQogICAgfQ0K\nfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/59ad13553022915cd32950a2af42ff68f9f3d6f2/operator/Operator5.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/54ac4a34a571993d913be2aa8407e964c7338a4f', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/59ad13553022915cd32950a2af42ff68f9f3d6f2/operator/Operator5.java', 'name': 'Operator5.java', 'path': 'operator/Operator5.java', 'sha': '54ac4a34a571993d913be2aa8407e964c7338a4f', 'size': 408, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator5.java?ref=59ad13553022915cd32950a2af42ff68f9f3d6f2'}
+import java.util.Scanner;
+
+public class Operator5 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int salary = scan.nextInt();
+        int cibil = scan.nextInt();
+
+        if(salary > 25000 && cibil >700){
+            System.out.println("Loan Approved");
+        }else{
+            System.out.println("Loan Rejected");
+        }
+    }
+}

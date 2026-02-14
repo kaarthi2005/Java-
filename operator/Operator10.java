@@ -1,1 +1,17 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/0705bd71e69f75db3a6c18a769298e1109f004c2', 'html': 'https://github.com/kaarthi2005/Java-/blob/0d8070d3333747507bdec05eaf1af50ed1d56c8c/operator/Operator10.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator10.java?ref=0d8070d3333747507bdec05eaf1af50ed1d56c8c'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgT3Bl\ncmF0b3IxMCB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KDQogICAgICAgIGludCB1bml0Q29uc3VtZWQgPSBz\nY2FuLm5leHRJbnQoKTsNCiAgICAgICAgaW50IHZvbHRhZ2VGbHVjdHVhdGlv\nbiA9IHNjYW4ubmV4dEludCgpOw0KDQogICAgICAgIGlmKHVuaXRDb25zdW1l\nZCA+IDUwMCAgfHwgdm9sdGFnZUZsdWN0dWF0aW9uID09IDEpew0KICAgICAg\nICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBbGVydCIpOw0KICAgICAgICB9\nZWxzZXsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTm9ybWFs\nIik7DQogICAgICAgIH0NCiAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/0d8070d3333747507bdec05eaf1af50ed1d56c8c/operator/Operator10.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/0705bd71e69f75db3a6c18a769298e1109f004c2', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/0d8070d3333747507bdec05eaf1af50ed1d56c8c/operator/Operator10.java', 'name': 'Operator10.java', 'path': 'operator/Operator10.java', 'sha': '0705bd71e69f75db3a6c18a769298e1109f004c2', 'size': 450, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator10.java?ref=0d8070d3333747507bdec05eaf1af50ed1d56c8c'}
+import java.util.Scanner;
+
+public class Operator10 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int unitConsumed = scan.nextInt();
+        int voltageFluctuation = scan.nextInt();
+
+        if(unitConsumed > 500  || voltageFluctuation == 1){
+            System.out.println("Alert");
+        }else{
+            System.out.println("Normal");
+        }
+    scan.close();
+    }
+}

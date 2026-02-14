@@ -1,1 +1,17 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3cf793fb95f683210355b216930b814e2f39b72f', 'html': 'https://github.com/kaarthi2005/Java-/blob/64fdf4b3ae99d4b1757a89f57813b40f6833ca4d/operator/Operator9.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator9.java?ref=64fdf4b3ae99d4b1757a89f57813b40f6833ca4d'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgT3Bl\ncmF0b3I5IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQoNCiAgICAgICAgaW50IHVzZXJuYW1lID0gc2Nhbi5u\nZXh0SW50KCk7DQogICAgICAgIGludCBwYXNzd29yZCA9IHNjYW4ubmV4dElu\ndCgpOw0KICAgICAgICBpbnQgYWNjb3VudGxvY2sgPSBzY2FuLm5leHRJbnQo\nKTsNCg0KICAgICAgICBpZih1c2VybmFtZSA9PTEgJiYgcGFzc3dvcmQgPT0x\nICYmIGFjY291bnRsb2NrID09MCl7DQogICAgICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oIlN1Y2Nlc3MiKTsNCiAgICAgICAgfWVsc2V7DQogICAgICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZhaWxlZCIpOw0KICAgICAgICB9\nDQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/64fdf4b3ae99d4b1757a89f57813b40f6833ca4d/operator/Operator9.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3cf793fb95f683210355b216930b814e2f39b72f', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/64fdf4b3ae99d4b1757a89f57813b40f6833ca4d/operator/Operator9.java', 'name': 'Operator9.java', 'path': 'operator/Operator9.java', 'sha': '3cf793fb95f683210355b216930b814e2f39b72f', 'size': 462, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/operator/Operator9.java?ref=64fdf4b3ae99d4b1757a89f57813b40f6833ca4d'}
+import java.util.Scanner;
+
+public class Operator9 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int username = scan.nextInt();
+        int password = scan.nextInt();
+        int accountlock = scan.nextInt();
+
+        if(username ==1 && password ==1 && accountlock ==0){
+            System.out.println("Success");
+        }else{
+            System.out.println("Failed");
+        }
+    }
+}
