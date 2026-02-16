@@ -1,1 +1,47 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/2717dc950847c19d4b973dcd7686a580bdfd7db7', 'html': 'https://github.com/kaarthi2005/Java-/blob/298b4319a168923a47e9fc8032ea4bc072a12431/Conditonal_Statement/Conditonal3.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal3.java?ref=298b4319a168923a47e9fc8032ea4bc072a12431'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDMgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgaW50IGFnZSA9IHNjYW4ubmV4dElu\ndCgpOw0KDQogICAgICAgIHNjYW4ubmV4dExpbmUoKTsNCiAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCJzbW9raW5nU3RhdHVzIChTbW9rZXIgb3IgTm9u\nLVNtb2tlcikiKTsNCiAgICAgICAgU3RyaW5nIFNtb2tpbmdfU3RhdHVzID0g\nc2Nhbi5uZXh0TGluZSgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIiBwcmVFeGlzdGluZ0NvbmRpdGlvbnMgKFllcyBvciBObykiKTsNCiAgICAg\nICAgU3RyaW5nIGNvbmRpdG9uID0gc2Nhbi5uZXh0TGluZSgpOw0KICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oImNvdmVyYWdlVGllciAoQmFzaWMsIFN0\nYW5kYXJkLCBvciBQcmVtaXVtIik7DQogICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbigiQmFzaWMgKCQyMDAvJDI1MC8kMzUwLyQ0MDApLCBTdGFuZGFyZCAo\nJDMwMC8kMzUwLyQ0NTAvJDU1MCksIFByZW1pdW0gKCQ1MDAvJDYwMC8kNzAw\nLyQ4MDApIiApOw0KICAgICAgICBTdHJpbmcgQ292ZXJhZ2UgPSBzY2FuLm5l\neHRMaW5lKCk7DQogICAgICAgIGZsb2F0IGFtb3VudCA9IHNjYW4ubmV4dElu\ndCgpOw0KDQoNCg0KICAgICAgIA0KICAgICAgICBmbG9hdCByaXNrID0gMDsN\nCiAgICAgICAgIA0KDQogICAgICAgIGlmIChhZ2UgPD0gMTggJiYgYWdlID49\nIDEwMCkgew0KICAgICAgICAgICBpZihTbW9raW5nX1N0YXR1cy5lcXVhbHMo\nIlNtb2tlciIpICYmIGNvbmRpdG9uLmVxdWFscygiWWVzIikpew0KICAgICAg\nICAgICAgcmlzayA9IDcwOw0KICAgICAgICAgICB9ZWxzZSBpZihTbW9raW5n\nX1N0YXR1cy5lcXVhbHMoIlNtb2tlciIpKXsNCiAgICAgICAgICAgIHJpc2sg\nPSA0MDsNCiAgICAgICAgICAgfWVsc2UgaWYoY29uZGl0b24uZXF1YWxzKCJZ\nZXMiKSl7DQogICAgICAgICAgICByaXNrID0gMzA7DQogICAgICAgICAgIH0N\nCiAgICAgICAgfQ0KDQogICAgICAgIGZsb2F0IHRvdGFsID0gKGFtb3VudCpy\naXNrKS8xMDAuMGY7DQogICAgICAgIGZsb2F0IG91dHB1dCA9IHRvdGFsK2Ft\nb3VudDsNCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkFnZTogIith\nZ2UpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNtb2tpbmcgU3Rh\ndHVzOiAiK1Ntb2tpbmdfU3RhdHVzKTsNCiAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCJQcmUtZXhpc3RpbmcgQ29uZGl0aW9uczogIitjb25kaXRvbik7\nDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ292ZXJhZ2UgVGllcjog\nIitDb3ZlcmFnZSk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmFz\nZSBQcmVtaXVtOiAkIithbW91bnQpOw0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oIlJpc2sgU3VyY2hhcmdlOiAkIit0b3RhbCk7DQogICAgICAgIFN5\nc3RlbS5vdXQucHJpbnRsbigiVG90YWwgTW9udGhseSBQcmVtaXVtOiAkIitv\ndXRwdXQpOw0KDQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/298b4319a168923a47e9fc8032ea4bc072a12431/Conditonal_Statement/Conditonal3.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/2717dc950847c19d4b973dcd7686a580bdfd7db7', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/298b4319a168923a47e9fc8032ea4bc072a12431/Conditonal_Statement/Conditonal3.java', 'name': 'Conditonal3.java', 'path': 'Conditonal_Statement/Conditonal3.java', 'sha': '2717dc950847c19d4b973dcd7686a580bdfd7db7', 'size': 1619, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal3.java?ref=298b4319a168923a47e9fc8032ea4bc072a12431'}
+import java.util.Scanner;
+
+public class Conditonal3 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int age = scan.nextInt();
+
+        scan.nextLine();
+        System.out.println("smokingStatus (Smoker or Non-Smoker)");
+        String Smoking_Status = scan.nextLine();
+        System.out.println(" preExistingConditions (Yes or No)");
+        String conditon = scan.nextLine();
+        System.out.println("coverageTier (Basic, Standard, or Premium");
+        System.out.println("Basic ($200/$250/$350/$400), Standard ($300/$350/$450/$550), Premium ($500/$600/$700/$800)" );
+        String Coverage = scan.nextLine();
+        float amount = scan.nextInt();
+
+
+
+       
+        float risk = 0;
+         
+
+        if (age <= 18 && age >= 100) {
+           if(Smoking_Status.equals("Smoker") && conditon.equals("Yes")){
+            risk = 70;
+           }else if(Smoking_Status.equals("Smoker")){
+            risk = 40;
+           }else if(conditon.equals("Yes")){
+            risk = 30;
+           }
+        }
+
+        float total = (amount*risk)/100.0f;
+        float output = total+amount;
+
+        System.out.println("Age: "+age);
+        System.out.println("Smoking Status: "+Smoking_Status);
+        System.out.println("Pre-existing Conditions: "+conditon);
+        System.out.println("Coverage Tier: "+Coverage);
+        System.out.println("Base Premium: $"+amount);
+        System.out.println("Risk Surcharge: $"+total);
+        System.out.println("Total Monthly Premium: $"+output);
+
+        scan.close();
+    }
+}
