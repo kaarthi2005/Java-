@@ -1,1 +1,83 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/49733561762c528a522191cecb22d469adb30298', 'html': 'https://github.com/kaarthi2005/Java-/blob/1ef225693e6e19fb0edc07a6161fa6f3cedaff5e/Conditonal_Statement/Conditonal5.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal5.java?ref=1ef225693e6e19fb0edc07a6161fa6f3cedaff5e'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDUgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJF\nbnRlciBHUEEgMC4wIHRvIDQuMDogIik7DQogICAgICAgIGZsb2F0IEdQQSA9\nIHNjYW4ubmV4dEZsb2F0KCk7DQoNCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJFTnRlciB5b3VyIEZhbWlsIGlubmNvbWUgOiAiKTsNCiAgICAgICAg\nZmxvYXQgSW5jb21lID0gc2Nhbi5uZXh0RmxvYXQoKTsNCg0KICAgICAgICBT\neXN0ZW0ub3V0LnByaW50bG4oIkV4dHJhQ3VycmljdWxhclNjb3JlIDAgdG8g\nMTAwIik7DQogICAgICAgIGludCBleHRyYWN1cnJpY3VsYXJfU2NvcmUgPSBz\nY2FuLm5leHRJbnQoKTsNCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIiBzY2hvbGFyc2hpcFR5cGUgKE1lcml0LCBOZWVkLUJhc2VkLCBvciBTcG9y\ndHMpIik7DQogICAgICAgIHNjYW4ubmV4dExpbmUoKTsNCg0KICAgICAgICBT\ndHJpbmcgc2Nob3JzaGlwX1R5cGUgPSBzY2FuLm5leHRMaW5lKCk7DQogICAg\nICAgIFN0cmluZyBBd2FyZF9DYXRlZ29yeSA9Ik5vbmUiOw0KICAgICAgICBp\nbnQgQXdhcmRfQW1vdW50ID0gMDsNCiAgICAgICAgaW50IGEgPSAxOw0KDQog\nICAgICAgIGlmKEdQQSA+PTIuNSl7DQogICAgICAgICAgICBpZihzY2hvcnNo\naXBfVHlwZS5lcXVhbHMoIk1lcml0Iikpew0KICAgICAgICAgICAgICAgIGlm\nKEdQQT49My44ICAmJiBleHRyYWN1cnJpY3VsYXJfU2NvcmUgPj04MCl7DQog\nICAgICAgICAgICAgICAgICAgIEF3YXJkX0NhdGVnb3J5ID0gIkZ1bGwiOw0K\nICAgICAgICAgICAgICAgICAgICBBd2FyZF9BbW91bnQgPSAyNTAwMDsNCiAg\nICAgICAgICAgICAgICB9ZWxzZSBpZihHUEE+PTMuNSAgJiYgZXh0cmFjdXJy\naWN1bGFyX1Njb3JlID49NzApew0KICAgICAgICAgICAgICAgICAgICBBd2Fy\nZF9DYXRlZ29yeSA9ICJQYXJ0aWFsIjsNCiAgICAgICAgICAgICAgICAgICAg\nQXdhcmRfQW1vdW50ID0gMTUwMDA7DQogICAgICAgICAgICAgICAgfWVsc2Ug\naWYoR1BBPj0zLjAgICYmIGV4dHJhY3VycmljdWxhcl9TY29yZSA+PTYwKXsN\nCiAgICAgICAgICAgICAgICAgICAgQXdhcmRfQ2F0ZWdvcnkgPSAiTWluaW1h\nbCI7DQogICAgICAgICAgICAgICAgICAgIEF3YXJkX0Ftb3VudCA9IDI1MDAw\nOw0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgIH0NCiAgICAgICAg\nICAgIGVsc2UgaWYoc2Nob3JzaGlwX1R5cGUuZXF1YWxzKCJOZWVkLUJhc2Vk\nIikpew0KICAgICAgICAgICAgICAgIGlmKEdQQT49My41ICAmJiBJbmNvbWUg\nPD0zMDAwMCl7DQogICAgICAgICAgICAgICAgICAgIEF3YXJkX0NhdGVnb3J5\nID0gIkZ1bGwiOw0KICAgICAgICAgICAgICAgICAgICBBd2FyZF9BbW91bnQg\nPSAzMDAwMDsNCiAgICAgICAgICAgICAgICB9ZWxzZSBpZihHUEE+PTMuMCAg\nJiYgSW5jb21lIDw9NTAwMDApew0KICAgICAgICAgICAgICAgICAgICBBd2Fy\nZF9DYXRlZ29yeSA9ICJQYXJ0aWFsIjsNCiAgICAgICAgICAgICAgICAgICAg\nQXdhcmRfQW1vdW50ID0gMTgwMDA7DQogICAgICAgICAgICAgICAgfWVsc2Ug\naWYoR1BBPj0yLjggICYmIEluY29tZSA8PTcwMDAwKXsNCiAgICAgICAgICAg\nICAgICAgICAgQXdhcmRfQ2F0ZWdvcnkgPSAiTWluaW1hbCI7DQogICAgICAg\nICAgICAgICAgICAgIEF3YXJkX0Ftb3VudCA9IDEwMDAwOw0KICAgICAgICAg\nICAgICAgIH0NCiAgICAgICAgICAgIH0NCiAgICAgICAgICAgIGVsc2UgICBp\nZihzY2hvcnNoaXBfVHlwZS5lcXVhbHMoIk1lcml0Iikpew0KICAgICAgICAg\nICAgICAgIGlmKEdQQT49My4wICAmJiBleHRyYWN1cnJpY3VsYXJfU2NvcmUg\nPj04NSl7DQogICAgICAgICAgICAgICAgICAgIEF3YXJkX0NhdGVnb3J5ID0g\nIkZ1bGwiOw0KICAgICAgICAgICAgICAgICAgICBBd2FyZF9BbW91bnQgPSAy\nMjAwMDsNCiAgICAgICAgICAgICAgICB9ZWxzZSBpZihHUEE+PTIuOCAgJiYg\nZXh0cmFjdXJyaWN1bGFyX1Njb3JlID49NzUpew0KICAgICAgICAgICAgICAg\nICAgICBBd2FyZF9DYXRlZ29yeSA9ICJQYXJ0aWFsIjsNCiAgICAgICAgICAg\nICAgICAgICAgQXdhcmRfQW1vdW50ID0gMjAwMDA7DQogICAgICAgICAgICAg\nICAgfWVsc2UgaWYoR1BBPj0yLjUgICYmIGV4dHJhY3VycmljdWxhcl9TY29y\nZSA+PTY1KXsNCiAgICAgICAgICAgICAgICAgICAgQXdhcmRfQ2F0ZWdvcnkg\nPSAiTWluaW1hbCI7DQogICAgICAgICAgICAgICAgICAgIEF3YXJkX0Ftb3Vu\ndCA9IDEyMDAwOw0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgIH0N\nCiAgICAgICAgfWVsc2V7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oIlRoZSBtaW5pbXVtIEVsaWdpYmlsaXR5IG5lZWQgQWJvdmUgMi41IC4i\nKTsNCiAgICAgICAgICAgIGEgPTA7DQogICAgICAgIH0NCg0KICAgICAgICBp\nZihhPT0xKXsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiR1BB\nOiAiK0dQQSk7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZh\nbWlseSBJbmNvbWU6ICQiK0luY29tZSk7DQogICAgICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50bG4oIkV4dHJhY3VycmljdWxhciBTY29yZTogIitleHRyYWN1\ncnJpY3VsYXJfU2NvcmUpOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJTY2hvbGFyc2hpcCBUeXBlOiAiK3NjaG9yc2hpcF9UeXBlKTsNCiAg\nICAgICAgICAgIGlmKEF3YXJkX0Ftb3VudCA9PSAwKXsNCiAgICAgICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiRWxpZ2liaWxpdHk6IE5vdCBFbGlnaWJs\nZSIpOw0KICAgICAgICAgICAgfWVsc2V7DQogICAgICAgICAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCJFbGlnaWJpbGl0eTogRWxpZ2libGUiKTsNCiAg\nICAgICAgICAgIH0NCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nQXdhcmQgQW1vdW50OiAkIitBd2FyZF9BbW91bnQpOw0KICAgICAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKCJBd2FyZCBDYXRlZ29yeTogIitBd2FyZF9D\nYXRlZ29yeSk7DQogICAgICAgIH0NCg0KDQoNCiAgICAgICAgc2Nhbi5jbG9z\nZSgpOw0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/1ef225693e6e19fb0edc07a6161fa6f3cedaff5e/Conditonal_Statement/Conditonal5.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/49733561762c528a522191cecb22d469adb30298', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/1ef225693e6e19fb0edc07a6161fa6f3cedaff5e/Conditonal_Statement/Conditonal5.java', 'name': 'Conditonal5.java', 'path': 'Conditonal_Statement/Conditonal5.java', 'sha': '49733561762c528a522191cecb22d469adb30298', 'size': 3166, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal5.java?ref=1ef225693e6e19fb0edc07a6161fa6f3cedaff5e'}
+import java.util.Scanner;
+
+public class Conditonal5 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter GPA 0.0 to 4.0: ");
+        float GPA = scan.nextFloat();
+
+        System.out.println("ENter your Famil inncome : ");
+        float Income = scan.nextFloat();
+
+        System.out.println("ExtraCurricularScore 0 to 100");
+        int extracurricular_Score = scan.nextInt();
+
+        System.out.println(" scholarshipType (Merit, Need-Based, or Sports)");
+        scan.nextLine();
+
+        String schorship_Type = scan.nextLine();
+        String Award_Category ="None";
+        int Award_Amount = 0;
+        int a = 1;
+
+        if(GPA >=2.5){
+            if(schorship_Type.equals("Merit")){
+                if(GPA>=3.8  && extracurricular_Score >=80){
+                    Award_Category = "Full";
+                    Award_Amount = 25000;
+                }else if(GPA>=3.5  && extracurricular_Score >=70){
+                    Award_Category = "Partial";
+                    Award_Amount = 15000;
+                }else if(GPA>=3.0  && extracurricular_Score >=60){
+                    Award_Category = "Minimal";
+                    Award_Amount = 25000;
+                }
+            }
+            else if(schorship_Type.equals("Need-Based")){
+                if(GPA>=3.5  && Income <=30000){
+                    Award_Category = "Full";
+                    Award_Amount = 30000;
+                }else if(GPA>=3.0  && Income <=50000){
+                    Award_Category = "Partial";
+                    Award_Amount = 18000;
+                }else if(GPA>=2.8  && Income <=70000){
+                    Award_Category = "Minimal";
+                    Award_Amount = 10000;
+                }
+            }
+            else   if(schorship_Type.equals("Merit")){
+                if(GPA>=3.0  && extracurricular_Score >=85){
+                    Award_Category = "Full";
+                    Award_Amount = 22000;
+                }else if(GPA>=2.8  && extracurricular_Score >=75){
+                    Award_Category = "Partial";
+                    Award_Amount = 20000;
+                }else if(GPA>=2.5  && extracurricular_Score >=65){
+                    Award_Category = "Minimal";
+                    Award_Amount = 12000;
+                }
+            }
+        }else{
+            System.out.println("The minimum Eligibility need Above 2.5 .");
+            a =0;
+        }
+
+        if(a==1){
+            System.out.println("GPA: "+GPA);
+            System.out.println("Family Income: $"+Income);
+            System.out.println("Extracurricular Score: "+extracurricular_Score);
+            System.out.println("Scholarship Type: "+schorship_Type);
+            if(Award_Amount == 0){
+            System.out.println("Eligibility: Not Eligible");
+            }else{
+                System.out.println("Eligibility: Eligible");
+            }
+            System.out.println("Award Amount: $"+Award_Amount);
+            System.out.println("Award Category: "+Award_Category);
+        }
+
+
+
+        scan.close();
+    }
+}

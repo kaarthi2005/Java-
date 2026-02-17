@@ -1,1 +1,79 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9e4c8bfcbd8c39df634c1b4d18ffb425d552c30c', 'html': 'https://github.com/kaarthi2005/Java-/blob/6d774e614a5daca70fb1bc6bf4d2ac586db166b9/Conditonal_Statement/Conditonal8.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal8.java?ref=6d774e614a5daca70fb1bc6bf4d2ac586db166b9'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDggew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCg0KICAgICAgICBTdHJpbmcgbG9jYXRpb25UaWVy\nID0gc2Nhbi5uZXh0TGluZSgpOw0KICAgICAgICBpbnQgc3F1YXJlRm9vdGFn\nZSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICBpbnQgcHJvcGVydHlBZ2Ug\nPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgaW50IGFtZW5pdHlTY29yZSA9\nIHNjYW4ubmV4dEludCgpOw0KDQogICAgICAgIGludCBhZ2VQZXJjZW50ID0g\nMDsNCiAgICAgICAgaWYgKHByb3BlcnR5QWdlIDw9IDUpIHsNCiAgICAgICAg\nICAgIGFnZVBlcmNlbnQgPSAwOw0KICAgICAgICB9IGVsc2UgaWYgKHByb3Bl\ncnR5QWdlIDw9IDEwKSB7DQogICAgICAgICAgICBhZ2VQZXJjZW50ID0gLTU7\nDQogICAgICAgIH0gZWxzZSBpZiAocHJvcGVydHlBZ2UgPD0gMTUpIHsNCiAg\nICAgICAgICAgIGFnZVBlcmNlbnQgPSAtMTA7DQogICAgICAgIH0gZWxzZSBp\nZiAocHJvcGVydHlBZ2UgPD0gMjUpIHsNCiAgICAgICAgICAgIGFnZVBlcmNl\nbnQgPSAtMTU7DQogICAgICAgIH0gZWxzZSBpZiAocHJvcGVydHlBZ2UgPD0g\nMzApIHsNCiAgICAgICAgICAgIGFnZVBlcmNlbnQgPSAtMjA7DQogICAgICAg\nIH0gZWxzZSB7DQogICAgICAgICAgICBhZ2VQZXJjZW50ID0gLTMwOyAgDQog\nICAgICAgIH0NCg0KICAgICAgICBmbG9hdCBiYXNlX1ByaWNlID0gMDsNCiAg\nICAgICAgaWYgKGxvY2F0aW9uVGllci5lcXVhbHMoIlByaW1lIikpIHsNCiAg\nICAgICAgICAgIGJhc2VfUHJpY2UgPSA0MDA7DQogICAgICAgIH0gZWxzZSBp\nZiAobG9jYXRpb25UaWVyLmVxdWFscygiVXJiYW4iKSkgew0KICAgICAgICAg\nICAgYmFzZV9QcmljZSA9IDMwMDsNCiAgICAgICAgfSBlbHNlIGlmIChsb2Nh\ndGlvblRpZXIuZXF1YWxzKCJTdWJ1cmJhbiIpKSB7DQogICAgICAgICAgICBi\nYXNlX1ByaWNlID0gMTgwOw0KICAgICAgICB9IGVsc2UgaWYgKGxvY2F0aW9u\nVGllci5lcXVhbHMoIlJ1cmFsIikpIHsNCiAgICAgICAgICAgIGJhc2VfUHJp\nY2UgPSAxMDA7DQogICAgICAgIH0NCiAgICAgICAgZmxvYXQgYmFzZVZhbHVl\nID0gc3F1YXJlRm9vdGFnZSAqIGJhc2VfUHJpY2U7DQogICAgICAgIGZsb2F0\nIGFkanVzdGVkVmFsdWUgPSBiYXNlVmFsdWUgKiAoMSArIGFnZVBlcmNlbnQg\nLyAxMDAuMGYpOw0KDQogICAgICAgIGZsb2F0IGFtZW5pdHlQZXJjZW50ID0g\nMDsNCg0KICAgICAgICBpZiAoYW1lbml0eVNjb3JlID49IDgwICYmIGFtZW5p\ndHlTY29yZSA8PSAxMDApIHsNCiAgICAgICAgICAgIGFtZW5pdHlQZXJjZW50\nID0gMTA7DQogICAgICAgIH0gZWxzZSBpZiAoYW1lbml0eVNjb3JlID49IDYw\nKSB7DQogICAgICAgICAgICBhbWVuaXR5UGVyY2VudCA9IDU7DQogICAgICAg\nIH0gZWxzZSBpZiAoYW1lbml0eVNjb3JlID49IDQwKSB7DQogICAgICAgICAg\nICBhbWVuaXR5UGVyY2VudCA9IDI7DQogICAgICAgIH0gZWxzZSB7DQogICAg\nICAgICAgICBhbWVuaXR5UGVyY2VudCA9IDA7DQogICAgICAgIH0NCg0KICAg\nICAgICBmbG9hdCBhbWVuaXR5X0JvbnVzID0gYmFzZVZhbHVlICogKGFtZW5p\ndHlQZXJjZW50IC8gMTAwLjBmKTsNCiAgICAgICAgZmxvYXQgZmluYWxWYWx1\nZSA9IGFkanVzdGVkVmFsdWUgKyBhbWVuaXR5X0JvbnVzOw0KDQogICAgICAg\nIA0KICAgICAgICBTdHJpbmcgbWFya2V0PSBudWxsOzsNCiAgICAgICAgaWYg\nKChsb2NhdGlvblRpZXIuZXF1YWxzKCJQcmltZSIpIHx8IGxvY2F0aW9uVGll\nci5lcXVhbHMoIlVyYmFuIikpIA0KICAgICAgICAgICAgICAgICYmIHByb3Bl\ncnR5QWdlIDwgMTUpIHsNCiAgICAgICAgICAgIG1hcmtldCA9ICJIb3QiOw0K\nICAgICAgICB9IGVsc2UgaWYgKGxvY2F0aW9uVGllci5lcXVhbHMoIlN1YnVy\nYmFuIikpIHsNCiAgICAgICAgICAgIG1hcmtldCA9ICJTdGFibGUiOw0KICAg\nICAgICB9IGVsc2Ugew0KICAgICAgICAgICAgbWFya2V0ID0gIlNsb3ciOw0K\nICAgICAgICB9DQoNCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkxv\nY2F0aW9uIFRpZXI6ICIgKyBsb2NhdGlvblRpZXIpOw0KICAgICAgICBTeXN0\nZW0ub3V0LnByaW50bG4oIlNxdWFyZSBGb290YWdlOiAiICsgc3F1YXJlRm9v\ndGFnZSArICIgc3EgZnQiKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJQcm9wZXJ0eSBBZ2U6ICIgKyBwcm9wZXJ0eUFnZSArICIgeWVhcnMiKTsN\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBbWVuaXR5IFNjb3JlOiAi\nICsgYW1lbml0eVNjb3JlKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJCYXNlIFByaWNlIFBlciBTcSBGdDogJCIgKyBiYXNlX1ByaWNlKTsNCiAg\nICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBZ2UgQWRqdXN0bWVudDogIiAr\nIGFnZVBlcmNlbnQgKyAiJSIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oIkFtZW5pdHkgQm9udXM6ICQiICsgYW1lbml0eV9Cb251cyk7DQogICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRXN0aW1hdGVkIFByb3BlcnR5IFZh\nbHVlOiAkIiArIGZpbmFsVmFsdWUpOw0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oIk1hcmtldCBDYXRlZ29yeTogIiArIG1hcmtldCk7DQoNCiAgICAg\nICAgc2Nhbi5jbG9zZSgpOw0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/6d774e614a5daca70fb1bc6bf4d2ac586db166b9/Conditonal_Statement/Conditonal8.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9e4c8bfcbd8c39df634c1b4d18ffb425d552c30c', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/6d774e614a5daca70fb1bc6bf4d2ac586db166b9/Conditonal_Statement/Conditonal8.java', 'name': 'Conditonal8.java', 'path': 'Conditonal_Statement/Conditonal8.java', 'sha': '9e4c8bfcbd8c39df634c1b4d18ffb425d552c30c', 'size': 2728, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal8.java?ref=6d774e614a5daca70fb1bc6bf4d2ac586db166b9'}
+import java.util.Scanner;
+
+public class Conditonal8 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        String locationTier = scan.nextLine();
+        int squareFootage = scan.nextInt();
+        int propertyAge = scan.nextInt();
+        int amenityScore = scan.nextInt();
+
+        int agePercent = 0;
+        if (propertyAge <= 5) {
+            agePercent = 0;
+        } else if (propertyAge <= 10) {
+            agePercent = -5;
+        } else if (propertyAge <= 15) {
+            agePercent = -10;
+        } else if (propertyAge <= 25) {
+            agePercent = -15;
+        } else if (propertyAge <= 30) {
+            agePercent = -20;
+        } else {
+            agePercent = -30;  
+        }
+
+        float base_Price = 0;
+        if (locationTier.equals("Prime")) {
+            base_Price = 400;
+        } else if (locationTier.equals("Urban")) {
+            base_Price = 300;
+        } else if (locationTier.equals("Suburban")) {
+            base_Price = 180;
+        } else if (locationTier.equals("Rural")) {
+            base_Price = 100;
+        }
+        float baseValue = squareFootage * base_Price;
+        float adjustedValue = baseValue * (1 + agePercent / 100.0f);
+
+        float amenityPercent = 0;
+
+        if (amenityScore >= 80 && amenityScore <= 100) {
+            amenityPercent = 10;
+        } else if (amenityScore >= 60) {
+            amenityPercent = 5;
+        } else if (amenityScore >= 40) {
+            amenityPercent = 2;
+        } else {
+            amenityPercent = 0;
+        }
+
+        float amenity_Bonus = baseValue * (amenityPercent / 100.0f);
+        float finalValue = adjustedValue + amenity_Bonus;
+
+        
+        String market= null;;
+        if ((locationTier.equals("Prime") || locationTier.equals("Urban")) 
+                && propertyAge < 15) {
+            market = "Hot";
+        } else if (locationTier.equals("Suburban")) {
+            market = "Stable";
+        } else {
+            market = "Slow";
+        }
+
+
+        System.out.println("Location Tier: " + locationTier);
+        System.out.println("Square Footage: " + squareFootage + " sq ft");
+        System.out.println("Property Age: " + propertyAge + " years");
+        System.out.println("Amenity Score: " + amenityScore);
+        System.out.println("Base Price Per Sq Ft: $" + base_Price);
+        System.out.println("Age Adjustment: " + agePercent + "%");
+        System.out.println("Amenity Bonus: $" + amenity_Bonus);
+        System.out.println("Estimated Property Value: $" + finalValue);
+        System.out.println("Market Category: " + market);
+
+        scan.close();
+    }
+}

@@ -1,1 +1,69 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/70da689ba770f1e8f5e8774190a72a2223b1fd1d', 'html': 'https://github.com/kaarthi2005/Java-/blob/b813e4745dcf41508510c5c6f4549f28a04502d7/Conditonal_Statement/Conditonal4.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal4.java?ref=b813e4745dcf41508510c5c6f4549f28a04502d7'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDQgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJs\nb3lhbHR5VGllciAoQnJvbnplLCBTaWx2ZXIsIEdvbGQsIG9yIFBsYXRpbnVt\nKSIpOw0KICAgICAgICBTdHJpbmcgdGllciA9IHNjYW4ubmV4dExpbmUoKTsN\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDYXJ0VmFsdWUiKTsNCiAg\nICAgICAgZmxvYXQgY2FydCA9IHNjYW4ubmV4dEZsb2F0KCk7DQogICAgICAg\nIHNjYW4ubmV4dExpbmUoKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCIgcHJvZHVjdENhdGVnb3J5IChFbGVjdHJvbmljcywgRmFzaGlvbixHcm9j\nZXJpZXMsIG9yIEJvb2tzIik7DQogICAgICAgIFN0cmluZyBDYXRlZ29yeSA9\nIHNjYW4ubmV4dExpbmUoKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCIgbWVtYmVyc2hpcFN0YXR1cyAoUHJpbWUgb3IgUmVndWxhcikiKTsNCiAg\nICAgICAgU3RyaW5nIE1lbWJlcnNoaXAgPSBzY2FuLm5leHRMaW5lKCk7DQoN\nCg0KICAgICAgICBpbnQgYmFzZV9kaXNjb3VudCA9MDsNCiAgICAgICAgaWYo\ndGllci5lcXVhbHMoIkJyb256ZSIpKXsNCiAgICAgICAgICAgIGJhc2VfZGlz\nY291bnQgPTU7DQogICAgICAgIH1lbHNlIGlmKHRpZXIuZXF1YWxzKCJTaWx2\nZXIiKSl7DQogICAgICAgICAgICBiYXNlX2Rpc2NvdW50ID04Ow0KICAgICAg\nICB9ZWxzZSBpZih0aWVyLmVxdWFscygiR29sZCIpKXsNCiAgICAgICAgICAg\nIGJhc2VfZGlzY291bnQgPTEyOw0KICAgICAgICB9ZWxzZSBpZih0aWVyLmVx\ndWFscygiUGxhdGludW0iKSl7DQogICAgICAgICAgICBiYXNlX2Rpc2NvdW50\nID0xNTsNCiAgICAgICAgfQ0KDQoNCiAgICAgICAgaW50IGFkZGl0aW9uYWxf\nRGlzY291bnQgPSAwOw0KICAgICAgICBpZihjYXJ0ID49NTAwICYmIGNhcnQg\nPD05OTkpew0KICAgICAgICAgICAgYWRkaXRpb25hbF9EaXNjb3VudCA9IDM7\nDQogICAgICAgIH1lbHNlIGlmKGNhcnQgPj0xMDAwICYmIGNhcnQgPD0xOTk5\nKXsNCiAgICAgICAgICAgIGFkZGl0aW9uYWxfRGlzY291bnQgPSA1Ow0KICAg\nICAgICB9ZWxzZSBpZihjYXJ0Pj0yMDAwKXsNCiAgICAgICAgICAgIGFkZGl0\naW9uYWxfRGlzY291bnQgPSA3Ow0KICAgICAgICB9DQogICAgICAgIGludCBi\nb3VucyA9IDA7DQogICAgICAgIGlmKENhdGVnb3J5LmVxdWFscygiRmFzaGlv\nbiIpKXsNCiAgICAgICAgICAgICAgICBib3VucyA9IDU7DQogICAgICAgICB9\nDQogICAgICAgIGVsc2UgaWYgKChDYXRlZ29yeS5lcXVhbHMoIkVsZWN0cm9u\naWNzIikgJiYgTWVtYmVyc2hpcC5lcXVhbHMoIlByaW1lIikgKSB8fCAoQ2F0\nZWdvcnkuZXF1YWxzKCJCb29rcyIpICYmIE1lbWJlcnNoaXAuZXF1YWxzKCJQ\ncmltZSIpKSl7DQogICAgICAgICAgICAgICAgYm91bnMgPSA1Ow0KICAgICAg\nICB9ICAgICAgICANCiAgICAgICAgZWxzZSBpZihDYXRlZ29yeS5lcXVhbHMo\nIkdyb2NlcmllcyIpICYmIGNhcnQ+MzAwICl7DQogICAgICAgICAgICAgICAg\nYm91bnMgPSAyOw0KICAgICAgICB9DQoNCg0KDQogICAgICAgIGludCB0b3Rh\nbF9EaXNjb3VudCA9IGJhc2VfZGlzY291bnQrYWRkaXRpb25hbF9EaXNjb3Vu\ndCtib3VuczsNCiAgICAgICAgZmxvYXQgZmluYWxQcmljZSA9IChjYXJ0KnRv\ndGFsX0Rpc2NvdW50LTEpLzEwMC4wZjsNCiAgICAgICAgZmxvYXQgU2F2aW5n\nID0gY2FydC1maW5hbFByaWNlOw0KDQoNCiAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCJMb3lhbHR5IFRpZXI6ICIrdGllcik7DQogICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigiQ2FydCBWYWx1ZTogJCIrY2FydCk7DQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiUHJvZHVjdCBDYXRlZ29yeTogIitDYXRl\nZ29yeSk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTWVtYmVyc2hp\ncDogIitNZW1iZXJzaGlwKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJCYXNlIERpc2NvdW50OiAiK2Jhc2VfZGlzY291bnQrIiAlIik7DQogICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQWRkaXRpb25hbCBEaXNjb3VudDog\nIisgKGFkZGl0aW9uYWxfRGlzY291bnQrYm91bnMpKTsNCiAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCJUb3RhbCBEaXNjb3VudDogIit0b3RhbF9EaXNj\nb3VudCsiJSIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZpbmFs\nIFByaWNlOiAkIitTYXZpbmcpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oIlNhdmluZ3M6ICQiK2ZpbmFsUHJpY2UpOw0KDQoNCg0KICAgICAgICBz\nY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/b813e4745dcf41508510c5c6f4549f28a04502d7/Conditonal_Statement/Conditonal4.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/70da689ba770f1e8f5e8774190a72a2223b1fd1d', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/b813e4745dcf41508510c5c6f4549f28a04502d7/Conditonal_Statement/Conditonal4.java', 'name': 'Conditonal4.java', 'path': 'Conditonal_Statement/Conditonal4.java', 'sha': '70da689ba770f1e8f5e8774190a72a2223b1fd1d', 'size': 2409, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal4.java?ref=b813e4745dcf41508510c5c6f4549f28a04502d7'}
+import java.util.Scanner;
+
+public class Conditonal4 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("loyaltyTier (Bronze, Silver, Gold, or Platinum)");
+        String tier = scan.nextLine();
+        System.out.println("CartValue");
+        float cart = scan.nextFloat();
+        scan.nextLine();
+        System.out.println(" productCategory (Electronics, Fashion,Groceries, or Books");
+        String Category = scan.nextLine();
+        System.out.println(" membershipStatus (Prime or Regular)");
+        String Membership = scan.nextLine();
+
+
+        int base_discount =0;
+        if(tier.equals("Bronze")){
+            base_discount =5;
+        }else if(tier.equals("Silver")){
+            base_discount =8;
+        }else if(tier.equals("Gold")){
+            base_discount =12;
+        }else if(tier.equals("Platinum")){
+            base_discount =15;
+        }
+
+
+        int additional_Discount = 0;
+        if(cart >=500 && cart <=999){
+            additional_Discount = 3;
+        }else if(cart >=1000 && cart <=1999){
+            additional_Discount = 5;
+        }else if(cart>=2000){
+            additional_Discount = 7;
+        }
+        int bouns = 0;
+        if(Category.equals("Fashion")){
+                bouns = 5;
+         }
+        else if ((Category.equals("Electronics") && Membership.equals("Prime") ) || (Category.equals("Books") && Membership.equals("Prime"))){
+                bouns = 5;
+        }        
+        else if(Category.equals("Groceries") && cart>300 ){
+                bouns = 2;
+        }
+
+
+
+        int total_Discount = base_discount+additional_Discount+bouns;
+        float finalPrice = (cart*total_Discount-1)/100.0f;
+        float Saving = cart-finalPrice;
+
+
+        System.out.println("Loyalty Tier: "+tier);
+        System.out.println("Cart Value: $"+cart);
+        System.out.println("Product Category: "+Category);
+        System.out.println("Membership: "+Membership);
+        System.out.println("Base Discount: "+base_discount+" %");
+        System.out.println("Additional Discount: "+ (additional_Discount+bouns));
+        System.out.println("Total Discount: "+total_Discount+"%");
+        System.out.println("Final Price: $"+Saving);
+        System.out.println("Savings: $"+finalPrice);
+
+
+
+        scan.close();
+    }
+}

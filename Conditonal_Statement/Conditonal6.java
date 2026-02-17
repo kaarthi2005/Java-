@@ -1,1 +1,76 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/7eb8e68b67483747e651b0665850b900727269d0', 'html': 'https://github.com/kaarthi2005/Java-/blob/3487c4dedfaed4b6a53227ccac5719f50d6ccace/Conditonal_Statement/Conditonal6.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal6.java?ref=3487c4dedfaed4b6a53227ccac5719f50d6ccace'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDYgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJi\nb29raW5nQ2xhc3MgKEVjb25vbXksIEJ1c2luZXNzLCBvciBGaXJzdCkiKTsN\nCiAgICAgICAgU3RyaW5nIGJvb2tpbmdDbGFzcyA9IHNjYW4ubmV4dExpbmUo\nKTsNCiAgICAgICAgaW50IGRheXNVbnRpbERlcGFydHVyZSA9IHNjYW4ubmV4\ndEludCgpOw0KICAgICAgICBmbG9hdCBzZWF0QXZhaWxhYmlsaXR5ID0gc2Nh\nbi5uZXh0RmxvYXQoKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJy\nb3V0ZVR5cGUgKERvbWVzdGljICwgSW50ZXJuYXRpb25hbC1TaG9ydCwgb3Ig\nSW50ZXJuYXRpb25hbC1Mb25nKSIpOw0KICAgICAgICBzY2FuLm5leHRMaW5l\nKCk7DQogICAgICAgIFN0cmluZyByb3V0ZVR5cGUgPSBzY2FuLm5leHRMaW5l\nKCk7DQogICAgICAgDQogICAgICAgIFN0cmluZyBEZW1hbmQgPSBudWxsOw0K\nDQogICAgICAgIGZsb2F0IHByaWNlID0gMDsNCiAgICAgICAgZmxvYXQgRmlu\nYWxfUHJpY2UgPSAwLjBmOw0KDQoNCiAgICAgICAgaWYoYm9va2luZ0NsYXNz\nLmVxdWFscygiRWNvbm9teSIpKXsNCiAgICAgICAgICAgIGlmKHJvdXRlVHlw\nZS5lcXVhbHMoIkRvbWVzdGljIikpew0KICAgICAgICAgICAgICBwcmljZSA9\nIDIwMDsNCiAgICAgICAgICAgIH1lbHNlIGlmKHJvdXRlVHlwZS5lcXVhbHMo\nIkludC1TaG9ydCIpKXsNCiAgICAgICAgICAgICAgICBwcmljZSA9IDUwMDsN\nCiAgICAgICAgICAgIH1lbHNlIGlmKHJvdXRlVHlwZS5lcXVhbHMoIkludC1M\nb25nIikpew0KICAgICAgICAgICAgICAgIHByaWNlID04MDA7DQogICAgICAg\nICAgICB9DQogICAgICAgIH0NCiAgICAgICAgZWxzZSBpZihib29raW5nQ2xh\nc3MuZXF1YWxzKCJCdXNpbmVzcyIpKXsNCiAgICAgICAgICAgICBpZihyb3V0\nZVR5cGUuZXF1YWxzKCJEb21lc3RpYyIpKXsNCiAgICAgICAgICAgICAgcHJp\nY2UgPSA2MDA7DQogICAgICAgICAgICB9ZWxzZSBpZihyb3V0ZVR5cGUuZXF1\nYWxzKCJJbnQtU2hvcnQiKSl7DQogICAgICAgICAgICAgICAgcHJpY2UgPSAx\nNTAwOw0KICAgICAgICAgICAgfWVsc2UgaWYocm91dGVUeXBlLmVxdWFscygi\nSW50LUxvbmciKSl7DQogICAgICAgICAgICAgICAgcHJpY2UgPTI1MDA7DQog\nICAgICAgICAgICB9DQoNCiAgICAgICAgfQ0KICAgICAgICBlbHNlIGlmKGJv\nb2tpbmdDbGFzcy5lcXVhbHMoIkZpcnN0Iikpew0KICAgICAgICAgICAgIGlm\nKHJvdXRlVHlwZS5lcXVhbHMoIkRvbWVzdGljIikpew0KICAgICAgICAgICAg\nICBwcmljZSA9IDEwMDA7DQogICAgICAgICAgICB9ZWxzZSBpZihyb3V0ZVR5\ncGUuZXF1YWxzKCJJbnQtU2hvcnQiKSl7DQogICAgICAgICAgICAgICAgcHJp\nY2UgPSAzMDAwOw0KICAgICAgICAgICAgfWVsc2UgaWYocm91dGVUeXBlLmVx\ndWFscygiSW50LUxvbmciKSl7DQogICAgICAgICAgICAgICAgcHJpY2UgPTUw\nMDA7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCg0KICAgICAgICBpZihz\nZWF0QXZhaWxhYmlsaXR5PDMwICYmIGRheXNVbnRpbERlcGFydHVyZSA8MTQp\new0KICAgICAgICAgICAgRGVtYW5kID0iSGlnaCBEZW1hbmQiOw0KICAgICAg\nICAgICAgRmluYWxfUHJpY2UgPSAxLjhmOw0KICAgICAgICB9ZWxzZSBpZihz\nZWF0QXZhaWxhYmlsaXR5PDUwICYmIGRheXNVbnRpbERlcGFydHVyZSA8MzAp\new0KICAgICAgICAgICAgRGVtYW5kID0iSGlnaCBEZW1hbmQiOw0KICAgICAg\nICAgICAgRmluYWxfUHJpY2UgPSAxLjVmOw0KICAgICAgICB9ZWxzZSBpZigo\nc2VhdEF2YWlsYWJpbGl0eTw2MCkgfHwgKGRheXNVbnRpbERlcGFydHVyZSA+\nMzAgICYmIGRheXNVbnRpbERlcGFydHVyZSA8NjAgKSl7DQogICAgICAgICAg\nICBEZW1hbmQgPSJNb2RlcmF0ZSI7DQogICAgICAgICAgICBGaW5hbF9Qcmlj\nZSA9IDEuMGY7DQogICAgICAgIH1lbHNlIGlmKHNlYXRBdmFpbGFiaWxpdHkg\nPj02MCAmJiBkYXlzVW50aWxEZXBhcnR1cmUgPjYwKXsNCiAgICAgICAgICAg\nIERlbWFuZCA9IkxvdyBEZW1hbmQiOw0KICAgICAgICAgICAgRmluYWxfUHJp\nY2UgPSAwLjhmOw0KDQogICAgICAgIH0NCg0KICAgICAgICBmbG9hdCBkZW1h\nbmRfbXVsdGlwbGllciA9IHByaWNlKkZpbmFsX1ByaWNlOw0KDQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiQm9va2luZyBDbGFzczogIitib29raW5n\nQ2xhc3MpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRheXMgVW50\naWwgRGVwYXJ0dXJlOiAiK2RheXNVbnRpbERlcGFydHVyZSk7DQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiU2VhdCBBdmFpbGFiaWxpdHk6ICIrc2Vh\ndEF2YWlsYWJpbGl0eSsiICUiKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJSb3V0ZSBUeXBlOiAiK3JvdXRlVHlwZSk7DQogICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigiQmFzZSBQcmljZTogJCIrcHJpY2UpOw0KICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlbWFuZCBNdWx0aXBsaWVyOiAiK0Zp\nbmFsX1ByaWNlKyJ4Iik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nRmluYWwgVGlja2V0IFByaWNlOiAkIitkZW1hbmRfbXVsdGlwbGllcik7DQog\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUHJpY2luZyBDYXRlZ29yeTog\nIitEZW1hbmQpOw0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/3487c4dedfaed4b6a53227ccac5719f50d6ccace/Conditonal_Statement/Conditonal6.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/7eb8e68b67483747e651b0665850b900727269d0', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/3487c4dedfaed4b6a53227ccac5719f50d6ccace/Conditonal_Statement/Conditonal6.java', 'name': 'Conditonal6.java', 'path': 'Conditonal_Statement/Conditonal6.java', 'sha': '7eb8e68b67483747e651b0665850b900727269d0', 'size': 2790, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal6.java?ref=3487c4dedfaed4b6a53227ccac5719f50d6ccace'}
+import java.util.Scanner;
+
+public class Conditonal6 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("bookingClass (Economy, Business, or First)");
+        String bookingClass = scan.nextLine();
+        int daysUntilDeparture = scan.nextInt();
+        float seatAvailability = scan.nextFloat();
+        System.out.println("routeType (Domestic , International-Short, or International-Long)");
+        scan.nextLine();
+        String routeType = scan.nextLine();
+       
+        String Demand = null;
+
+        float price = 0;
+        float Final_Price = 0.0f;
+
+
+        if(bookingClass.equals("Economy")){
+            if(routeType.equals("Domestic")){
+              price = 200;
+            }else if(routeType.equals("Int-Short")){
+                price = 500;
+            }else if(routeType.equals("Int-Long")){
+                price =800;
+            }
+        }
+        else if(bookingClass.equals("Business")){
+             if(routeType.equals("Domestic")){
+              price = 600;
+            }else if(routeType.equals("Int-Short")){
+                price = 1500;
+            }else if(routeType.equals("Int-Long")){
+                price =2500;
+            }
+
+        }
+        else if(bookingClass.equals("First")){
+             if(routeType.equals("Domestic")){
+              price = 1000;
+            }else if(routeType.equals("Int-Short")){
+                price = 3000;
+            }else if(routeType.equals("Int-Long")){
+                price =5000;
+            }
+        }
+
+        if(seatAvailability<30 && daysUntilDeparture <14){
+            Demand ="High Demand";
+            Final_Price = 1.8f;
+        }else if(seatAvailability<50 && daysUntilDeparture <30){
+            Demand ="High Demand";
+            Final_Price = 1.5f;
+        }else if((seatAvailability<60) || (daysUntilDeparture >30  && daysUntilDeparture <60 )){
+            Demand ="Moderate";
+            Final_Price = 1.0f;
+        }else if(seatAvailability >=60 && daysUntilDeparture >60){
+            Demand ="Low Demand";
+            Final_Price = 0.8f;
+
+        }
+
+        float demand_multiplier = price*Final_Price;
+
+        System.out.println("Booking Class: "+bookingClass);
+        System.out.println("Days Until Departure: "+daysUntilDeparture);
+        System.out.println("Seat Availability: "+seatAvailability+" %");
+        System.out.println("Route Type: "+routeType);
+        System.out.println("Base Price: $"+price);
+        System.out.println("Demand Multiplier: "+Final_Price+"x");
+        System.out.println("Final Ticket Price: $"+demand_multiplier);
+        System.out.println("Pricing Category: "+Demand);
+        scan.close();
+    }
+}
