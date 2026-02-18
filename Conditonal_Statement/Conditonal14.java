@@ -1,1 +1,94 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/46ed84ad7bfd089b80a59b057d3621faf2c79fbb', 'html': 'https://github.com/kaarthi2005/Java-/blob/99fd894fff14474c2d71043a54a8195f826a2b42/Conditonal_Statement/Conditonal14.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal14.java?ref=99fd894fff14474c2d71043a54a8195f826a2b42'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDE0IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmcgW10gYXJncyl7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIFN0cmluZyBtZW1iZXJzaGlwVGVp\nciA9IHNjYW4ubmV4dExpbmUoKTsNCiAgICAgICAgaW50IGNvbnRhY3RMZW5n\ndGggPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgc2Nhbi5uZXh0TGluZSgp\nOw0KICAgICAgICBTdHJpbmcgYWNjZXNzTGV2ZWwgPSBzY2FuLm5leHRMaW5l\nKCk7DQogICAgICAgIFN0cmluZyBhZGRPbnMgPSBzY2FuLm5leHRMaW5lKCk7\nDQoNCiAgICAgICAgZmxvYXQgYmFzZWZlZSA9MCA7DQogICAgICAgIGlmKG1l\nbWJlcnNoaXBUZWlyLmVxdWFscygiQmFzaWMiKSl7DQogICAgICAgICAgICBi\nYXNlZmVlID0gNDAgOw0KICAgICAgICB9ZWxzZSBpZihtZW1iZXJzaGlwVGVp\nci5lcXVhbHMoIlByZW1pdW0iKSl7DQogICAgICAgICAgICBiYXNlZmVlID0g\nODAgOw0KICAgICAgICB9ZWxzZSBpZihtZW1iZXJzaGlwVGVpci5lcXVhbHMo\nIkVsaXRlIikpew0KICAgICAgICAgICAgYmFzZWZlZSA9IDEyMCA7DQogICAg\nICAgIH1lbHNlIGlmKG1lbWJlcnNoaXBUZWlyLmVxdWFscygiVklQIikpew0K\nICAgICAgICAgICAgYmFzZWZlZSA9MTUwIDsNCiAgICAgICAgfQ0KDQogICAg\nICAgIGZsb2F0IGNvbnRyYWN0ZGlzY291bnQgPSAwOw0KICAgICAgICBpZihj\nb250YWN0TGVuZ3RoID49IDEgJiYgY29udGFjdExlbmd0aCA8PTUpew0KICAg\nICAgICAgICBjb250cmFjdGRpc2NvdW50ID0gMDsNCiAgICAgICAgfWVsc2Ug\naWYoY29udGFjdExlbmd0aCA+PSA2ICYmIGNvbnRhY3RMZW5ndGggPD0xMSl7\nDQogICAgICAgICAgIGNvbnRyYWN0ZGlzY291bnQgPSAxMDsNCiAgICAgICAg\nfWVsc2UgaWYoY29udGFjdExlbmd0aCA+PSAxMiAmJiBjb250YWN0TGVuZ3Ro\nIDw9MjMpew0KICAgICAgICAgICBjb250cmFjdGRpc2NvdW50ID0gMTU7DQog\nICAgICAgIH1lbHNlew0KICAgICAgICAgICAgY29udHJhY3RkaXNjb3VudCA9\nIDI1Ow0KICAgICAgICB9DQoNCiAgICAgICAgZmxvYXQgYWNjZXNzZmVlID0g\nMDsNCiAgICAgICAgIA0KICAgICAgICBpZihhY2Nlc3NMZXZlbC5lcXVhbHMo\nIiBTaW5nbGUtTG9jYXRpb24iKSl7DQogICAgICAgICAgIGFjY2Vzc2ZlZSA9\nIDA7DQogICAgICAgIH1lbHNlIGlmKGFjY2Vzc0xldmVsLmVxdWFscygiUmVn\naW9uYWwiKSl7DQogICAgICAgICAgYWNjZXNzZmVlID0gMjA7DQogICAgICAg\nIH1lbHNlIGlmKGFjY2Vzc0xldmVsLmVxdWFscygiTmF0aW9ud2lkZSIpKXsN\nCiAgICAgICAgICAgYWNjZXNzZmVlID0gNTA7DQogICAgICAgIH0NCg0KICAg\nICAgICBmbG9hdCBhZGRvbmZlZSA9IDA7DQogICAgICAgICANCiAgICAgICAg\naWYoYWRkT25zLmVxdWFscygiTm9uZSIpKXsNCiAgICAgICAgICAgYWRkb25m\nZWUgPSAwOw0KICAgICAgICB9ZWxzZSBpZihhZGRPbnMuZXF1YWxzKCJQZXJz\nb25hbC1UcmFpbmluZyIpKXsNCiAgICAgICAgICBhZGRvbmZlZSA9IDEwMDsN\nCiAgICAgICAgfWVsc2UgaWYoYWRkT25zLmVxdWFscygiQ2xhc3NlcyIpKXsN\nCiAgICAgICAgICAgYWRkb25mZWUgPSA1MDsNCiAgICAgICAgfWVsc2UgaWYo\nYWRkT25zLmVxdWFscygiRnVsbC1QYWNrYWdlIikpew0KICAgICAgICAgICBh\nZGRvbmZlZSA9IDIwMDsNCiAgICAgICAgfQ0KDQoNCiAgICAgICAgZmxvYXQg\nZGlzY291bnRlZEJhc2UgPSBiYXNlZmVlICooMS0gY29udHJhY3RkaXNjb3Vu\ndC8xMDAuMGYpOw0KICAgICAgICBmbG9hdCBtb250aGx5VG90YWwgPSBkaXNj\nb3VudGVkQmFzZSthY2Nlc3NmZWUrYWRkb25mZWU7DQogICAgICAgIGZsb2F0\nIGNvbnRyYWN0VG90YWwgPSBtb250aGx5VG90YWwqY29udGFjdExlbmd0aDsN\nCg0KICAgICAgICBmbG9hdCBzYXZpbmdzID0gKGJhc2VmZWUrYWNjZXNzZmVl\nK2FkZG9uZmVlKSpjb250YWN0TGVuZ3RoIC0gY29udHJhY3RUb3RhbDsNCg0K\nICAgICAgICBTdHJpbmcgTWVtYmVyc2hpcENhdGVnb3J5ID0gbnVsbDsNCg0K\nICAgICAgICBpZihtb250aGx5VG90YWwgPDEwMCl7DQogICAgICAgICAgICBN\nZW1iZXJzaGlwQ2F0ZWdvcnkgPSAiQnVkZ2V0IjsNCiAgICAgICAgfWVsc2Ug\naWYobW9udGhseVRvdGFsID4yMDApew0KICAgICAgICAgICAgTWVtYmVyc2hp\ncENhdGVnb3J5ID0gIkx1eHVyeSI7DQogICAgICAgIH1lbHNlIGlmKG1vbnRo\nbHlUb3RhbCA+PSAxMDAgJiYgbW9udGhseVRvdGFsIDwxNTApew0KICAgICAg\nICAgICAgTWVtYmVyc2hpcENhdGVnb3J5ID0gIlN0YW5kYXJkIjsNCiAgICAg\nICAgfWVsc2UgaWYobW9udGhseVRvdGFsID49MTUwICYmIG1vbnRobHlUb3Rh\nbDwyMDApew0KICAgICAgICAgICAgTWVtYmVyc2hpcENhdGVnb3J5ID0gIlBy\nZW1pbnVtIjsNCiAgICAgICAgfQ0KDQoNCiAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCJNZW1iZXJzaGlwIFRpZXI6ICIrbWVtYmVyc2hpcFRlaXIpOw0K\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNvbnRyYWN0IExlbmd0aDog\nIitjb250YWN0TGVuZ3RoKyIgbW9udGhzIik7DQogICAgICAgIFN5c3RlbS5v\ndXQucHJpbnRsbigiQWNjZXNzIExldmVsOiAiK2FjY2Vzc0xldmVsKTsNCiAg\nICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBZGQtT25zOiAiK2FkZE9ucyk7\nDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmFzZSBNb250aGx5IEZl\nZTogJCIrYmFzZWZlZSk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nQ29udHJhY3QgRGlzY291bnQ6ICIrY29udHJhY3RkaXNjb3VudCsiICUiKTsN\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBY2Nlc3MgRmVlOiAkIith\nY2Nlc3NmZWUpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkFkZC1P\nbiBGZWU6ICQiK2FkZG9uZmVlKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJNb250aGx5IFRvdGFsOiAkIittb250aGx5VG90YWwpOw0KICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oIkNvbnRyYWN0IFRvdGFsOiAkIitjb250\ncmFjdFRvdGFsKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTYXZp\nbmdzIHZzIE1vbnRoLXRvLU1vbnRoOiAkIitzYXZpbmdzKTsNCiAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKCJNZW1iZXJzaGlwIENhdGVnb3J5OiAiK01l\nbWJlcnNoaXBDYXRlZ29yeSk7DQoNCg0KDQogICAgICAgIHNjYW4uY2xvc2Uo\nKTsNCg0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/99fd894fff14474c2d71043a54a8195f826a2b42/Conditonal_Statement/Conditonal14.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/46ed84ad7bfd089b80a59b057d3621faf2c79fbb', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/99fd894fff14474c2d71043a54a8195f826a2b42/Conditonal_Statement/Conditonal14.java', 'name': 'Conditonal14.java', 'path': 'Conditonal_Statement/Conditonal14.java', 'sha': '46ed84ad7bfd089b80a59b057d3621faf2c79fbb', 'size': 3256, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal14.java?ref=99fd894fff14474c2d71043a54a8195f826a2b42'}
+import java.util.Scanner;
+
+public class Conditonal14 {
+    public static void main(String [] args){
+        Scanner scan = new Scanner(System.in);
+        String membershipTeir = scan.nextLine();
+        int contactLength = scan.nextInt();
+        scan.nextLine();
+        String accessLevel = scan.nextLine();
+        String addOns = scan.nextLine();
+
+        float basefee =0 ;
+        if(membershipTeir.equals("Basic")){
+            basefee = 40 ;
+        }else if(membershipTeir.equals("Premium")){
+            basefee = 80 ;
+        }else if(membershipTeir.equals("Elite")){
+            basefee = 120 ;
+        }else if(membershipTeir.equals("VIP")){
+            basefee =150 ;
+        }
+
+        float contractdiscount = 0;
+        if(contactLength >= 1 && contactLength <=5){
+           contractdiscount = 0;
+        }else if(contactLength >= 6 && contactLength <=11){
+           contractdiscount = 10;
+        }else if(contactLength >= 12 && contactLength <=23){
+           contractdiscount = 15;
+        }else{
+            contractdiscount = 25;
+        }
+
+        float accessfee = 0;
+         
+        if(accessLevel.equals(" Single-Location")){
+           accessfee = 0;
+        }else if(accessLevel.equals("Regional")){
+          accessfee = 20;
+        }else if(accessLevel.equals("Nationwide")){
+           accessfee = 50;
+        }
+
+        float addonfee = 0;
+         
+        if(addOns.equals("None")){
+           addonfee = 0;
+        }else if(addOns.equals("Personal-Training")){
+          addonfee = 100;
+        }else if(addOns.equals("Classes")){
+           addonfee = 50;
+        }else if(addOns.equals("Full-Package")){
+           addonfee = 200;
+        }
+
+
+        float discountedBase = basefee *(1- contractdiscount/100.0f);
+        float monthlyTotal = discountedBase+accessfee+addonfee;
+        float contractTotal = monthlyTotal*contactLength;
+
+        float savings = (basefee+accessfee+addonfee)*contactLength - contractTotal;
+
+        String MembershipCategory = null;
+
+        if(monthlyTotal <100){
+            MembershipCategory = "Budget";
+        }else if(monthlyTotal >200){
+            MembershipCategory = "Luxury";
+        }else if(monthlyTotal >= 100 && monthlyTotal <150){
+            MembershipCategory = "Standard";
+        }else if(monthlyTotal >=150 && monthlyTotal<200){
+            MembershipCategory = "Preminum";
+        }
+
+
+        System.out.println("Membership Tier: "+membershipTeir);
+        System.out.println("Contract Length: "+contactLength+" months");
+        System.out.println("Access Level: "+accessLevel);
+        System.out.println("Add-Ons: "+addOns);
+        System.out.println("Base Monthly Fee: $"+basefee);
+        System.out.println("Contract Discount: "+contractdiscount+" %");
+        System.out.println("Access Fee: $"+accessfee);
+        System.out.println("Add-On Fee: $"+addonfee);
+        System.out.println("Monthly Total: $"+monthlyTotal);
+        System.out.println("Contract Total: $"+contractTotal);
+        System.out.println("Savings vs Month-to-Month: $"+savings);
+        System.out.println("Membership Category: "+MembershipCategory);
+
+
+
+        scan.close();
+
+    }
+}

@@ -1,1 +1,71 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/0f44a627b7cb5233400812cfcf486b5d89700fe0', 'html': 'https://github.com/kaarthi2005/Java-/blob/1d03eb987a6cccab7cd621b447bc674e815c0734/Conditonal_Statement/Conditonal12.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal12.java?ref=1d03eb987a6cccab7cd621b447bc674e815c0734'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDEyIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIGludCBkcml2ZXJBZ2UgPSBzY2Fu\nLm5leHRJbnQoKTsNCiAgICAgICAgc2Nhbi5uZXh0TGluZSgpOw0KICAgICAg\nICBTdHJpbmcgdmVoaWNsZVR5cGUgPSBzY2FuLm5leHRMaW5lKCk7DQogICAg\nICAgICBTdHJpbmcgZHJpdmluZ1JlY29yZCAgPSBzY2FuLm5leHRMaW5lKCk7\nDQogICAgICAgICAgU3RyaW5nIGNvdmVyYWdlTGV2ZWwgID0gc2Nhbi5uZXh0\nTGluZSgpOw0KDQogICAgICAgIGludCBiYXNlUHJpbWl1bSA9IDA7DQoNCiAg\nICAgICAgaWYoY292ZXJhZ2VMZXZlbC5lcXVhbHMoIkJhc2ljIikpew0KICAg\nICAgICAgICAgYmFzZVByaW1pdW0gPSA1MDA7DQogICAgICAgIH1lbHNlIGlm\nKGNvdmVyYWdlTGV2ZWwuZXF1YWxzKCJTdGFuZGFyZCIpKXsNCiAgICAgICAg\nICAgICBiYXNlUHJpbWl1bSA9IDgwMDsNCiAgICAgICAgfWVsc2UgaWYoY292\nZXJhZ2VMZXZlbC5lcXVhbHMoIkNvbXByZWhlbnNpdmUiKSl7DQogICAgICAg\nICAgICAgYmFzZVByaW1pdW0gPSAxNTAwOw0KICAgICAgICB9DQoNCiAgICAg\nICAgZmxvYXQgIGFnZUZhY3RvciA9MDsNCiAgICAgICAgaWYoZHJpdmVyQWdl\nID49IDE2ICYmIGRyaXZlckFnZSA8PSAyMSl7DQogICAgICAgICAgICBhZ2VG\nYWN0b3IgPSAxLjhmOw0KICAgICAgICB9ZWxzZSBpZihkcml2ZXJBZ2UgPj0g\nMjIgJiYgZHJpdmVyQWdlIDw9IDI1KXsNCiAgICAgICAgICAgIGFnZUZhY3Rv\nciA9IDEuNWY7DQogICAgICAgIH1lbHNlIGlmKGRyaXZlckFnZSA+PSAyNiAm\nJiBkcml2ZXJBZ2UgPD0gNDApew0KICAgICAgICAgICAgYWdlRmFjdG9yID0g\nMS4wZjsNCiAgICAgICAgfWVsc2UgaWYoZHJpdmVyQWdlID49IDQxICYmIGRy\naXZlckFnZSA8PSA2MCl7DQogICAgICAgICAgICBhZ2VGYWN0b3IgPSAwLjlm\nOw0KICAgICAgICB9ZWxzZSB7DQogICAgICAgICAgICBhZ2VGYWN0b3IgPSAx\nLjFmOw0KICAgICAgICB9DQoNCiAgICAgICAgZmxvYXQgcmlza0ZhY3RvciA9\nMDsNCiAgICAgICAgaWYodmVoaWNsZVR5cGUuZXF1YWxzKCJTZWRhbiIpKXsN\nCiAgICAgICAgICAgIHJpc2tGYWN0b3IgPSAxLjBmOw0KICAgICAgICB9ZWxz\nZSBpZih2ZWhpY2xlVHlwZS5lcXVhbHMoIlNwb3J0cyIpKXsNCiAgICAgICAg\nICAgICByaXNrRmFjdG9yID0gMS41ZjsNCiAgICAgICAgfWVsc2UgaWYodmVo\naWNsZVR5cGUuZXF1YWxzKCJUcnVjayIpKXsNCiAgICAgICAgICAgICByaXNr\nRmFjdG9yID0gMS4xZjsNCiAgICAgICAgfQ0KDQogICAgICAgIGludCByZWNv\ncmRBZGp1c3RtZW50ID0wOw0KICAgICAgICBpZihkcml2aW5nUmVjb3JkLmVx\ndWFscygiQ2xlYW4iKSl7DQogICAgICAgICAgICByZWNvcmRBZGp1c3RtZW50\nID0gLTEwOw0KICAgICAgICB9ZWxzZSBpZihkcml2aW5nUmVjb3JkLmVxdWFs\ncygiTWlub3ItVmlvbGF0aW9ucyIpKXsNCiAgICAgICAgICAgICByZWNvcmRB\nZGp1c3RtZW50ID0gMjU7DQogICAgICAgIH1lbHNlIGlmKGRyaXZpbmdSZWNv\ncmQuZXF1YWxzKCJNYWpvci1WaW9sYXRpb25zIikpew0KICAgICAgICAgICAg\nIHJlY29yZEFkanVzdG1lbnQgPSA1MDsNCiAgICAgICAgfQ0KDQogICAgICAg\nIGZsb2F0ICBhZGp1c3RlZFByZW1pdW0gPSBiYXNlUHJpbWl1bSphZ2VGYWN0\nb3Iqcmlza0ZhY3RvcjsNCiAgICAgICAgZmxvYXQgZmluYWxQcmVtaXVtICA9\nIChhZGp1c3RlZFByZW1pdW0qcmlza0ZhY3RvcikvMTAwOw0KICAgICAgICBm\nbG9hdCBtb250aGx5UHJlbWl1bSA9IGZpbmFsUHJlbWl1bS8xMi4wZjsNCg0K\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRyaXZlciBBZ2U6ICIrZHJp\ndmVyQWdlKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJWZWhpY2xl\nIFR5cGU6ICIrdmVoaWNsZVR5cGUpOw0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oIkRyaXZpbmcgUmVjb3JkOiAiK2RyaXZpbmdSZWNvcmQpOw0KICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNvdmVyYWdlIExldmVsOiAiK2Nv\ndmVyYWdlTGV2ZWwpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkJh\nc2UgUHJlbWl1bTogJCIrYmFzZVByaW1pdW0pOw0KICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50bG4oIkFnZSBGYWN0b3I6ICIrYWdlRmFjdG9yKyJ4Iik7DQog\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVmVoaWNsZSBSaXNrIEZhY3Rv\ncjogIityaXNrRmFjdG9yKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJSZWNvcmQgQWRqdXN0bWVudDogIityZWNvcmRBZGp1c3RtZW50KyIlIik7\nDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTW9udGhseSBQcmVtaXVt\nOiAkIittb250aGx5UHJlbWl1bSk7DQogICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbigiQW5udWFsIFByZW1pdW06ICQiK2ZpbmFsUHJlbWl1bSk7DQoNCg0K\nICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/1d03eb987a6cccab7cd621b447bc674e815c0734/Conditonal_Statement/Conditonal12.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/0f44a627b7cb5233400812cfcf486b5d89700fe0', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/1d03eb987a6cccab7cd621b447bc674e815c0734/Conditonal_Statement/Conditonal12.java', 'name': 'Conditonal12.java', 'path': 'Conditonal_Statement/Conditonal12.java', 'sha': '0f44a627b7cb5233400812cfcf486b5d89700fe0', 'size': 2553, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal12.java?ref=1d03eb987a6cccab7cd621b447bc674e815c0734'}
+import java.util.Scanner;
+
+public class Conditonal12 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int driverAge = scan.nextInt();
+        scan.nextLine();
+        String vehicleType = scan.nextLine();
+         String drivingRecord  = scan.nextLine();
+          String coverageLevel  = scan.nextLine();
+
+        int basePrimium = 0;
+
+        if(coverageLevel.equals("Basic")){
+            basePrimium = 500;
+        }else if(coverageLevel.equals("Standard")){
+             basePrimium = 800;
+        }else if(coverageLevel.equals("Comprehensive")){
+             basePrimium = 1500;
+        }
+
+        float  ageFactor =0;
+        if(driverAge >= 16 && driverAge <= 21){
+            ageFactor = 1.8f;
+        }else if(driverAge >= 22 && driverAge <= 25){
+            ageFactor = 1.5f;
+        }else if(driverAge >= 26 && driverAge <= 40){
+            ageFactor = 1.0f;
+        }else if(driverAge >= 41 && driverAge <= 60){
+            ageFactor = 0.9f;
+        }else {
+            ageFactor = 1.1f;
+        }
+
+        float riskFactor =0;
+        if(vehicleType.equals("Sedan")){
+            riskFactor = 1.0f;
+        }else if(vehicleType.equals("Sports")){
+             riskFactor = 1.5f;
+        }else if(vehicleType.equals("Truck")){
+             riskFactor = 1.1f;
+        }
+
+        int recordAdjustment =0;
+        if(drivingRecord.equals("Clean")){
+            recordAdjustment = -10;
+        }else if(drivingRecord.equals("Minor-Violations")){
+             recordAdjustment = 25;
+        }else if(drivingRecord.equals("Major-Violations")){
+             recordAdjustment = 50;
+        }
+
+        float  adjustedPremium = basePrimium*ageFactor*riskFactor;
+        float finalPremium  = (adjustedPremium*riskFactor)/100;
+        float monthlyPremium = finalPremium/12.0f;
+
+        System.out.println("Driver Age: "+driverAge);
+        System.out.println("Vehicle Type: "+vehicleType);
+        System.out.println("Driving Record: "+drivingRecord);
+        System.out.println("Coverage Level: "+coverageLevel);
+        System.out.println("Base Premium: $"+basePrimium);
+        System.out.println("Age Factor: "+ageFactor+"x");
+        System.out.println("Vehicle Risk Factor: "+riskFactor);
+        System.out.println("Record Adjustment: "+recordAdjustment+"%");
+        System.out.println("Monthly Premium: $"+monthlyPremium);
+        System.out.println("Annual Premium: $"+finalPremium);
+
+
+        scan.close();
+    }
+}

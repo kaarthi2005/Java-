@@ -1,1 +1,88 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/08ba116ef8bdb47b726c3b53591e20c05de33717', 'html': 'https://github.com/kaarthi2005/Java-/blob/67f7e762be71093acf8da835c2367d1250b3b4c5/Conditonal_Statement/Conditonal11.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal11.java?ref=67f7e762be71093acf8da835c2367d1250b3b4c5'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDExIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQoNCiAgICAgICAgU3RyaW5nIG9yZGVyVHlwZSA9\nIHNjYW4ubmV4dExpbmUoKTsNCiAgICAgICAgU3RyaW5nIGxveWFsdHlTdGF0\ndXMgPSBzY2FuLm5leHRMaW5lKCk7DQogICAgICAgIGZsb2F0IG9yZGVyVmFs\ndWUgPSBzY2FuLm5leHRGbG9hdCgpOw0KICAgICAgICBzY2FuLm5leHRMaW5l\nKCk7DQogICAgICAgIFN0cmluZyB0aW1lU2xvdCA9IHNjYW4ubmV4dExpbmUo\nKTsNCg0KDQogICAgICAgIGludCBiYXNlRGlzY291bnQgPSAwIDsNCiAgICAg\nICAgaWYobG95YWx0eVN0YXR1cy5lcXVhbHMoIkdvbGQiKSl7DQogICAgICAg\nICAgIGJhc2VEaXNjb3VudCA9IDE1IDsNCiAgICAgICAgfWVsc2UgIGlmKGxv\neWFsdHlTdGF0dXMuZXF1YWxzKCJTaWx2ZXIiKSl7DQogICAgICAgICAgICBi\nYXNlRGlzY291bnQgPSAxMCA7DQogICAgICAgIH1lbHNlICBpZihsb3lhbHR5\nU3RhdHVzLmVxdWFscygiQnJvbnplIikpew0KICAgICAgICAgICAgYmFzZURp\nc2NvdW50ID0gNSA7DQogICAgICAgIH1lbHNlew0KICAgICAgICAgICAgIGJh\nc2VEaXNjb3VudCA9IDAgOw0KICAgICAgICB9DQoNCiAgICAgICAgaW50IHRp\nbWVCYXNlZEFkanVzdG1lbnQgPSAwOw0KICAgICAgICBpZih0aW1lU2xvdC5l\ncXVhbHMoIlBlYWsiKSl7DQogICAgICAgICAgIHRpbWVCYXNlZEFkanVzdG1l\nbnQgPSAwIDsNCiAgICAgICAgfWVsc2UgIGlmKHRpbWVTbG90LmVxdWFscygi\nUmVndWxhciIpKXsNCiAgICAgICAgICAgIHRpbWVCYXNlZEFkanVzdG1lbnQg\nPSAwIDsNCiAgICAgICAgfWVsc2UgIGlmKHRpbWVTbG90LmVxdWFscygiTGF0\nZS1OaWdodCIpKXsNCiAgICAgICAgICAgIHRpbWVCYXNlZEFkanVzdG1lbnQg\nPSAtNSA7DQogICAgICAgIH0NCg0KICAgICAgICBmbG9hdCBzZXJ2aWNlRmVl\nID0wIDsNCiAgICAgICAgIGlmKG9yZGVyVHlwZS5lcXVhbHMoIkRlbGl2ZXJ5\nIikpew0KICAgICAgICAgICBzZXJ2aWNlRmVlID0gMTAgOw0KICAgICAgICB9\nZWxzZSAgaWYob3JkZXJUeXBlLmVxdWFscygiVGFrZW91dCIpKXsNCiAgICAg\nICAgICAgIHNlcnZpY2VGZWUgPSAzOw0KICAgICAgICB9ZWxzZSAgaWYob3Jk\nZXJUeXBlLmVxdWFscygiRGluZS1JbiIpKXsNCiAgICAgICAgICAgIHNlcnZp\nY2VGZWUgPSAwIDsNCiAgICAgICAgfQ0KDQogICAgICAgIFN0cmluZyBraXRj\naGVuID0gbnVsbDsNCiAgICAgICAgaWYodGltZVNsb3QuZXF1YWxzKCJQZWFr\nIikmJm9yZGVyVHlwZS5lcXVhbHMoIkRlbGl2ZXJ5Iikpew0KICAgICAgICAg\nICAga2l0Y2hlbiA9IkhpZ2giOw0KICAgICAgICB9ZWxzZSAgaWYodGltZVNs\nb3QuZXF1YWxzKCJSZWd1bGFyIikpew0KICAgICAgICAgICAgIGtpdGNoZW4g\nPSJNZWRpdW0iOw0KICAgICAgICB9ZWxzZSBpZih0aW1lU2xvdC5lcXVhbHMo\nIkxhdGUtTmlnaHQiKSl7DQogICAgICAgICAgICAga2l0Y2hlbiA9IkxvdyI7\nDQogICAgICAgIH0NCg0KICAgICAgICBpbnQgdG90YWxfRGlzY291bnQgPSB0\naW1lQmFzZWRBZGp1c3RtZW50ICsgYmFzZURpc2NvdW50Ow0KICAgICAgICBm\nbG9hdCBkaXNjb3VudGVkVmFsdWUgPShvcmRlclZhbHVlKnRvdGFsX0Rpc2Nv\ndW50KSAvMTAwOw0KICAgICAgIA0KICAgICAgICBmbG9hdCB0b3RhbF9zZXJ2\naWNlZmVlID0gKG9yZGVyVmFsdWUqc2VydmljZUZlZSkvMTAwOw0KICAgICAg\nICANCiAgICAgICAgZmxvYXQgZmluYWxBbW91bnQgPSAob3JkZXJWYWx1ZSt0\nb3RhbF9zZXJ2aWNlZmVlKS1kaXNjb3VudGVkVmFsdWU7DQoNCiAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKCJPcmRlciBUeXBlOiAiK29yZGVyVHlwZSk7\nDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTG95YWx0eSBTdGF0dXM6\nICIrbG95YWx0eVN0YXR1cyk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbigiT3JkZXIgVmFsdWU6ICQiK29yZGVyVmFsdWUpOw0KICAgICAgICBTeXN0\nZW0ub3V0LnByaW50bG4oIlRpbWUgU2xvdDogIit0aW1lU2xvdCk7DQogICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmFzZSBEaXNjb3VudDogIitiYXNl\nRGlzY291bnQrIiAlIik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nVGltZS1CYXNlZCBBZGp1c3RtZW50OiAiK3RpbWVCYXNlZEFkanVzdG1lbnQr\nIiUiKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTZXJ2aWNlIEZl\nZTogJCIrc2VydmljZUZlZSk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbigiRmluYWwgQW1vdW50OiAkIitmaW5hbEFtb3VudCk7DQogICAgICAgIFN5\nc3RlbS5vdXQucHJpbnRsbigiS2l0Y2hlbiBQcmlvcml0eTogIitraXRjaGVu\nKTsNCiAgICAgICAgaW50IHRpbWUgPTA7DQogICAgICAgIGlmKGtpdGNoZW4u\nZXF1YWxzKCJIaWdoIikpew0KICAgICAgICAgICAgdGltZSA9IDI1Ow0KICAg\nICAgICB9ZWxzZSBpZihraXRjaGVuLmVxdWFscygiTWVkaXVtIikpew0KICAg\nICAgICAgICAgdGltZSA9IDIwOw0KICAgICAgICB9ZWxzZSBpZihraXRjaGVu\nLmVxdWFscygiTG93Iikpew0KICAgICAgICAgICAgdGltZSA9IDE1Ow0KICAg\nICAgICB9DQoNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFc3RpbWF0\nZWQgUHJlcCBUaW1lOiAiK3RpbWUrIiBtaW51dGVzIik7DQoNCg0KDQoNCg0K\nDQoNCg0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/67f7e762be71093acf8da835c2367d1250b3b4c5/Conditonal_Statement/Conditonal11.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/08ba116ef8bdb47b726c3b53591e20c05de33717', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/67f7e762be71093acf8da835c2367d1250b3b4c5/Conditonal_Statement/Conditonal11.java', 'name': 'Conditonal11.java', 'path': 'Conditonal_Statement/Conditonal11.java', 'sha': '08ba116ef8bdb47b726c3b53591e20c05de33717', 'size': 2784, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal11.java?ref=67f7e762be71093acf8da835c2367d1250b3b4c5'}
+import java.util.Scanner;
+
+public class Conditonal11 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        String orderType = scan.nextLine();
+        String loyaltyStatus = scan.nextLine();
+        float orderValue = scan.nextFloat();
+        scan.nextLine();
+        String timeSlot = scan.nextLine();
+
+
+        int baseDiscount = 0 ;
+        if(loyaltyStatus.equals("Gold")){
+           baseDiscount = 15 ;
+        }else  if(loyaltyStatus.equals("Silver")){
+            baseDiscount = 10 ;
+        }else  if(loyaltyStatus.equals("Bronze")){
+            baseDiscount = 5 ;
+        }else{
+             baseDiscount = 0 ;
+        }
+
+        int timeBasedAdjustment = 0;
+        if(timeSlot.equals("Peak")){
+           timeBasedAdjustment = 0 ;
+        }else  if(timeSlot.equals("Regular")){
+            timeBasedAdjustment = 0 ;
+        }else  if(timeSlot.equals("Late-Night")){
+            timeBasedAdjustment = -5 ;
+        }
+
+        float serviceFee =0 ;
+         if(orderType.equals("Delivery")){
+           serviceFee = 10 ;
+        }else  if(orderType.equals("Takeout")){
+            serviceFee = 3;
+        }else  if(orderType.equals("Dine-In")){
+            serviceFee = 0 ;
+        }
+
+        String kitchen = null;
+        if(timeSlot.equals("Peak")&&orderType.equals("Delivery")){
+            kitchen ="High";
+        }else  if(timeSlot.equals("Regular")){
+             kitchen ="Medium";
+        }else if(timeSlot.equals("Late-Night")){
+             kitchen ="Low";
+        }
+
+        int total_Discount = timeBasedAdjustment + baseDiscount;
+        float discountedValue =(orderValue*total_Discount) /100;
+       
+        float total_servicefee = (orderValue*serviceFee)/100;
+        
+        float finalAmount = (orderValue+total_servicefee)-discountedValue;
+
+        System.out.println("Order Type: "+orderType);
+        System.out.println("Loyalty Status: "+loyaltyStatus);
+        System.out.println("Order Value: $"+orderValue);
+        System.out.println("Time Slot: "+timeSlot);
+        System.out.println("Base Discount: "+baseDiscount+" %");
+        System.out.println("Time-Based Adjustment: "+timeBasedAdjustment+"%");
+        System.out.println("Service Fee: $"+serviceFee);
+        System.out.println("Final Amount: $"+finalAmount);
+        System.out.println("Kitchen Priority: "+kitchen);
+        int time =0;
+        if(kitchen.equals("High")){
+            time = 25;
+        }else if(kitchen.equals("Medium")){
+            time = 20;
+        }else if(kitchen.equals("Low")){
+            time = 15;
+        }
+
+        System.out.println("Estimated Prep Time: "+time+" minutes");
+
+
+
+
+
+
+
+
+        scan.close();
+    }
+}

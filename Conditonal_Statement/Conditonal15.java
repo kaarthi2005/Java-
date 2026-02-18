@@ -1,1 +1,82 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/cec407c9d432fd8eb38f5190c558de142739bf5a', 'html': 'https://github.com/kaarthi2005/Java-/blob/88f4930b0a386669b74b2bea42e4b7e6e077d89b/Conditonal_Statement/Conditonal15.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal15.java?ref=88f4930b0a386669b74b2bea42e4b7e6e077d89b'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDE1IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIGludCB1c2VyQ291bnQgPSBzY2Fu\nLm5leHRJbnQoKTsNCg0KICAgICAgICBzY2FuLm5leHRMaW5lKCk7DQogICAg\nICAgIFN0cmluZyBsaWNlbnNlVHlwZSA9c2Nhbi5uZXh0TGluZSgpOw0KICAg\nICAgICBTdHJpbmcgc3VwcG9ydExldmVsID0gc2Nhbi5uZXh0TGluZSgpOw0K\nICAgICAgICBpbnQgY29udHJhY3RZZWFycyA9IHNjYW4ubmV4dEludCgpOw0K\nDQogICAgICAgIGZsb2F0IGJhc2VwcmljZSA9IDA7DQogICAgICAgICBpZihs\naWNlbnNlVHlwZS5lcXVhbHMoIlN0YW5kYXJkIikpew0KICAgICAgICAgICAg\nYmFzZXByaWNlID0gNjA7DQogICAgICAgICB9ZWxzZSAgaWYobGljZW5zZVR5\ncGUuZXF1YWxzKCJQcm9mZXNzaW9uYWwiKSl7DQogICAgICAgICAgICBiYXNl\ncHJpY2UgPSAxMjA7DQogICAgICAgICB9ZWxzZSAgaWYobGljZW5zZVR5cGUu\nZXF1YWxzKCJFbnRlcnByaXNlIikpew0KICAgICAgICAgICAgYmFzZXByaWNl\nID0gMjAwOw0KICAgICAgICAgfQ0KDQogICAgICAgICBpbnQgdm9sdW1lZGlz\nY291bnQgPSAwOw0KICAgICAgICAgaWYodXNlckNvdW50ID49IDEgJiYgdXNl\nckNvdW50IDw9NTApew0KICAgICAgICAgICAgdm9sdW1lZGlzY291bnQgPSAw\nOw0KICAgICAgICAgfWVsc2UgaWYodXNlckNvdW50ID49IDUxICYmIHVzZXJD\nb3VudCA8PTIwMCl7DQogICAgICAgICAgICB2b2x1bWVkaXNjb3VudCA9IDE1\nOw0KICAgICAgICAgfWVsc2UgaWYodXNlckNvdW50ID49IDIwMSAmJiB1c2Vy\nQ291bnQgPD01MDApew0KICAgICAgICAgICAgdm9sdW1lZGlzY291bnQgPSAy\nMDsNCiAgICAgICAgIH1lbHNlIGlmKHVzZXJDb3VudCA+PSA1MDEgJiYgdXNl\nckNvdW50IDw9MTAwMCl7DQogICAgICAgICAgICB2b2x1bWVkaXNjb3VudCA9\nIDI1Ow0KICAgICAgICAgfWVsc2Ugew0KICAgICAgICAgICAgdm9sdW1lZGlz\nY291bnQgPSAzNTsNCiAgICAgICAgIH0NCg0KICAgICAgICAgZmxvYXQgc3Vw\ncG9ydGZlZSA9IDA7DQogICAgICAgICBTdHJpbmcgcHJpY2luZ1RpZXIgPSBu\ndWxsOyANCiAgICAgICAgIGlmKHN1cHBvcnRMZXZlbC5lcXVhbHMoIkJhc2lj\nIikpew0KICAgICAgICAgICAgICAgIHN1cHBvcnRmZWUgPSAxMDsNCiAgICAg\nICAgICAgICAgICBwcmljaW5nVGllciA9ICJTbWFsbCBCdXNpbmVzcyI7DQog\nICAgICAgICB9ZWxzZSBpZihzdXBwb3J0TGV2ZWwuZXF1YWxzKCJQcmlvcml0\neSIpKXsNCiAgICAgICAgICAgICAgICBzdXBwb3J0ZmVlID0gMzA7DQogICAg\nICAgICAgICAgICAgcHJpY2luZ1RpZXIgPSJNaWQtTWFya2V0IjsNCiAgICAg\nICAgIH1lbHNlIGlmKHN1cHBvcnRMZXZlbC5lcXVhbHMoIlByZW1pdW0iKSl7\nDQogICAgICAgICAgICAgICAgc3VwcG9ydGZlZSA9IDgwOw0KICAgICAgICAg\nICAgICAgIHByaWNpbmdUaWVyID0gIkVudGVycHJpc2UiOw0KICAgICAgICAg\nfQ0KICAgICAgICANCiAgICAgICAgIGludCAgbXVsdGl5ZWFyZGlzY291bnQ9\nIDA7DQogICAgICAgICBpZihjb250cmFjdFllYXJzID09MSl7DQogICAgICAg\nICAgICBtdWx0aXllYXJkaXNjb3VudD0gMDsNCiAgICAgICAgIH1lbHNlIGlm\nKGNvbnRyYWN0WWVhcnMgPT0yKXsNCiAgICAgICAgICAgIG11bHRpeWVhcmRp\nc2NvdW50PSA1Ow0KICAgICAgICAgfWVsc2UgaWYoY29udHJhY3RZZWFycyA9\nPTMpew0KICAgICAgICAgICAgbXVsdGl5ZWFyZGlzY291bnQ9IDEwOw0KICAg\nICAgICAgfWVsc2UgaWYoY29udHJhY3RZZWFycyA9PTUpew0KICAgICAgICAg\nICAgbXVsdGl5ZWFyZGlzY291bnQ9IDIwOw0KICAgICAgICAgfQ0KDQogICAg\nICAgICBmbG9hdCBkaXNjb3VudGVkQmFzZSA9IGJhc2VwcmljZSooMS12b2x1\nbWVkaXNjb3VudC8xMDAuMGYpOw0KICAgICAgICAgZmxvYXQgYW5udWFsUGVy\nVXNlciA9IChkaXNjb3VudGVkQmFzZStzdXBwb3J0ZmVlKSooMS1tdWx0aXll\nYXJkaXNjb3VudC8xMDAuMGYpOw0KICAgICAgICAgZmxvYXQgdG90YWxBbm51\nYWwgPSBhbm51YWxQZXJVc2VyKnVzZXJDb3VudDsNCiAgICAgICAgIGZsb2F0\nIGNvbnRyYWN0VmFsdWUgPSB0b3RhbEFubnVhbCpjb250cmFjdFllYXJzOw0K\nDQoNCiAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlciBDb3VudDog\nIit1c2VyQ291bnQpOw0KICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJM\naWNlbnNlIFR5cGU6ICIrbGljZW5zZVR5cGUpOw0KICAgICAgICAgU3lzdGVt\nLm91dC5wcmludGxuKCJTdXBwb3J0IExldmVsOiAiK3N1cHBvcnRMZXZlbCk7\nDQogICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNvbnRyYWN0IER1cmF0\naW9uOiAiK2NvbnRyYWN0WWVhcnMpOw0KICAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCJCYXNlIFByaWNlIFBlciBVc2VyOiAkIitiYXNlcHJpY2UpOw0K\nICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJWb2x1bWUgRGlzY291bnQ6\nICIrdm9sdW1lZGlzY291bnQpOw0KICAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJTdXBwb3J0IEZlZSBQZXIgVXNlcjogJCIrc3VwcG9ydGZlZSk7DQog\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk11bHRpLVllYXIgRGlzY291\nbnQ6ICIrbXVsdGl5ZWFyZGlzY291bnQrIiUiKTsNCiAgICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigiQW5udWFsIENvc3QgUGVyIFVzZXI6ICQiK2FubnVh\nbFBlclVzZXIpOw0KICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUb3Rh\nbCBBbm51YWwgQ29zdDogJCIrdG90YWxBbm51YWwpOw0KICAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCJUb3RhbCBDb250cmFjdCBWYWx1ZTogJCIrY29u\ndHJhY3RWYWx1ZSk7DQogICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlBy\naWNpbmcgVGllcjogIitwcmljaW5nVGllcik7DQoNCg0KDQogICAgICAgICBz\nY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/88f4930b0a386669b74b2bea42e4b7e6e077d89b/Conditonal_Statement/Conditonal15.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/cec407c9d432fd8eb38f5190c558de142739bf5a', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/88f4930b0a386669b74b2bea42e4b7e6e077d89b/Conditonal_Statement/Conditonal15.java', 'name': 'Conditonal15.java', 'path': 'Conditonal_Statement/Conditonal15.java', 'sha': 'cec407c9d432fd8eb38f5190c558de142739bf5a', 'size': 3039, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal15.java?ref=88f4930b0a386669b74b2bea42e4b7e6e077d89b'}
+import java.util.Scanner;
+
+public class Conditonal15 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int userCount = scan.nextInt();
+
+        scan.nextLine();
+        String licenseType =scan.nextLine();
+        String supportLevel = scan.nextLine();
+        int contractYears = scan.nextInt();
+
+        float baseprice = 0;
+         if(licenseType.equals("Standard")){
+            baseprice = 60;
+         }else  if(licenseType.equals("Professional")){
+            baseprice = 120;
+         }else  if(licenseType.equals("Enterprise")){
+            baseprice = 200;
+         }
+
+         int volumediscount = 0;
+         if(userCount >= 1 && userCount <=50){
+            volumediscount = 0;
+         }else if(userCount >= 51 && userCount <=200){
+            volumediscount = 15;
+         }else if(userCount >= 201 && userCount <=500){
+            volumediscount = 20;
+         }else if(userCount >= 501 && userCount <=1000){
+            volumediscount = 25;
+         }else {
+            volumediscount = 35;
+         }
+
+         float supportfee = 0;
+         String pricingTier = null; 
+         if(supportLevel.equals("Basic")){
+                supportfee = 10;
+                pricingTier = "Small Business";
+         }else if(supportLevel.equals("Priority")){
+                supportfee = 30;
+                pricingTier ="Mid-Market";
+         }else if(supportLevel.equals("Premium")){
+                supportfee = 80;
+                pricingTier = "Enterprise";
+         }
+        
+         int  multiyeardiscount= 0;
+         if(contractYears ==1){
+            multiyeardiscount= 0;
+         }else if(contractYears ==2){
+            multiyeardiscount= 5;
+         }else if(contractYears ==3){
+            multiyeardiscount= 10;
+         }else if(contractYears ==5){
+            multiyeardiscount= 20;
+         }
+
+         float discountedBase = baseprice*(1-volumediscount/100.0f);
+         float annualPerUser = (discountedBase+supportfee)*(1-multiyeardiscount/100.0f);
+         float totalAnnual = annualPerUser*userCount;
+         float contractValue = totalAnnual*contractYears;
+
+
+         System.out.println("User Count: "+userCount);
+         System.out.println("License Type: "+licenseType);
+         System.out.println("Support Level: "+supportLevel);
+         System.out.println("Contract Duration: "+contractYears);
+         System.out.println("Base Price Per User: $"+baseprice);
+         System.out.println("Volume Discount: "+volumediscount);
+         System.out.println("Support Fee Per User: $"+supportfee);
+         System.out.println("Multi-Year Discount: "+multiyeardiscount+"%");
+         System.out.println("Annual Cost Per User: $"+annualPerUser);
+         System.out.println("Total Annual Cost: $"+totalAnnual);
+         System.out.println("Total Contract Value: $"+contractValue);
+         System.out.println("Pricing Tier: "+pricingTier);
+
+
+
+         scan.close();
+    }
+}
