@@ -1,1 +1,87 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3d1e4b00fc5c7766395db8b96cb9156c6d50a565', 'html': 'https://github.com/kaarthi2005/Java-/blob/81545bcb8df076999d33b13d5ec2ae4bc2a96f68/Conditonal_Statement/Conditonal16.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal16.java?ref=81545bcb8df076999d33b13d5ec2ae4bc2a96f68'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDE2IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIFN0cmluZyByb29tQ2F0ZWdvcnkg\nPSBzY2FuLm5leHRMaW5lKCk7DQogICAgICAgIFN0cmluZyBzZWFzb24gPSBz\nY2FuLm5leHRMaW5lKCk7DQogICAgICAgIGludCBuaWdodHNCb29rZWQgPSBz\nY2FuLm5leHRJbnQoKTsNCiAgICAgICAgc2Nhbi5uZXh0TGluZSgpOw0KICAg\nICAgICBTdHJpbmcgbG95YWx0eVRpZXIgPSBzY2FuLm5leHRMaW5lKCk7DQoN\nCg0KDQogICAgICAgIGZsb2F0IHBlck5pZ2h0ID0gMDsNCiAgICAgICAgaWYo\ncm9vbUNhdGVnb3J5LmVxdWFscygiU3RhbmRhcmQiKSl7DQogICAgICAgICAg\nICBwZXJOaWdodCA9IDE1MDsNCiAgICAgICAgfWVsc2UgaWYocm9vbUNhdGVn\nb3J5LmVxdWFscygiRGVsdXhlIikpew0KICAgICAgICAgICAgIHBlck5pZ2h0\nID0gMzAwOw0KICAgICAgICB9ZWxzZSBpZihyb29tQ2F0ZWdvcnkuZXF1YWxz\nKCJTdWl0ZSIpKXsNCiAgICAgICAgICAgICBwZXJOaWdodCA9IDUwMDsNCiAg\nICAgICAgfWVsc2UgaWYocm9vbUNhdGVnb3J5LmVxdWFscygiUHJlc2lkZW50\naWFsIikpew0KICAgICAgICAgICAgIHBlck5pZ2h0ID0gMTAwMDsNCiAgICAg\nICAgfQ0KDQogICAgICAgIGZsb2F0IHNlYXNvbmFsbXVsdGlwbGllciA9IDA7\nDQogICAgICAgIGlmKHNlYXNvbi5lcXVhbHMoIk9mZi1QZWFrIikpew0KICAg\nICAgICAgICAgc2Vhc29uYWxtdWx0aXBsaWVyID0gMC43ZjsNCiAgICAgICAg\nfWVsc2UgaWYoc2Vhc29uLmVxdWFscygiUmVndWxhciIpKXsNCiAgICAgICAg\nICAgICAgc2Vhc29uYWxtdWx0aXBsaWVyID0gMS4wZjsNCiAgICAgICAgfWVs\nc2UgaWYoc2Vhc29uLmVxdWFscygiUGVhayIpKXsNCiAgICAgICAgICAgICAg\nc2Vhc29uYWxtdWx0aXBsaWVyID0gMS41ZjsNCiAgICAgICAgfWVsc2UgaWYo\nc2Vhc29uLmVxdWFscygiSG9saWRheSIpKXsNCiAgICAgICAgICAgICAgc2Vh\nc29uYWxtdWx0aXBsaWVyID0gMi4wZjsNCiAgICAgICAgfQ0KDQogICAgICAg\nIGludCAgc3RheURpc2NvdW50ID0gMDsNCiAgICAgICAgaWYobmlnaHRzQm9v\na2VkPj0xICYmbmlnaHRzQm9va2VkPD00KXsNCiAgICAgICAgICAgIHN0YXlE\naXNjb3VudCA9IDA7DQogICAgICAgIH1lbHNlIGlmKG5pZ2h0c0Jvb2tlZD49\nNSAmJm5pZ2h0c0Jvb2tlZDw9Nyl7DQogICAgICAgICAgICBzdGF5RGlzY291\nbnQgPSA1Ow0KICAgICAgICB9ZWxzZSBpZihuaWdodHNCb29rZWQ+PTggJiZu\naWdodHNCb29rZWQ8PTE0KXsNCiAgICAgICAgICAgIHN0YXlEaXNjb3VudCA9\nIDEwOw0KICAgICAgICB9ZWxzZSBpZihuaWdodHNCb29rZWQ+PTE1KXsNCiAg\nICAgICAgICAgIHN0YXlEaXNjb3VudCA9IDIwOw0KICAgICAgICB9DQoNCiAg\nICAgICAgaW50ICBsb3lhbHR5ZGlzY291bnQgPSAwOw0KICAgICAgICBpZihs\nb3lhbHR5VGllci5lcXVhbHMoIk5vbmUiKSl7DQogICAgICAgICAgICAgbG95\nYWx0eWRpc2NvdW50ID0gMDsNCiAgICAgICAgfWVsc2UgaWYobG95YWx0eVRp\nZXIuZXF1YWxzKCJNZW1iZXIiKSl7DQogICAgICAgICAgICAgbG95YWx0eWRp\nc2NvdW50ID0gMTA7DQogICAgICAgIH1lbHNlIGlmKGxveWFsdHlUaWVyLmVx\ndWFscygiR29sZCIpKXsNCiAgICAgICAgICAgICBsb3lhbHR5ZGlzY291bnQg\nPSAxNTsNCiAgICAgICAgfWVsc2UgaWYobG95YWx0eVRpZXIuZXF1YWxzKCJQ\nbGF0aW51bSIpKXsNCiAgICAgICAgICAgICBsb3lhbHR5ZGlzY291bnQgPSAy\nMDsNCiAgICAgICAgfSAgIA0KDQogICAgICAgZmxvYXQgc2Vhc29uYWxSYXRl\nID0gcGVyTmlnaHQqIHNlYXNvbmFsbXVsdGlwbGllcjsNCiAgICAgICBmbG9h\ndCBkaXNjb3VudGVkUmF0ZSA9IHNlYXNvbmFsUmF0ZSooMS1zdGF5RGlzY291\nbnQvMTAwLjBmKSooMS1sb3lhbHR5ZGlzY291bnQvMTAwLjBmKTsNCiAgICAg\nICAgZmxvYXQgdG90YWxDb3N0ID0gZGlzY291bnRlZFJhdGUgKiBuaWdodHNC\nb29rZWQ7DQoNCg0KICAgICAgICBTdHJpbmcgY29tcGxpbWVudGFyeVVwZ3Jh\nZGVzID0gIk5vbmUiOw0KICAgICAgICBpZihyb29tQ2F0ZWdvcnkuZXF1YWxz\nKCJEZWx1eGUiKSYmbG95YWx0eVRpZXIuZXF1YWxzKCJOb25lIikpew0KICAg\nICAgICAgICAgY29tcGxpbWVudGFyeVVwZ3JhZGVzID0gIk5vbmUiOw0KICAg\nICAgICB9ZWxzZSAgaWYocm9vbUNhdGVnb3J5LmVxdWFscygiRGVsdXhlIikm\nJmxveWFsdHlUaWVyLmVxdWFscygiR29sZCIpKXsNCiAgICAgICAgICAgICAg\nY29tcGxpbWVudGFyeVVwZ3JhZGVzID0gIkZyZWUgYnJlYWtmYXN0IGFuZCBz\ncGEgYWNjZXNzIjsNCiAgICAgICAgfWVsc2UgIGlmKHJvb21DYXRlZ29yeS5l\ncXVhbHMoIlN1aXRlIikmJmxveWFsdHlUaWVyLmVxdWFscygiTWVtYmVyIikp\new0KICAgICAgICAgICAgICBjb21wbGltZW50YXJ5VXBncmFkZXMgPSAiRnJl\nZSBicmVha2Zhc3QiOw0KICAgICAgICB9ZWxzZSBpZihyb29tQ2F0ZWdvcnku\nZXF1YWxzKCJQcmVzaWRlbnRpYWwiKSYmbG95YWx0eVRpZXIuZXF1YWxzKCJQ\nbGF0aW51bSIpKXsNCiAgICAgICAgICAgICAgY29tcGxpbWVudGFyeVVwZ3Jh\nZGVzID0gIkNvbmNpZXJnZSBzZXJ2aWNlLCBhaXJwb3J0IHRyYW5zZmVyLCBh\nbmQgZmluZSBkaW5pbmciOw0KICAgICAgICB9DQogICAgICAgIFN5c3RlbS5v\ndXQucHJpbnRsbigiUm9vbSBDYXRlZ29yeTogIityb29tQ2F0ZWdvcnkpOw0K\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNlYXNvbjogIitzZWFzb24p\nOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk5pZ2h0cyBCb29rZWQ6\nICIrbmlnaHRzQm9va2VkKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJMb3lhbHR5IFRpZXI6ICIrbG95YWx0eVRpZXIpOw0KICAgICAgICBTeXN0\nZW0ub3V0LnByaW50bG4oIkJhc2UgUmF0ZSBQZXIgTmlnaHQ6ICQiK3Blck5p\nZ2h0KTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTZWFzb25hbCBN\ndWx0aXBsaWVyOiAiK3NlYXNvbmFsbXVsdGlwbGllcisieCIpOw0KICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oIkV4dGVuZGVkIFN0YXkgRGlzY291bnQ6\nICIrc3RheURpc2NvdW50KyIlIik7DQogICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbigiTG95YWx0eSBEaXNjb3VudDogIitsb3lhbHR5ZGlzY291bnQrIiUi\nKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJOaWdodGx5IFJhdGU6\nICQiK3NlYXNvbmFsUmF0ZSk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbigiVG90YWwgQm9va2luZyBDb3N0OiAkIit0b3RhbENvc3QpOw0KICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oIkNvbXBsaW1lbnRhcnkgVXBncmFkZXM6\nICIrY29tcGxpbWVudGFyeVVwZ3JhZGVzKTsNCg0KICAgICAgICBzY2FuLmNs\nb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/81545bcb8df076999d33b13d5ec2ae4bc2a96f68/Conditonal_Statement/Conditonal16.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3d1e4b00fc5c7766395db8b96cb9156c6d50a565', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/81545bcb8df076999d33b13d5ec2ae4bc2a96f68/Conditonal_Statement/Conditonal16.java', 'name': 'Conditonal16.java', 'path': 'Conditonal_Statement/Conditonal16.java', 'sha': '3d1e4b00fc5c7766395db8b96cb9156c6d50a565', 'size': 3483, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal16.java?ref=81545bcb8df076999d33b13d5ec2ae4bc2a96f68'}
+import java.util.Scanner;
+
+public class Conditonal16 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        String roomCategory = scan.nextLine();
+        String season = scan.nextLine();
+        int nightsBooked = scan.nextInt();
+        scan.nextLine();
+        String loyaltyTier = scan.nextLine();
+
+
+
+        float perNight = 0;
+        if(roomCategory.equals("Standard")){
+            perNight = 150;
+        }else if(roomCategory.equals("Deluxe")){
+             perNight = 300;
+        }else if(roomCategory.equals("Suite")){
+             perNight = 500;
+        }else if(roomCategory.equals("Presidential")){
+             perNight = 1000;
+        }
+
+        float seasonalmultiplier = 0;
+        if(season.equals("Off-Peak")){
+            seasonalmultiplier = 0.7f;
+        }else if(season.equals("Regular")){
+              seasonalmultiplier = 1.0f;
+        }else if(season.equals("Peak")){
+              seasonalmultiplier = 1.5f;
+        }else if(season.equals("Holiday")){
+              seasonalmultiplier = 2.0f;
+        }
+
+        int  stayDiscount = 0;
+        if(nightsBooked>=1 &&nightsBooked<=4){
+            stayDiscount = 0;
+        }else if(nightsBooked>=5 &&nightsBooked<=7){
+            stayDiscount = 5;
+        }else if(nightsBooked>=8 &&nightsBooked<=14){
+            stayDiscount = 10;
+        }else if(nightsBooked>=15){
+            stayDiscount = 20;
+        }
+
+        int  loyaltydiscount = 0;
+        if(loyaltyTier.equals("None")){
+             loyaltydiscount = 0;
+        }else if(loyaltyTier.equals("Member")){
+             loyaltydiscount = 10;
+        }else if(loyaltyTier.equals("Gold")){
+             loyaltydiscount = 15;
+        }else if(loyaltyTier.equals("Platinum")){
+             loyaltydiscount = 20;
+        }   
+
+       float seasonalRate = perNight* seasonalmultiplier;
+       float discountedRate = seasonalRate*(1-stayDiscount/100.0f)*(1-loyaltydiscount/100.0f);
+        float totalCost = discountedRate * nightsBooked;
+
+
+        String complimentaryUpgrades = "None";
+        if(roomCategory.equals("Deluxe")&&loyaltyTier.equals("None")){
+            complimentaryUpgrades = "None";
+        }else  if(roomCategory.equals("Deluxe")&&loyaltyTier.equals("Gold")){
+              complimentaryUpgrades = "Free breakfast and spa access";
+        }else  if(roomCategory.equals("Suite")&&loyaltyTier.equals("Member")){
+              complimentaryUpgrades = "Free breakfast";
+        }else if(roomCategory.equals("Presidential")&&loyaltyTier.equals("Platinum")){
+              complimentaryUpgrades = "Concierge service, airport transfer, and fine dining";
+        }
+        System.out.println("Room Category: "+roomCategory);
+        System.out.println("Season: "+season);
+        System.out.println("Nights Booked: "+nightsBooked);
+        System.out.println("Loyalty Tier: "+loyaltyTier);
+        System.out.println("Base Rate Per Night: $"+perNight);
+        System.out.println("Seasonal Multiplier: "+seasonalmultiplier+"x");
+        System.out.println("Extended Stay Discount: "+stayDiscount+"%");
+        System.out.println("Loyalty Discount: "+loyaltydiscount+"%");
+        System.out.println("Nightly Rate: $"+seasonalRate);
+        System.out.println("Total Booking Cost: $"+totalCost);
+        System.out.println("Complimentary Upgrades: "+complimentaryUpgrades);
+
+        scan.close();
+    }
+}

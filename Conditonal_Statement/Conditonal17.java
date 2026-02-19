@@ -1,1 +1,86 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/791e560e0b1bcdeaac6511f6138c170c7b688593', 'html': 'https://github.com/kaarthi2005/Java-/blob/db710e786733fd4140a81ab39be7c6dbb26a7771/Conditonal_Statement/Conditonal17.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal17.java?ref=db710e786733fd4140a81ab39be7c6dbb26a7771'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQ29u\nZGl0b25hbDE3IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgICBTdHJpbmcgY2FyZFRpZXIgID0g\nc2Nhbi5uZXh0TGluZSgpOw0KICAgICAgICBTdHJpbmcgcHVyY2hhc2VDYXRl\nZ29yeSAgPSBzY2FuLm5leHRMaW5lKCk7DQogICAgICAgIGZsb2F0IHRyYW5z\nYWN0aW9uQW1vdW50ICA9IHNjYW4ubmV4dEZsb2F0KCk7DQogICAgICAgIHNj\nYW4ubmV4dExpbmUoKTsNCiAgICAgICAgU3RyaW5nIHByb21vdGlvbmFsU3Rh\ndHVzICA9IHNjYW4ubmV4dExpbmUoKTsNCg0KICAgICAgICBmbG9hdCAgYmFz\nZXBvaW50cyA9IDEuMGY7DQoNCiAgICAgICAgZmxvYXQgY2F0ZWdvcnlib251\ncyA9IDA7DQogICAgICAgIGlmKHB1cmNoYXNlQ2F0ZWdvcnkuZXF1YWxzKCJH\ncm9jZXJpZXMiKSl7DQogICAgICAgICAgICBjYXRlZ29yeWJvbnVzID0gMi4w\nZjsNCiAgICAgICAgfWVsc2UgaWYocHVyY2hhc2VDYXRlZ29yeS5lcXVhbHMo\nIkRpbmluZyIpKXsNCiAgICAgICAgICAgIGNhdGVnb3J5Ym9udXMgPSAyLjVm\nOw0KICAgICAgICB9ZWxzZSBpZihwdXJjaGFzZUNhdGVnb3J5LmVxdWFscygi\nVHJhdmVsIikpew0KICAgICAgICAgICAgY2F0ZWdvcnlib251cyA9IDMuMGY7\nDQogICAgICAgIH1lbHNlIGlmKHB1cmNoYXNlQ2F0ZWdvcnkuZXF1YWxzKCJH\nYXMiKSl7DQogICAgICAgICAgICBjYXRlZ29yeWJvbnVzID0gMi4wZjsNCiAg\nICAgICAgfWVsc2UgaWYocHVyY2hhc2VDYXRlZ29yeS5lcXVhbHMoIk90aGVy\nIikpew0KICAgICAgICAgICAgY2F0ZWdvcnlib251cyA9IDEuMGY7DQogICAg\nICAgIH0NCg0KDQogICAgICAgIGZsb2F0IHRpZXJtdWx0aXBsaWVyID0gMDsN\nCiAgICAgICAgU3RyaW5nIFJld2FyZHM9IG51bGw7DQogICAgICAgIGlmKGNh\ncmRUaWVyLmVxdWFscygiQmFzaWMiKSl7DQogICAgICAgICAgICB0aWVybXVs\ndGlwbGllciA9IDEuMGY7DQogICAgICAgICAgICAgUmV3YXJkcz0gIlN0YW5k\nYXJkIjsNCiAgICAgICAgfWVsc2UgaWYoY2FyZFRpZXIuZXF1YWxzKCJHb2xk\nIikpew0KICAgICAgICAgICAgdGllcm11bHRpcGxpZXIgPSAxLjI1ZjsNCiAg\nICAgICAgICAgIFJld2FyZHM9ICJFbmhhbmNlZCI7DQogICAgICAgIH1lbHNl\nIGlmKGNhcmRUaWVyLmVxdWFscygiUGxhdGludW0iKSl7DQogICAgICAgICAg\nICB0aWVybXVsdGlwbGllciA9IDEuNWY7DQogICAgICAgICAgICBSZXdhcmRz\nID0gIlByZW1pdW0iOw0KICAgICAgICB9ZWxzZSBpZihjYXJkVGllci5lcXVh\nbHMoIkJhY2siKSl7DQogICAgICAgICAgICB0aWVybXVsdGlwbGllciA9IDIu\nMGY7DQogICAgICAgICAgICBSZXdhcmRzPSAiRWxpdGUiOw0KICAgICAgICB9\nDQoNCg0KICAgICAgICAgZmxvYXQgIHByb21vdGlvbmFsbXVsdGlwbGllciA9\nIDA7DQogICAgICAgIGlmKHByb21vdGlvbmFsU3RhdHVzLmVxdWFscygiTm9u\nZSIpKXsNCiAgICAgICAgICAgIHByb21vdGlvbmFsbXVsdGlwbGllciA9IDEu\nMGY7DQogICAgICAgIH1lbHNlIGlmKHByb21vdGlvbmFsU3RhdHVzLmVxdWFs\ncygiRG91YmxlLVBvaW50cyIpKXsNCiAgICAgICAgICAgIHByb21vdGlvbmFs\nbXVsdGlwbGllciA9IDIuMGY7DQogICAgICAgIH1lbHNlIGlmKHByb21vdGlv\nbmFsU3RhdHVzLmVxdWFscygiVHJpcGxlLVBvaW50cyIpKXsNCiAgICAgICAg\nICAgIHByb21vdGlvbmFsbXVsdGlwbGllciA9IDMuMGY7DQogICAgICAgIH0N\nCg0KICAgICAgICBmbG9hdCBwb2ludHNFYXJuZWQgPSB0cmFuc2FjdGlvbkFt\nb3VudCpiYXNlcG9pbnRzKmNhdGVnb3J5Ym9udXMqdGllcm11bHRpcGxpZXIq\ncHJvbW90aW9uYWxtdWx0aXBsaWVyOw0KDQogICAgICAgIGZsb2F0IGNhc2h2\nYWx1ZSA9IChwb2ludHNFYXJuZWQqYmFzZXBvaW50cykvMTAwLjBmOw0KDQog\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ2FyZCBUaWVyOiAiK2NhcmRU\naWVyKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJQdXJjaGFzZSBD\nYXRlZ29yeTogIitwdXJjaGFzZUNhdGVnb3J5KTsNCiAgICAgICAgU3lzdGVt\nLm91dC5wcmludGxuKCJUcmFuc2FjdGlvbiBBbW91bnQ6ICQiK3RyYW5zYWN0\naW9uQW1vdW50KTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJQcm9t\nb3Rpb25hbCBTdGF0dXM6ICIrcHJvbW90aW9uYWxTdGF0dXMpOw0KICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oIkJhc2UgUG9pbnRzIFJhdGU6ICIrYmFz\nZXBvaW50cysicG9pbnRzIHBlciBkb2xsYXIiKTsNCiAgICAgICAgU3lzdGVt\nLm91dC5wcmludGxuKCJDYXRlZ29yeSBCb251czogIitjYXRlZ29yeWJvbnVz\nKyIlIik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGllciBNdWx0\naXBsaWVyOiAiK3RpZXJtdWx0aXBsaWVyKyJ4Iik7DQogICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigiUHJvbW90aW9uYWwgTXVsdGlwbGllcjogIitwcm9t\nb3Rpb25hbG11bHRpcGxpZXIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oIlBvaW50cyBFYXJuZWQ6ICIrcG9pbnRzRWFybmVkKTsNCiAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKCJFcXVpdmFsZW50IENhc2ggVmFsdWU6ICQi\nK2Nhc2h2YWx1ZSk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUmV3\nYXJkIDogIitSZXdhcmRzKTsNCg0KICAgICAgICANCg0KDQoNCg0KDQoNCg0K\nDQoNCg0KDQoNCg0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/db710e786733fd4140a81ab39be7c6dbb26a7771/Conditonal_Statement/Conditonal17.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/791e560e0b1bcdeaac6511f6138c170c7b688593', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/db710e786733fd4140a81ab39be7c6dbb26a7771/Conditonal_Statement/Conditonal17.java', 'name': 'Conditonal17.java', 'path': 'Conditonal_Statement/Conditonal17.java', 'sha': '791e560e0b1bcdeaac6511f6138c170c7b688593', 'size': 2790, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Conditonal_Statement/Conditonal17.java?ref=db710e786733fd4140a81ab39be7c6dbb26a7771'}
+import java.util.Scanner;
+
+public class Conditonal17 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+         String cardTier  = scan.nextLine();
+        String purchaseCategory  = scan.nextLine();
+        float transactionAmount  = scan.nextFloat();
+        scan.nextLine();
+        String promotionalStatus  = scan.nextLine();
+
+        float  basepoints = 1.0f;
+
+        float categorybonus = 0;
+        if(purchaseCategory.equals("Groceries")){
+            categorybonus = 2.0f;
+        }else if(purchaseCategory.equals("Dining")){
+            categorybonus = 2.5f;
+        }else if(purchaseCategory.equals("Travel")){
+            categorybonus = 3.0f;
+        }else if(purchaseCategory.equals("Gas")){
+            categorybonus = 2.0f;
+        }else if(purchaseCategory.equals("Other")){
+            categorybonus = 1.0f;
+        }
+
+
+        float tiermultiplier = 0;
+        String Rewards= null;
+        if(cardTier.equals("Basic")){
+            tiermultiplier = 1.0f;
+             Rewards= "Standard";
+        }else if(cardTier.equals("Gold")){
+            tiermultiplier = 1.25f;
+            Rewards= "Enhanced";
+        }else if(cardTier.equals("Platinum")){
+            tiermultiplier = 1.5f;
+            Rewards = "Premium";
+        }else if(cardTier.equals("Back")){
+            tiermultiplier = 2.0f;
+            Rewards= "Elite";
+        }
+
+
+         float  promotionalmultiplier = 0;
+        if(promotionalStatus.equals("None")){
+            promotionalmultiplier = 1.0f;
+        }else if(promotionalStatus.equals("Double-Points")){
+            promotionalmultiplier = 2.0f;
+        }else if(promotionalStatus.equals("Triple-Points")){
+            promotionalmultiplier = 3.0f;
+        }
+
+        float pointsEarned = transactionAmount*basepoints*categorybonus*tiermultiplier*promotionalmultiplier;
+
+        float cashvalue = (pointsEarned*basepoints)/100.0f;
+
+        System.out.println("Card Tier: "+cardTier);
+        System.out.println("Purchase Category: "+purchaseCategory);
+        System.out.println("Transaction Amount: $"+transactionAmount);
+        System.out.println("Promotional Status: "+promotionalStatus);
+        System.out.println("Base Points Rate: "+basepoints+"points per dollar");
+        System.out.println("Category Bonus: "+categorybonus+"%");
+        System.out.println("Tier Multiplier: "+tiermultiplier+"x");
+        System.out.println("Promotional Multiplier: "+promotionalmultiplier);
+        System.out.println("Points Earned: "+pointsEarned);
+        System.out.println("Equivalent Cash Value: $"+cashvalue);
+        System.out.println("Reward : "+Rewards);
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+        scan.close();
+    }
+}
