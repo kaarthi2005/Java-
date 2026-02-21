@@ -1,1 +1,55 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/e958cb1d6a757005dfc3e67020270374869f846c', 'html': 'https://github.com/kaarthi2005/Java-/blob/0d95ca6c69df177c4336144c9a6926d6aed8ec42/For-Loops/Forloop1.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop1.java?ref=0d95ca6c69df177c4336144c9a6926d6aed8ec42'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KDQpwdWJsaWMgY2xhc3MgRm9ybG9vcDEg\new0KDQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIFtdIGFy\nZ3Mpew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5lcihTeXN0\nZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgpOw0KICAg\nICAgICBpbnQgY291bnQgPTA7DQogICAgICAgIERvdWJsZSB0b3RhbFBheXJv\nbGwgPTAuMDBkOw0KICAgICAgICBmb3IoaW50IGk9MCA7aTxuIDtpKyspew0K\nICAgICAgICAgICAgc2Nhbi5uZXh0TGluZSgpOw0KICAgICAgICAgICAgU3Ry\naW5nIGVtcGxveWVlTmFtZSA9IHNjYW4ubmV4dExpbmUoKTsNCiAgICAgICAg\nICAgIERvdWJsZSBiYXNlU2FsYXJ5ID0gc2Nhbi5uZXh0RG91YmxlKCk7DQog\nICAgICAgICAgICBpbnQgcGVyZm9ybWFuY2VSYXRpbmcgPSBzY2FuLm5leHRJ\nbnQoKTsNCg0KICAgICAgICAgICAgaW50IGluY3JlbWVudHBlcmNlbnRhZ2Ug\nPSAwOw0KICAgICAgICAgICAgaWYocGVyZm9ybWFuY2VSYXRpbmc9PTUpew0K\nICAgICAgICAgICAgICAgIGluY3JlbWVudHBlcmNlbnRhZ2UgPSAxNTsNCiAg\nICAgICAgICAgIH1lbHNlIGlmKHBlcmZvcm1hbmNlUmF0aW5nPT00KXsNCiAg\nICAgICAgICAgICAgICBpbmNyZW1lbnRwZXJjZW50YWdlID0gMTA7DQogICAg\nICAgICAgICB9ZWxzZSBpZihwZXJmb3JtYW5jZVJhdGluZz09Myl7DQogICAg\nICAgICAgICAgICAgaW5jcmVtZW50cGVyY2VudGFnZSA9IDU7DQogICAgICAg\nICAgICB9ZWxzZSBpZihwZXJmb3JtYW5jZVJhdGluZz09Mil7DQogICAgICAg\nICAgICAgICAgaW5jcmVtZW50cGVyY2VudGFnZSA9IDI7DQogICAgICAgICAg\nICB9ZWxzZSBpZihwZXJmb3JtYW5jZVJhdGluZz09MSl7DQogICAgICAgICAg\nICAgICAgaW5jcmVtZW50cGVyY2VudGFnZSA9IDA7DQogICAgICAgICAgICB9\nDQoNCiAgICAgICAgICAgIERvdWJsZSAgZmluYWxzYWxhcnkgPSBiYXNlU2Fs\nYXJ5ICooMStpbmNyZW1lbnRwZXJjZW50YWdlLzEwMC4wZik7DQoNCiAgICAg\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW1wbG95ZWU6ICIrZW1wbG95\nZWVOYW1lKTsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJCYXNl\nIFNhbGFyeTogJCUuMWYiLGJhc2VTYWxhcnkpOw0KICAgICAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCJQZXJmb3JtYW5jZSBSYXRpbmc6ICIrcGVyZm9y\nbWFuY2VSYXRpbmcpOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJJbmNyZW1lbnQ6ICIraW5jcmVtZW50cGVyY2VudGFnZSsiJSIpOw0KICAg\nICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIkZpbmFsIFNhbGFyeTogJCUu\nMWZcbiIsZmluYWxzYWxhcnkpOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCk7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsN\nCiAgICAgICAgICAgDQogICAgICAgICAgICB0b3RhbFBheXJvbGwgKz0gZmlu\nYWxzYWxhcnk7DQogICAgICAgICAgICBjb3VudCsrOw0KDQogICAgICAgIH0N\nCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRvdGFsIEVtcGxveWVl\ncyBQcm9jZXNzZWQ6ICIrY291bnQpOw0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50ZigiVG90YWwgUGF5cm9sbDogJCUuMWZcbiIsdG90YWxQYXlyb2xsKTsN\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIkF2ZXJhZ2UgU2FsYXJ5OiAk\nJS4xZlxuIix0b3RhbFBheXJvbGwvY291bnQpOw0KDQoNCg0KDQoNCg0KICAg\nICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/0d95ca6c69df177c4336144c9a6926d6aed8ec42/For-Loops/Forloop1.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/e958cb1d6a757005dfc3e67020270374869f846c', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/0d95ca6c69df177c4336144c9a6926d6aed8ec42/For-Loops/Forloop1.java', 'name': 'Forloop1.java', 'path': 'For-Loops/Forloop1.java', 'sha': 'e958cb1d6a757005dfc3e67020270374869f846c', 'size': 1783, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop1.java?ref=0d95ca6c69df177c4336144c9a6926d6aed8ec42'}
+import java.util.*;
+
+public class Forloop1 {
+
+    public static void main(String [] args){
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int count =0;
+        Double totalPayroll =0.00d;
+        for(int i=0 ;i<n ;i++){
+            scan.nextLine();
+            String employeeName = scan.nextLine();
+            Double baseSalary = scan.nextDouble();
+            int performanceRating = scan.nextInt();
+
+            int incrementpercentage = 0;
+            if(performanceRating==5){
+                incrementpercentage = 15;
+            }else if(performanceRating==4){
+                incrementpercentage = 10;
+            }else if(performanceRating==3){
+                incrementpercentage = 5;
+            }else if(performanceRating==2){
+                incrementpercentage = 2;
+            }else if(performanceRating==1){
+                incrementpercentage = 0;
+            }
+
+            Double  finalsalary = baseSalary *(1+incrementpercentage/100.0f);
+
+            System.out.println("Employee: "+employeeName);
+            System.out.printf("Base Salary: $%.1f",baseSalary);
+            System.out.println("Performance Rating: "+performanceRating);
+            System.out.println("Increment: "+incrementpercentage+"%");
+            System.out.printf("Final Salary: $%.1f\n",finalsalary);
+            System.out.println();
+            System.out.println();
+           
+            totalPayroll += finalsalary;
+            count++;
+
+        }
+
+        System.out.println("Total Employees Processed: "+count);
+        System.out.printf("Total Payroll: $%.1f\n",totalPayroll);
+        System.out.printf("Average Salary: $%.1f\n",totalPayroll/count);
+
+
+
+
+
+
+        scan.close();
+    }
+}
