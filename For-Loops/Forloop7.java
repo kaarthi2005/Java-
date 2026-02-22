@@ -1,1 +1,61 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/0df90e65376776782067b4c344943a16ad2efe70', 'html': 'https://github.com/kaarthi2005/Java-/blob/2280a8b181f5c9dc9f889ac7ae03ada5c7c6bf33/For-Loops/Forloop7.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop7.java?ref=2280a8b181f5c9dc9f889ac7ae03ada5c7c6bf33'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgRm9y\nbG9vcDcgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1td\nIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIo\nU3lzdGVtLmluKTsNCiAgICAgICAgaW50IE4gPSBzY2FuLm5leHRJbnQoKTsN\nCiAgICAgICAgaW50IGNvdW50ID0gMDsNCiAgICAgICAgZmxvYXQgdG90YWx1\nbml0ID0gMDsNCiAgICAgICAgZmxvYXQgdG90YWxyZXYgPSAwOw0KICAgICAg\nDQogICAgICAgIGZvcihpbnQgaT0wIDtpPE4gO2krKyl7DQogICAgICAgICAg\nICBjb3VudCsrOw0KICAgICAgICAgICAgc2Nhbi5uZXh0TGluZSgpOw0KICAg\nICAgICAgICAgU3RyaW5nIGNvbnN1bWVySUQgPSBzY2FuLm5leHRMaW5lKCk7\nDQogICAgICAgICAgICBmbG9hdCB1bml0c0NvbnN1bWVkID0gc2Nhbi5uZXh0\nRmxvYXQoKTsNCg0KDQogICAgICAgICAgICBmbG9hdCBiaWxsQW1vdW50ID0g\nMDsNCiAgICAgICAgICAgIFN0cmluZyBjYXRlZ29yeSA9IG51bGw7DQogICAg\nICAgICAgICBpZih1bml0c0NvbnN1bWVkID49IDAgICYmIHVuaXRzQ29uc3Vt\nZWQgPD0xMDApew0KICAgICAgICAgICAgICAgIGJpbGxBbW91bnQgPSAwLjEw\nZjsNCiAgICAgICAgICAgICAgICBjYXRlZ29yeSA9ICJMb3cgVXNhZ2UiOw0K\nICAgICAgICAgICAgfWVsc2UgaWYodW5pdHNDb25zdW1lZCA+PSAxMDEgICYm\nIHVuaXRzQ29uc3VtZWQgPD0gMjAwKXsNCiAgICAgICAgICAgICAgICAgYmls\nbEFtb3VudCA9IDAuMTNmOw0KICAgICAgICAgICAgICAgICBjYXRlZ29yeSA9\nICJMb3cgVXNhZ2UiOw0KICAgICAgICAgICAgfWVsc2UgaWYodW5pdHNDb25z\ndW1lZCA+PSAyMDEgICYmIHVuaXRzQ29uc3VtZWQgPD0gMzAwKXsNCiAgICAg\nICAgICAgICAgICAgYmlsbEFtb3VudCA9IDAuMTZmOw0KICAgICAgICAgICAg\nICAgICBjYXRlZ29yeSA9ICJNZWRpdW0gVXNhZ2UiOw0KICAgICAgICAgICAg\nfWVsc2UgaWYodW5pdHNDb25zdW1lZCA+MzAwKXsNCiAgICAgICAgICAgICAg\nICAgYmlsbEFtb3VudCA9IDAuMjBmOw0KICAgICAgICAgICAgICAgICBjYXRl\nZ29yeSA9ICJIaWdoIFVzYWdlIjsNCiAgICAgICAgICAgIH0NCg0KICAgICAg\nICAgICAgZmxvYXQgYXZnYmlsbGFtb3VudCA9ICh1bml0c0NvbnN1bWVkICog\nYmlsbEFtb3VudCk7DQoNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbigiQ29uc3VtZXIgSUQ6ICIrY29uc3VtZXJJRCk7DQogICAgICAgICAgICBT\neXN0ZW0ub3V0LnByaW50bG4oIlVuaXRzIENvbnN1bWVkOiAiKyhpbnQpdW5p\ndHNDb25zdW1lZCk7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIkJpbGwgQW1vdW50OiAkIithdmdiaWxsYW1vdW50KTsNCiAgICAgICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiQ2F0ZWdvcnk6ICIrY2F0ZWdvcnkpOw0K\nICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7DQogICAgICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oKTsNCg0KICAgICAgICAgICAgdG90YWx1\nbml0ICs9IHVuaXRzQ29uc3VtZWQ7DQogICAgICAgICAgICB0b3RhbHJldiAr\nPSBhdmdiaWxsYW1vdW50Ow0KDQoNCg0KDQoNCg0KICAgICAgICB9DQogICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwgQ29uc3VtZXJzOiAiK2Nv\ndW50KTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUb3RhbCBVbml0\ncyBDb25zdW1lZDogIisoaW50KXRvdGFsdW5pdCk7DQogICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigiVG90YWwgUmV2ZW51ZTogJCIrdG90YWxyZXYpOw0K\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkF2ZXJhZ2UgQmlsbDogJCIr\ndG90YWxyZXYvY291bnQpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nKTsNCg0KDQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/2280a8b181f5c9dc9f889ac7ae03ada5c7c6bf33/For-Loops/Forloop7.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/0df90e65376776782067b4c344943a16ad2efe70', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/2280a8b181f5c9dc9f889ac7ae03ada5c7c6bf33/For-Loops/Forloop7.java', 'name': 'Forloop7.java', 'path': 'For-Loops/Forloop7.java', 'sha': '0df90e65376776782067b4c344943a16ad2efe70', 'size': 1931, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop7.java?ref=2280a8b181f5c9dc9f889ac7ae03ada5c7c6bf33'}
+import java.util.Scanner;
+
+public class Forloop7 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int N = scan.nextInt();
+        int count = 0;
+        float totalunit = 0;
+        float totalrev = 0;
+      
+        for(int i=0 ;i<N ;i++){
+            count++;
+            scan.nextLine();
+            String consumerID = scan.nextLine();
+            float unitsConsumed = scan.nextFloat();
+
+
+            float billAmount = 0;
+            String category = null;
+            if(unitsConsumed >= 0  && unitsConsumed <=100){
+                billAmount = 0.10f;
+                category = "Low Usage";
+            }else if(unitsConsumed >= 101  && unitsConsumed <= 200){
+                 billAmount = 0.13f;
+                 category = "Low Usage";
+            }else if(unitsConsumed >= 201  && unitsConsumed <= 300){
+                 billAmount = 0.16f;
+                 category = "Medium Usage";
+            }else if(unitsConsumed >300){
+                 billAmount = 0.20f;
+                 category = "High Usage";
+            }
+
+            float avgbillamount = (unitsConsumed * billAmount);
+
+            System.out.println("Consumer ID: "+consumerID);
+            System.out.println("Units Consumed: "+(int)unitsConsumed);
+            System.out.println("Bill Amount: $"+avgbillamount);
+            System.out.println("Category: "+category);
+            System.out.println();
+            System.out.println();
+
+            totalunit += unitsConsumed;
+            totalrev += avgbillamount;
+
+
+
+
+
+
+        }
+        System.out.println("Total Consumers: "+count);
+        System.out.println("Total Units Consumed: "+(int)totalunit);
+        System.out.println("Total Revenue: $"+totalrev);
+        System.out.println("Average Bill: $"+totalrev/count);
+        System.out.println();
+
+
+        scan.close();
+    }
+}

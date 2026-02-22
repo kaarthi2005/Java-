@@ -1,1 +1,67 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/ff2104da1858c1f4c90b8a2abe7abf34e787b7f0', 'html': 'https://github.com/kaarthi2005/Java-/blob/f5526cd356f3bc2851a7c8c5f0543d387579091c/For-Loops/Forloop4.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop4.java?ref=f5526cd356f3bc2851a7c8c5f0543d387579091c'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KcHVibGljIGNsYXNzIEZvcmxvb3A0IHsN\nCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7\nDQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVyKFN5c3RlbS5p\nbik7DQogICAgICAgIGludCBuID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAg\nIGZsb2F0IHRvdGFsc2FsZXMgPSAwOw0KICAgICAgICBmbG9hdCB0b3RhbGNv\nbW0gPSAwOw0KICAgICAgICBTdHJpbmcgbWF4ID0gbnVsbDsNCiAgICAgICAg\naW50IGNvdW50ID0wOw0KICAgICAgICBEb3VibGUgaGlnaCA9IERvdWJsZS5N\nSU5fVkFMVUU7DQogICAgICAgIA0KICAgICAgICBmb3IgKGludCBpID0gMDsg\naSA8IG47IGkrKykgew0KICAgICAgICAgICAgY291bnQrKzsNCiAgICAgICAg\nICAgIHNjYW4ubmV4dExpbmUoKTsNCiAgICAgICAgICAgIFN0cmluZyBzYWxl\nc1JlcCA9IHNjYW4ubmV4dExpbmUoKTsNCiAgICAgICAgICAgIERvdWJsZSBz\nYWxlc0Ftb3VudCA9IHNjYW4ubmV4dERvdWJsZSgpOw0KDQogICAgICAgICAg\nICBpbnQgY29tbWlzc2lvbnJhdGUgPSAwOw0KICAgICAgICAgICAgaWYoc2Fs\nZXNBbW91bnQgPj0wICYmIHNhbGVzQW1vdW50IDw9NDAwMDApew0KICAgICAg\nICAgICAgICAgIGNvbW1pc3Npb25yYXRlID0gNTsNCiAgICAgICAgICAgIH1l\nbHNlICBpZihzYWxlc0Ftb3VudCA+PTQwMDAxICYmIHNhbGVzQW1vdW50IDw9\nODAwMDApew0KICAgICAgICAgICAgICAgICBjb21taXNzaW9ucmF0ZSA9IDg7\nDQogICAgICAgICAgICB9ZWxzZSAgaWYoc2FsZXNBbW91bnQgPj04MDAwMSAm\nJiBzYWxlc0Ftb3VudCA8PTEwMDAwMCl7DQogICAgICAgICAgICAgICAgIGNv\nbW1pc3Npb25yYXRlID0gMTA7DQogICAgICAgICAgICB9ZWxzZSAgaWYoc2Fs\nZXNBbW91bnQgPj0xMDAwMDEgJiYgc2FsZXNBbW91bnQgPD0xNTAwMDApew0K\nICAgICAgICAgICAgICAgICBjb21taXNzaW9ucmF0ZSA9IDEyOw0KICAgICAg\nICAgICAgfWVsc2Ugew0KICAgICAgICAgICAgICAgICBjb21taXNzaW9ucmF0\nZSA9IDE1Ow0KICAgICAgICAgICAgfQ0KDQogICAgICAgICAgICBEb3VibGUg\nY29tbWlzc2lvbmVhcm5lZCAgPSAoc2FsZXNBbW91bnQqY29tbWlzc2lvbnJh\ndGUpLzEwMDsNCg0KICAgICAgICAgIGZsb2F0IGJvbnVzID0gMDsNCiAgICAg\nICAgICAgIGlmKHNhbGVzQW1vdW50ID49IDEwMDAwMCAmJiBzYWxlc0Ftb3Vu\ndCA8PSAxNDk5OTkpew0KICAgICAgICAgICAgICAgIGJvbnVzID0gMjAwMDsN\nCiAgICAgICAgICAgIH1lbHNlIGlmKHNhbGVzQW1vdW50ID49MTUwMDAwICl7\nDQogICAgICAgICAgICAgICAgYm9udXMgPSAzMDAwOw0KICAgICAgICAgICAg\nfQ0KICAgICAgICAgICAgRG91YmxlIHRvdGFscGF5b3V0ID0gY29tbWlzc2lv\nbmVhcm5lZCtib251czsNCg0KICAgICAgICAgICAgdG90YWxzYWxlcyArPSBz\nYWxlc0Ftb3VudDsNCiAgICAgICAgICAgIHRvdGFsY29tbSArPSBjb21taXNz\naW9uZWFybmVkOw0KICAgICAgICAgICAgaWYodG90YWxwYXlvdXQ+aGlnaCl7\nDQogICAgICAgICAgICAgICAgaGlnaCA9IHRvdGFscGF5b3V0Ow0KICAgICAg\nICAgICAgICAgIG1heCA9IHNhbGVzUmVwOw0KICAgICAgICAgICAgfQ0KDQog\nICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsNCiAgICAgICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiU2FsZXMgUmVwOiAiK3NhbGVzUmVwKTsN\nCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJTYWxlcyBBbW91bnQ6\nICQlLjFmXG4iLHNhbGVzQW1vdW50KTsNCiAgICAgICAgICAgIFN5c3RlbS5v\ndXQucHJpbnRsbigiQ29tbWlzc2lvbiBSYXRlOiAiK2NvbW1pc3Npb25yYXRl\nKyIlIik7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiQ29tbWlz\nc2lvbiBFYXJuZWQ6ICQlLjFmXG4iLGNvbW1pc3Npb25lYXJuZWQpOw0KICAg\nICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJCb251czogJCIrYm9udXMp\nOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIlRvdGFsIFBheW91\ndDogJCUuMWZcbiIsdG90YWxwYXlvdXQpOw0KICAgICAgICAgICAgU3lzdGVt\nLm91dC5wcmludGxuKCk7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oKTsNCg0KDQogICAgICAgIH0NCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJUb3RhbCBTYWxlcyBSZXBzOiAiK2NvdW50KTsNCiAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCJUb3RhbCBTYWxlczogJCIrdG90YWxzYWxlcyk7\nDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwgQ29tbWlzc2lv\nbnM6ICQiK3RvdGFsY29tbSk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbigiVG9wIFBlcmZvcm1lcjogIittYXgpOw0KDQogICAgICAgIHNjYW4uY2xv\nc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/f5526cd356f3bc2851a7c8c5f0543d387579091c/For-Loops/Forloop4.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/ff2104da1858c1f4c90b8a2abe7abf34e787b7f0', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/f5526cd356f3bc2851a7c8c5f0543d387579091c/For-Loops/Forloop4.java', 'name': 'Forloop4.java', 'path': 'For-Loops/Forloop4.java', 'sha': 'ff2104da1858c1f4c90b8a2abe7abf34e787b7f0', 'size': 2402, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop4.java?ref=f5526cd356f3bc2851a7c8c5f0543d387579091c'}
+import java.util.*;
+public class Forloop4 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        float totalsales = 0;
+        float totalcomm = 0;
+        String max = null;
+        int count =0;
+        Double high = Double.MIN_VALUE;
+        
+        for (int i = 0; i < n; i++) {
+            count++;
+            scan.nextLine();
+            String salesRep = scan.nextLine();
+            Double salesAmount = scan.nextDouble();
+
+            int commissionrate = 0;
+            if(salesAmount >=0 && salesAmount <=40000){
+                commissionrate = 5;
+            }else  if(salesAmount >=40001 && salesAmount <=80000){
+                 commissionrate = 8;
+            }else  if(salesAmount >=80001 && salesAmount <=100000){
+                 commissionrate = 10;
+            }else  if(salesAmount >=100001 && salesAmount <=150000){
+                 commissionrate = 12;
+            }else {
+                 commissionrate = 15;
+            }
+
+            Double commissionearned  = (salesAmount*commissionrate)/100;
+
+          float bonus = 0;
+            if(salesAmount >= 100000 && salesAmount <= 149999){
+                bonus = 2000;
+            }else if(salesAmount >=150000 ){
+                bonus = 3000;
+            }
+            Double totalpayout = commissionearned+bonus;
+
+            totalsales += salesAmount;
+            totalcomm += commissionearned;
+            if(totalpayout>high){
+                high = totalpayout;
+                max = salesRep;
+            }
+
+            System.out.println();
+            System.out.println("Sales Rep: "+salesRep);
+            System.out.printf("Sales Amount: $%.1f\n",salesAmount);
+            System.out.println("Commission Rate: "+commissionrate+"%");
+            System.out.printf("Commission Earned: $%.1f\n",commissionearned);
+            System.out.println("Bonus: $"+bonus);
+            System.out.printf("Total Payout: $%.1f\n",totalpayout);
+            System.out.println();
+            System.out.println();
+
+
+        }
+        System.out.println("Total Sales Reps: "+count);
+        System.out.println("Total Sales: $"+totalsales);
+        System.out.println("Total Commissions: $"+totalcomm);
+        System.out.println("Top Performer: "+max);
+
+        scan.close();
+    }
+}
