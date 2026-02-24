@@ -1,1 +1,52 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/17b5904875500da0098ec1af4c200fb4c50ea57b', 'html': 'https://github.com/kaarthi2005/Java-/blob/c6e1cfba759dedabe3a358511495ededc7b9002d/For-Loops/Forloop8.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop8.java?ref=c6e1cfba759dedabe3a358511495ededc7b9002d'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQoNCnB1YmxpYyBjbGFzcyBG\nb3Jsb29wOCB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICAgIERvdWJsZSBvcmlnaW5hbFRvdGFsID0gMC4wMDsNCiAg\nICAgICAgICBpbnQgY291bnQgPSAwOw0KICAgICAgICAgIERvdWJsZSBmaW5h\nbHRvdGFsID0gMC4wMDsNCiAgICAgICAgICBEb3VibGUgdG90YWxEaXNjb3Vu\ndCA9IDAuMDA7DQogICAgICAgIGZvcihpbnQgaT0wIDtpPG4gO2krKyl7DQog\nICAgICAgICAgICBzY2FuLm5leHRMaW5lKCk7DQogICAgICAgICAgICBTdHJp\nbmcgcHJvZHVjdE5hbWUgPSBzY2FuLm5leHRMaW5lKCk7DQogICAgICAgICAg\nICBEb3VibGUgcHJpY2UgPSBzY2FuLm5leHREb3VibGUoKTsNCiAgICAgICAg\nICAgIGludCBxdWFudGl0eSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICAg\nICAgaW50IGRpc2NvdW50ID0gMDsNCiAgICAgICAgICAgIGlmKHF1YW50aXR5\nID09MSl7DQogICAgICAgICAgICAgICAgZGlzY291bnQ9IDA7DQogICAgICAg\nICAgICB9ZWxzZSBpZihxdWFudGl0eSA+PTIgJiYgcXVhbnRpdHkgPD00KXsN\nCiAgICAgICAgICAgICAgICBkaXNjb3VudCA9IDEwOw0KICAgICAgICAgICAg\nfWVsc2UgaWYocXVhbnRpdHkgPj01ICYmIHF1YW50aXR5IDw9OSl7DQogICAg\nICAgICAgICAgICAgZGlzY291bnQgPSAxNTsNCiAgICAgICAgICAgIH1lbHNl\nIGlmKHF1YW50aXR5ID49MTApew0KICAgICAgICAgICAgICAgIGRpc2NvdW50\nID0gMjA7DQogICAgICAgICAgICB9DQoNCiAgICAgICAgICAgIERvdWJsZSBt\ndWwgPSBwcmljZSpxdWFudGl0eSooMS1kaXNjb3VudC8xMDAuMGYpOw0KICAg\nICAgICAgICAgb3JpZ2luYWxUb3RhbCArPSAocHJpY2UqcXVhbnRpdHkpOw0K\nICAgICAgICAgICAgZmluYWx0b3RhbCArPSBtdWwgOw0KICAgICAgICAgICAg\ndG90YWxEaXNjb3VudCA9IG9yaWdpbmFsVG90YWwtZmluYWx0b3RhbDsNCiAg\nICAgICAgICAgIGNvdW50ICs9IHF1YW50aXR5Ow0KDQogICAgICAgICAgICBT\neXN0ZW0ub3V0LnByaW50bG4oKTsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQu\ncHJpbnRsbigiUHJvZHVjdDogIitwcm9kdWN0TmFtZSk7DQogICAgICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oIlVuaXQgUHJpY2U6ICQiK3ByaWNlKTsN\nCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUXVhbnRpdHk6ICIr\ncXVhbnRpdHkpOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJE\naXNjb3VudDogIitkaXNjb3VudCsiJSIpOw0KICAgICAgICAgICAgU3lzdGVt\nLm91dC5wcmludGYoIlN1YnRvdGFsOiAkJS4xZiIsbXVsKTsNCiAgICAgICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAgICAgICAgU3lzdGVt\nLm91dC5wcmludGxuKCk7DQogICAgICAgIA0KICAgICAgICB9DQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwgSXRlbXM6ICIrY291bnQpOw0K\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiT3JpZ2luYWwgVG90YWw6ICQl\nLjFmXG4iLG9yaWdpbmFsVG90YWwpOw0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50ZigiVG90YWwgRGlzY291bnQ6ICQlLjJmXG4iLHRvdGFsRGlzY291bnQp\nOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiRmluYWwgVG90YWw6ICQl\nLjJmXG4iLGZpbmFsdG90YWwpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nZigiU2F2aW5nczogJS4xZlxuJSIsKHRvdGFsRGlzY291bnQvb3JpZ2luYWxU\nb3RhbCkqMTAwLjBmKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7\nDQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/c6e1cfba759dedabe3a358511495ededc7b9002d/For-Loops/Forloop8.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/17b5904875500da0098ec1af4c200fb4c50ea57b', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/c6e1cfba759dedabe3a358511495ededc7b9002d/For-Loops/Forloop8.java', 'name': 'Forloop8.java', 'path': 'For-Loops/Forloop8.java', 'sha': '17b5904875500da0098ec1af4c200fb4c50ea57b', 'size': 1925, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop8.java?ref=c6e1cfba759dedabe3a358511495ededc7b9002d'}
+import java.util.Scanner;
+
+
+public class Forloop8 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+          Double originalTotal = 0.00;
+          int count = 0;
+          Double finaltotal = 0.00;
+          Double totalDiscount = 0.00;
+        for(int i=0 ;i<n ;i++){
+            scan.nextLine();
+            String productName = scan.nextLine();
+            Double price = scan.nextDouble();
+            int quantity = scan.nextInt();
+            int discount = 0;
+            if(quantity ==1){
+                discount= 0;
+            }else if(quantity >=2 && quantity <=4){
+                discount = 10;
+            }else if(quantity >=5 && quantity <=9){
+                discount = 15;
+            }else if(quantity >=10){
+                discount = 20;
+            }
+
+            Double mul = price*quantity*(1-discount/100.0f);
+            originalTotal += (price*quantity);
+            finaltotal += mul ;
+            totalDiscount = originalTotal-finaltotal;
+            count += quantity;
+
+            System.out.println();
+            System.out.println("Product: "+productName);
+            System.out.println("Unit Price: $"+price);
+            System.out.println("Quantity: "+quantity);
+            System.out.println("Discount: "+discount+"%");
+            System.out.printf("Subtotal: $%.1f",mul);
+            System.out.println();
+            System.out.println();
+        
+        }
+        System.out.println("Total Items: "+count);
+        System.out.printf("Original Total: $%.1f\n",originalTotal);
+        System.out.printf("Total Discount: $%.2f\n",totalDiscount);
+        System.out.printf("Final Total: $%.2f\n",finaltotal);
+        System.out.printf("Savings: %.1f\n%",(totalDiscount/originalTotal)*100.0f);
+        System.out.println();
+        scan.close();
+    }
+}
