@@ -1,1 +1,62 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3c687791b7dbbab83bfcab8342c6be2ff4d418d5', 'html': 'https://github.com/kaarthi2005/Java-/blob/37a1b461d89228d9eaf160ae5d0a030f194d6716/Forloop12.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Forloop12.java?ref=37a1b461d89228d9eaf160ae5d0a030f194d6716'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgRm9y\nbG9vcDEyIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2MgPSBuZXcgU2Nhbm5lcihT\neXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjLm5leHRJbnQoKTsNCg0K\nICAgICAgICBkb3VibGUgdG90YWxSZXZlbnVlID0gMDsNCiAgICAgICAgaW50\nIHBlYWtIb3VyQ291bnQgPSAwOw0KDQogICAgICAgIGZvciAoaW50IGkgPSAx\nOyBpIDw9IG47IGkrKykgew0KICAgICAgICAgICAgU3RyaW5nIHZlaGljbGVU\neXBlID0gc2MubmV4dCgpOw0KICAgICAgICAgICAgZG91YmxlIGhvdXJzUGFy\na2VkID0gc2MubmV4dERvdWJsZSgpOw0KICAgICAgICAgICAgZG91YmxlIGhv\ndXJseVJhdGUgPSAwOw0KICAgICAgICAgICAgZG91YmxlIGRhaWx5Q2FwID0g\nMDsNCiAgICAgICAgICAgIGlmICh2ZWhpY2xlVHlwZS5lcXVhbHMoIkNhciIp\nKSB7DQogICAgICAgICAgICAgICAgaG91cmx5UmF0ZSA9IDMuMDsNCiAgICAg\nICAgICAgICAgICBkYWlseUNhcCA9IDMwLjA7DQogICAgICAgICAgICB9IGVs\nc2UgaWYgKHZlaGljbGVUeXBlLmVxdWFscygiTW90b3JjeWNsZSIpKSB7DQog\nICAgICAgICAgICAgICAgaG91cmx5UmF0ZSA9IDIuMDsNCiAgICAgICAgICAg\nICAgICBkYWlseUNhcCA9IDIwLjA7DQogICAgICAgICAgICB9IGVsc2UgaWYg\nKHZlaGljbGVUeXBlLmVxdWFscygiVHJ1Y2siKSkgew0KICAgICAgICAgICAg\nICAgIGhvdXJseVJhdGUgPSA1LjA7DQogICAgICAgICAgICAgICAgZGFpbHlD\nYXAgPSA2MC4wOw0KICAgICAgICAgICAgfSBlbHNlIGlmICh2ZWhpY2xlVHlw\nZS5lcXVhbHMoIkJ1cyIpKSB7DQogICAgICAgICAgICAgICAgaG91cmx5UmF0\nZSA9IDcuMDsNCiAgICAgICAgICAgICAgICBkYWlseUNhcCA9IDEwMC4wOw0K\nICAgICAgICAgICAgfQ0KICAgICAgICAgICAgZG91YmxlIGNhbGN1bGF0ZWRG\nZWUgPSBob3Vyc1BhcmtlZCAqIGhvdXJseVJhdGU7DQogICAgICAgICAgICBk\nb3VibGUgZmluYWxGZWUgPSAwOw0KICAgICAgICAgICAgU3RyaW5nIGNhcEFw\ncGxpZWQgPSAiTm8iOw0KICAgICAgICAgICAgaWYgKGNhbGN1bGF0ZWRGZWUg\nPiBkYWlseUNhcCkgew0KICAgICAgICAgICAgICAgIGZpbmFsRmVlID0gZGFp\nbHlDYXA7DQogICAgICAgICAgICAgICAgY2FwQXBwbGllZCA9ICJZZXMiOw0K\nICAgICAgICAgICAgfSBlbHNlIHsNCiAgICAgICAgICAgICAgICBmaW5hbEZl\nZSA9IGNhbGN1bGF0ZWRGZWU7DQogICAgICAgICAgICAgICAgY2FwQXBwbGll\nZCA9ICJObyI7DQogICAgICAgICAgICB9DQogICAgICAgICAgICBpZiAoaG91\ncnNQYXJrZWQgPiA4KSB7DQogICAgICAgICAgICAgICAgcGVha0hvdXJDb3Vu\ndCsrOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgdG90YWxSZXZlbnVl\nICs9IGZpbmFsRmVlOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJWZWhpY2xlICIgKyBpICsgIjogIiArIHZlaGljbGVUeXBlKTsNCiAgICAg\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSG91cnMgUGFya2VkOiAiICsg\naG91cnNQYXJrZWQpOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJIb3VybHkgUmF0ZTogJCIgKyBob3VybHlSYXRlKTsNCiAgICAgICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiUGFya2luZyBGZWU6ICQiICsgZmluYWxG\nZWUpOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDYXAgQXBw\nbGllZDogIiArIGNhcEFwcGxpZWQpOw0KICAgICAgICAgICAgU3lzdGVtLm91\ndC5wcmludGxuKCk7DQogICAgICAgIH0NCiAgICAgICAgZG91YmxlIGF2ZXJh\nZ2VGZWUgPSAwOw0KICAgICAgICBpZiAobiA+IDApIHsNCiAgICAgICAgICAg\nIGF2ZXJhZ2VGZWUgPSB0b3RhbFJldmVudWUgLyBuOw0KICAgICAgICB9DQog\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwgVmVoaWNsZXM6ICIg\nKyBuKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUb3RhbCBSZXZl\nbnVlOiAkIiArIHRvdGFsUmV2ZW51ZSk7DQogICAgICAgIFN5c3RlbS5vdXQu\ncHJpbnQoIkF2ZXJhZ2UgRmVlOiAkIik7DQogICAgICAgIFN5c3RlbS5vdXQu\ncHJpbnRmKCIlLjJmXG4iLCBhdmVyYWdlRmVlKTsgDQogICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigiUGVhayBIb3VyIFZlaGljbGVzICg+OCBob3Vycyk6\nICIgKyBwZWFrSG91ckNvdW50KTsNCg0KICAgICAgICBzYy5jbG9zZSgpOw0K\nICAgIH0NCn0=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/37a1b461d89228d9eaf160ae5d0a030f194d6716/Forloop12.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3c687791b7dbbab83bfcab8342c6be2ff4d418d5', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/37a1b461d89228d9eaf160ae5d0a030f194d6716/Forloop12.java', 'name': 'Forloop12.java', 'path': 'Forloop12.java', 'sha': '3c687791b7dbbab83bfcab8342c6be2ff4d418d5', 'size': 2258, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Forloop12.java?ref=37a1b461d89228d9eaf160ae5d0a030f194d6716'}
+import java.util.Scanner;
+
+public class Forloop12 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+
+        double totalRevenue = 0;
+        int peakHourCount = 0;
+
+        for (int i = 1; i <= n; i++) {
+            String vehicleType = sc.next();
+            double hoursParked = sc.nextDouble();
+            double hourlyRate = 0;
+            double dailyCap = 0;
+            if (vehicleType.equals("Car")) {
+                hourlyRate = 3.0;
+                dailyCap = 30.0;
+            } else if (vehicleType.equals("Motorcycle")) {
+                hourlyRate = 2.0;
+                dailyCap = 20.0;
+            } else if (vehicleType.equals("Truck")) {
+                hourlyRate = 5.0;
+                dailyCap = 60.0;
+            } else if (vehicleType.equals("Bus")) {
+                hourlyRate = 7.0;
+                dailyCap = 100.0;
+            }
+            double calculatedFee = hoursParked * hourlyRate;
+            double finalFee = 0;
+            String capApplied = "No";
+            if (calculatedFee > dailyCap) {
+                finalFee = dailyCap;
+                capApplied = "Yes";
+            } else {
+                finalFee = calculatedFee;
+                capApplied = "No";
+            }
+            if (hoursParked > 8) {
+                peakHourCount++;
+            }
+            totalRevenue += finalFee;
+            System.out.println("Vehicle " + i + ": " + vehicleType);
+            System.out.println("Hours Parked: " + hoursParked);
+            System.out.println("Hourly Rate: $" + hourlyRate);
+            System.out.println("Parking Fee: $" + finalFee);
+            System.out.println("Cap Applied: " + capApplied);
+            System.out.println();
+        }
+        double averageFee = 0;
+        if (n > 0) {
+            averageFee = totalRevenue / n;
+        }
+        System.out.println("Total Vehicles: " + n);
+        System.out.println("Total Revenue: $" + totalRevenue);
+        System.out.print("Average Fee: $");
+        System.out.printf("%.2f\n", averageFee); 
+        System.out.println("Peak Hour Vehicles (>8 hours): " + peakHourCount);
+
+        sc.close();
+    }
+}
