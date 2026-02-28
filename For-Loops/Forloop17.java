@@ -1,1 +1,82 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/d221c0ba22b85b537d42a72ae9e3e8df604d61d8', 'html': 'https://github.com/kaarthi2005/Java-/blob/fd410e6be3f864f70a6a42ac0506f01a49202231/For-Loops/Forloop17.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop17.java?ref=fd410e6be3f864f70a6a42ac0506f01a49202231'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgRm9y\nbG9vcDE3IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQoNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCg0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dElu\ndCgpOw0KDQogICAgICAgIGludCB1cmdlbnRDb3VudCA9IDA7DQogICAgICAg\nIGRvdWJsZSB0b3RhbFJldmVudWUgPSAwLjA7DQoNCiAgICAgICAgZm9yIChp\nbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsNCg0KICAgICAgICAgICAgU3RyaW5n\nIG1lbWJlck5hbWUgPSBzY2FuLm5leHQoKTsNCiAgICAgICAgICAgIFN0cmlu\nZyBtZW1iZXJzaGlwVHlwZSA9IHNjYW4ubmV4dCgpOw0KICAgICAgICAgICAg\naW50IGRheXNVbnRpbEV4cGlyeSA9IHNjYW4ubmV4dEludCgpOw0KDQogICAg\nICAgICAgICBkb3VibGUgcmVuZXdhbEZlZSA9IDAuMDsNCg0KICAgICAgICAg\nICAgaWYgKG1lbWJlcnNoaXBUeXBlLmVxdWFscygiQmFzaWMiKSkgew0KICAg\nICAgICAgICAgICAgIHJlbmV3YWxGZWUgPSA1MC4wOw0KICAgICAgICAgICAg\nfSANCiAgICAgICAgICAgIGVsc2UgaWYgKG1lbWJlcnNoaXBUeXBlLmVxdWFs\ncygiUHJlbWl1bSIpKSB7DQogICAgICAgICAgICAgICAgcmVuZXdhbEZlZSA9\nIDEwMC4wOw0KICAgICAgICAgICAgfSANCiAgICAgICAgICAgIGVsc2UgaWYg\nKG1lbWJlcnNoaXBUeXBlLmVxdWFscygiVklQIikpIHsNCiAgICAgICAgICAg\nICAgICByZW5ld2FsRmVlID0gMjAwLjA7DQogICAgICAgICAgICB9DQoNCiAg\nICAgICAgICAgIGludCBkaXNjb3VudCA9IDA7DQoNCiAgICAgICAgICAgIGlm\nIChkYXlzVW50aWxFeHBpcnkgPj0gNDUpIHsNCiAgICAgICAgICAgICAgICBk\naXNjb3VudCA9IDIwOw0KICAgICAgICAgICAgfSANCiAgICAgICAgICAgIGVs\nc2UgaWYgKGRheXNVbnRpbEV4cGlyeSA+PSAzMCkgew0KICAgICAgICAgICAg\nICAgIGRpc2NvdW50ID0gMTU7DQogICAgICAgICAgICB9IA0KICAgICAgICAg\nICAgZWxzZSBpZiAoZGF5c1VudGlsRXhwaXJ5ID49IDE1KSB7DQogICAgICAg\nICAgICAgICAgZGlzY291bnQgPSAxMDsNCiAgICAgICAgICAgIH0gDQogICAg\nICAgICAgICBlbHNlIHsNCiAgICAgICAgICAgICAgICBkaXNjb3VudCA9IDA7\nDQogICAgICAgICAgICB9DQoNCiAgICAgICAgICAgIGRvdWJsZSBmaW5hbEZl\nZSA9IHJlbmV3YWxGZWUgKiAoMSAtIGRpc2NvdW50IC8gMTAwLjApOw0KDQog\nICAgICAgICAgICBTdHJpbmcgcHJpb3JpdHk7DQoNCiAgICAgICAgICAgIGlm\nIChkYXlzVW50aWxFeHBpcnkgPCAxMCkgew0KICAgICAgICAgICAgICAgIHBy\naW9yaXR5ID0gIlVyZ2VudCI7DQogICAgICAgICAgICAgICAgdXJnZW50Q291\nbnQrKzsNCiAgICAgICAgICAgIH0gDQogICAgICAgICAgICBlbHNlIGlmIChk\nYXlzVW50aWxFeHBpcnkgPD0gMzApIHsNCiAgICAgICAgICAgICAgICBwcmlv\ncml0eSA9ICJIaWdoIjsNCiAgICAgICAgICAgIH0gDQogICAgICAgICAgICBl\nbHNlIHsNCiAgICAgICAgICAgICAgICBwcmlvcml0eSA9ICJOb3JtYWwiOw0K\nICAgICAgICAgICAgfQ0KDQogICAgICAgICAgICB0b3RhbFJldmVudWUgKz0g\nZmluYWxGZWU7DQoNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nTWVtYmVyOiAiICsgbWVtYmVyTmFtZSk7DQogICAgICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50bG4oIk1lbWJlcnNoaXA6ICIgKyBtZW1iZXJzaGlwVHlwZSk7\nDQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRheXMgVW50aWwg\nRXhwaXJ5OiAiICsgZGF5c1VudGlsRXhwaXJ5KTsNCiAgICAgICAgICAgIFN5\nc3RlbS5vdXQucHJpbnRsbigiUmVuZXdhbCBGZWU6ICQiICsgcmVuZXdhbEZl\nZSk7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRpc2NvdW50\nOiAiICsgZGlzY291bnQgKyAiJSIpOw0KICAgICAgICAgICAgU3lzdGVtLm91\ndC5wcmludGxuKCJGaW5hbCBGZWU6ICQiICsgZmluYWxGZWUpOw0KICAgICAg\nICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJQcmlvcml0eTogIiArIHByaW9y\naXR5KTsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAg\nICAgICB9DQoNCiAgICAgICAgZG91YmxlIGF2ZXJhZ2VGZWUgPSB0b3RhbFJl\ndmVudWUgLyBuOw0KDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG90\nYWwgTWVtYmVyczogIiArIG4pOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oIlVyZ2VudCBSZW5ld2FsczogIiArIHVyZ2VudENvdW50KTsNCiAgICAg\nICAgU3lzdGVtLm91dC5wcmludGxuKCJUb3RhbCBSZW5ld2FsIFJldmVudWU6\nICQiICsgdG90YWxSZXZlbnVlKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJBdmVyYWdlIFJlbmV3YWwgRmVlOiAkIiArIGF2ZXJhZ2VGZWUpOw0K\nDQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/fd410e6be3f864f70a6a42ac0506f01a49202231/For-Loops/Forloop17.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/d221c0ba22b85b537d42a72ae9e3e8df604d61d8', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/fd410e6be3f864f70a6a42ac0506f01a49202231/For-Loops/Forloop17.java', 'name': 'Forloop17.java', 'path': 'For-Loops/Forloop17.java', 'sha': 'd221c0ba22b85b537d42a72ae9e3e8df604d61d8', 'size': 2463, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop17.java?ref=fd410e6be3f864f70a6a42ac0506f01a49202231'}
+import java.util.Scanner;
+
+public class Forloop17 {
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+
+        int n = scan.nextInt();
+
+        int urgentCount = 0;
+        double totalRevenue = 0.0;
+
+        for (int i = 0; i < n; i++) {
+
+            String memberName = scan.next();
+            String membershipType = scan.next();
+            int daysUntilExpiry = scan.nextInt();
+
+            double renewalFee = 0.0;
+
+            if (membershipType.equals("Basic")) {
+                renewalFee = 50.0;
+            } 
+            else if (membershipType.equals("Premium")) {
+                renewalFee = 100.0;
+            } 
+            else if (membershipType.equals("VIP")) {
+                renewalFee = 200.0;
+            }
+
+            int discount = 0;
+
+            if (daysUntilExpiry >= 45) {
+                discount = 20;
+            } 
+            else if (daysUntilExpiry >= 30) {
+                discount = 15;
+            } 
+            else if (daysUntilExpiry >= 15) {
+                discount = 10;
+            } 
+            else {
+                discount = 0;
+            }
+
+            double finalFee = renewalFee * (1 - discount / 100.0);
+
+            String priority;
+
+            if (daysUntilExpiry < 10) {
+                priority = "Urgent";
+                urgentCount++;
+            } 
+            else if (daysUntilExpiry <= 30) {
+                priority = "High";
+            } 
+            else {
+                priority = "Normal";
+            }
+
+            totalRevenue += finalFee;
+
+            System.out.println("Member: " + memberName);
+            System.out.println("Membership: " + membershipType);
+            System.out.println("Days Until Expiry: " + daysUntilExpiry);
+            System.out.println("Renewal Fee: $" + renewalFee);
+            System.out.println("Discount: " + discount + "%");
+            System.out.println("Final Fee: $" + finalFee);
+            System.out.println("Priority: " + priority);
+            System.out.println();
+        }
+
+        double averageFee = totalRevenue / n;
+
+        System.out.println("Total Members: " + n);
+        System.out.println("Urgent Renewals: " + urgentCount);
+        System.out.println("Total Renewal Revenue: $" + totalRevenue);
+        System.out.println("Average Renewal Fee: $" + averageFee);
+
+        scan.close();
+    }
+}

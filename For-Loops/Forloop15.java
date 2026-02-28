@@ -1,1 +1,55 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9f3f533d154c4b8e74186eb1806cf60742177497', 'html': 'https://github.com/kaarthi2005/Java-/blob/e25f3414d137e69c796c8beec487c66697af5d27/For-Loops/Forloop15.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop15.java?ref=e25f3414d137e69c796c8beec487c66697af5d27'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgRm9y\nbG9vcDE1IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQoNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCg0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dElu\ndCgpOw0KDQogICAgICAgIGRvdWJsZSBiYXNlRmFyZSA9IDAuMDsNCiAgICAg\nICAgZG91YmxlIHRvdGFsRGlzdGFuY2UgPSAwLjA7DQogICAgICAgIGRvdWJs\nZSB0b3RhbFJldmVudWUgPSAwLjA7DQogICAgICAgIGludCBjb3VudCA9IDA7\nDQoNCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsNCg0K\nICAgICAgICAgICAgY291bnQgKys7DQogICAgICAgICAgICBkb3VibGUgZGlz\ndGFuY2UgPSBzY2FuLm5leHREb3VibGUoKTsNCiAgICAgICAgICAgIHNjYW4u\nbmV4dExpbmUoKTsNCiAgICAgICAgICAgIFN0cmluZyB0aW1lT2ZEYXkgPSBz\nY2FuLm5leHRMaW5lKCk7DQogICAgICAgICAgICBkb3VibGUgZGlzdGFuY2VD\naGFyZ2UgPSBkaXN0YW5jZTsgDQogICAgICAgICAgICBkb3VibGUgdGltZVN1\ncmNoYXJnZSA9IDAuMDsNCg0KICAgICAgICAgICAgaWYgKHRpbWVPZkRheS5l\ncXVhbHMoIkV2ZW5pbmciKSkgew0KICAgICAgICAgICAgICAgIHRpbWVTdXJj\naGFyZ2UgPSAzLjA7DQogICAgICAgICAgICB9IA0KICAgICAgICAgICAgZWxz\nZSBpZiAodGltZU9mRGF5LmVxdWFscygiTmlnaHQiKSkgew0KICAgICAgICAg\nICAgICAgIHRpbWVTdXJjaGFyZ2UgPSA1LjA7DQogICAgICAgICAgICB9DQoN\nCiAgICAgICAgICAgIGRvdWJsZSB0b3RhbEZhcmUgPSBiYXNlRmFyZSArIGRp\nc3RhbmNlQ2hhcmdlICsgdGltZVN1cmNoYXJnZTsNCg0KICAgICAgICAgICAg\ndG90YWxEaXN0YW5jZSArPSBkaXN0YW5jZTsNCiAgICAgICAgICAgIHRvdGFs\nUmV2ZW51ZSArPSB0b3RhbEZhcmU7DQoNCiAgICAgICAgICAgIFN5c3RlbS5v\ndXQucHJpbnRsbigiUmlkZSAiICsgY291bnQpOw0KICAgICAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCJEaXN0YW5jZTogIiArIGRpc3RhbmNlICsgIiBr\nbSIpOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUaW1lOiAi\nICsgdGltZU9mRGF5KTsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbigiQmFzZSBGYXJlOiAkIiArIGJhc2VGYXJlKTsNCiAgICAgICAgICAgIFN5\nc3RlbS5vdXQucHJpbnRsbigiRGlzdGFuY2UgQ2hhcmdlOiAkIiArIGRpc3Rh\nbmNlQ2hhcmdlKTsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nVGltZSBTdXJjaGFyZ2U6ICQiICsgdGltZVN1cmNoYXJnZSk7DQogICAgICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRvdGFsIEZhcmU6ICQiICsgdG90\nYWxGYXJlKTsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOw0K\nICAgICAgICB9DQoNCiAgICAgICAgZG91YmxlIGF2ZXJhZ2VGYXJlID0gdG90\nYWxSZXZlbnVlIC8gbjsNCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIlRvdGFsIFJpZGVzOiAiICsgbik7DQogICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbigiVG90YWwgRGlzdGFuY2U6ICIgKyB0b3RhbERpc3RhbmNlICsgIiBr\nbSIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRvdGFsIFJldmVu\ndWU6ICQiICsgdG90YWxSZXZlbnVlKTsNCiAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCJBdmVyYWdlIEZhcmU6ICQiICsgYXZlcmFnZUZhcmUpOw0KDQog\nICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/e25f3414d137e69c796c8beec487c66697af5d27/For-Loops/Forloop15.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9f3f533d154c4b8e74186eb1806cf60742177497', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/e25f3414d137e69c796c8beec487c66697af5d27/For-Loops/Forloop15.java', 'name': 'Forloop15.java', 'path': 'For-Loops/Forloop15.java', 'sha': '9f3f533d154c4b8e74186eb1806cf60742177497', 'size': 1787, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop15.java?ref=e25f3414d137e69c796c8beec487c66697af5d27'}
+import java.util.Scanner;
+
+public class Forloop15 {
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+
+        int n = scan.nextInt();
+
+        double baseFare = 0.0;
+        double totalDistance = 0.0;
+        double totalRevenue = 0.0;
+        int count = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            count ++;
+            double distance = scan.nextDouble();
+            scan.nextLine();
+            String timeOfDay = scan.nextLine();
+            double distanceCharge = distance; 
+            double timeSurcharge = 0.0;
+
+            if (timeOfDay.equals("Evening")) {
+                timeSurcharge = 3.0;
+            } 
+            else if (timeOfDay.equals("Night")) {
+                timeSurcharge = 5.0;
+            }
+
+            double totalFare = baseFare + distanceCharge + timeSurcharge;
+
+            totalDistance += distance;
+            totalRevenue += totalFare;
+
+            System.out.println("Ride " + count);
+            System.out.println("Distance: " + distance + " km");
+            System.out.println("Time: " + timeOfDay);
+            System.out.println("Base Fare: $" + baseFare);
+            System.out.println("Distance Charge: $" + distanceCharge);
+            System.out.println("Time Surcharge: $" + timeSurcharge);
+            System.out.println("Total Fare: $" + totalFare);
+            System.out.println();
+        }
+
+        double averageFare = totalRevenue / n;
+
+        System.out.println("Total Rides: " + n);
+        System.out.println("Total Distance: " + totalDistance + " km");
+        System.out.println("Total Revenue: $" + totalRevenue);
+        System.out.println("Average Fare: $" + averageFare);
+
+        scan.close();
+    }
+}

@@ -1,1 +1,55 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/897fadd5552755ba89bea9839c846cef77c7e98d', 'html': 'https://github.com/kaarthi2005/Java-/blob/5e91b543013fc90a32d1e665aab6e61e3cbaa9c8/For-Loops/Forloop16.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop16.java?ref=5e91b543013fc90a32d1e665aab6e61e3cbaa9c8'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgRm9y\nbG9vcDE2IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQoNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCg0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dElu\ndCgpOw0KDQogICAgICAgIGludCBwYXNzQ291bnQgPSAwOw0KICAgICAgICBp\nbnQgZmFpbENvdW50ID0gMDsNCiAgICAgICAgaW50IGhpZ2hlc3RTY29yZSA9\nIEludGVnZXIuTUlOX1ZBTFVFOw0KICAgICAgICBpbnQgdG90YWxTY29yZSA9\nIDA7DQoNCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsN\nCg0KICAgICAgICAgICAgU3RyaW5nIHN0dWRlbnROYW1lID0gc2Nhbi5uZXh0\nKCk7DQogICAgICAgICAgICBpbnQgY29ycmVjdCA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICAgICAgaW50IHdyb25nID0gc2Nhbi5uZXh0SW50KCk7DQog\nICAgICAgICAgICBpbnQgdW5hdHRlbXB0ZWQgPSBzY2FuLm5leHRJbnQoKTsN\nCiAgICAgICAgICAgIGludCBzY29yZSA9IChjb3JyZWN0ICogNCkgLSAod3Jv\nbmcgKiAzKSArKHVuYXR0ZW1wdGVkICogMCkgOw0KICAgICAgICAgICAgdG90\nYWxTY29yZSArPSBzY29yZTsNCiAgICAgICAgICAgIGlmIChzY29yZSA+IGhp\nZ2hlc3RTY29yZSkgew0KICAgICAgICAgICAgICAgIGhpZ2hlc3RTY29yZSA9\nIHNjb3JlOw0KICAgICAgICAgICAgfQ0KDQogICAgICAgICAgICBTdHJpbmcg\ncmVzdWx0Ow0KICAgICAgICAgICAgaWYgKHNjb3JlID49IDMyKSB7DQogICAg\nICAgICAgICAgICAgcmVzdWx0ID0gIlBhc3MiOw0KICAgICAgICAgICAgICAg\nIHBhc3NDb3VudCsrOw0KICAgICAgICAgICAgfSBlbHNlIHsNCiAgICAgICAg\nICAgICAgICByZXN1bHQgPSAiRmFpbCI7DQogICAgICAgICAgICAgICAgZmFp\nbENvdW50Kys7DQogICAgICAgICAgICB9DQoNCiAgICAgICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigiU3R1ZGVudDogIiArIHN0dWRlbnROYW1lKTsNCiAg\nICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ29ycmVjdDogIiArIGNv\ncnJlY3QpOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJXcm9u\nZzogIiArIHdyb25nKTsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbigiVW5hdHRlbXB0ZWQ6ICIgKyB1bmF0dGVtcHRlZCk7DQogICAgICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oIlNjb3JlOiAiICsgc2NvcmUpOw0KICAg\nICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJSZXN1bHQ6ICIgKyByZXN1\nbHQpOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7DQogICAg\nICAgIH0NCg0KICAgICAgICBkb3VibGUgY2xhc3NBdmVyYWdlID0gKGRvdWJs\nZSkgdG90YWxTY29yZSAvIG47DQoNCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJUb3RhbCBTdHVkZW50czogIiArIG4pOw0KICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50bG4oIlBhc3MgQ291bnQ6ICIgKyBwYXNzQ291bnQpOw0KICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZhaWwgQ291bnQ6ICIgKyBmYWls\nQ291bnQpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNsYXNzIEF2\nZXJhZ2U6ICIgKyBjbGFzc0F2ZXJhZ2UpOw0KICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oIkhpZ2hlc3QgU2NvcmU6ICIgKyBoaWdoZXN0U2NvcmUpOw0K\nDQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/5e91b543013fc90a32d1e665aab6e61e3cbaa9c8/For-Loops/Forloop16.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/897fadd5552755ba89bea9839c846cef77c7e98d', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/5e91b543013fc90a32d1e665aab6e61e3cbaa9c8/For-Loops/Forloop16.java', 'name': 'Forloop16.java', 'path': 'For-Loops/Forloop16.java', 'sha': '897fadd5552755ba89bea9839c846cef77c7e98d', 'size': 1743, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop16.java?ref=5e91b543013fc90a32d1e665aab6e61e3cbaa9c8'}
+import java.util.Scanner;
+
+public class Forloop16 {
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+
+        int n = scan.nextInt();
+
+        int passCount = 0;
+        int failCount = 0;
+        int highestScore = Integer.MIN_VALUE;
+        int totalScore = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            String studentName = scan.next();
+            int correct = scan.nextInt();
+            int wrong = scan.nextInt();
+            int unattempted = scan.nextInt();
+            int score = (correct * 4) - (wrong * 3) +(unattempted * 0) ;
+            totalScore += score;
+            if (score > highestScore) {
+                highestScore = score;
+            }
+
+            String result;
+            if (score >= 32) {
+                result = "Pass";
+                passCount++;
+            } else {
+                result = "Fail";
+                failCount++;
+            }
+
+            System.out.println("Student: " + studentName);
+            System.out.println("Correct: " + correct);
+            System.out.println("Wrong: " + wrong);
+            System.out.println("Unattempted: " + unattempted);
+            System.out.println("Score: " + score);
+            System.out.println("Result: " + result);
+            System.out.println();
+        }
+
+        double classAverage = (double) totalScore / n;
+
+        System.out.println("Total Students: " + n);
+        System.out.println("Pass Count: " + passCount);
+        System.out.println("Fail Count: " + failCount);
+        System.out.println("Class Average: " + classAverage);
+        System.out.println("Highest Score: " + highestScore);
+
+        scan.close();
+    }
+}
