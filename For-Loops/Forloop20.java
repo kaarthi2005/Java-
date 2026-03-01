@@ -1,1 +1,51 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/5fbb7bb3a7382b5119dbf16897e1e502a6d0bb2e', 'html': 'https://github.com/kaarthi2005/Java-/blob/837a9f12ae6eeb3ca7b8a5fd2b56c59ed3f9e35b/For-Loops/Forloop20.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop20.java?ref=837a9f12ae6eeb3ca7b8a5fd2b56c59ed3f9e35b'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgRm9y\nbG9vcDIwIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIGludCBuID0gc2Nhbi5uZXh0SW50KCk7\nDQogICAgICAgIGRvdWJsZSB0b3RhbERlcG9zaXRzID0gMDsNCiAgICAgICAg\nZG91YmxlIHRvdGFsV2l0aGRyYXdhbHMgPSAwOw0KICAgICAgICBkb3VibGUg\ndG90YWxUcmFuc2ZlcnMgPSAwOw0KICAgICAgICBkb3VibGUgdG90YWxQYXlt\nZW50cyA9IDA7DQogICAgICAgIGludCBjb3VudCA9IDA7IA0KICAgICAgICBm\nb3IgKGludCBpID0gMDsgaSA8IG47IGkrKykgew0KICAgICAgICAgICAgU3Ry\naW5nIHRyYW5zYWN0aW9uVHlwZSA9IHNjYW4ubmV4dCgpOw0KICAgICAgICAg\nICAgZG91YmxlIGFtb3VudCA9IHNjYW4ubmV4dERvdWJsZSgpOw0KICAgICAg\nICAgICAgU3RyaW5nIGNhdGVnb3J5ID0gbnVsbDsNCiAgICAgICAgICAgIGlm\nICh0cmFuc2FjdGlvblR5cGUuZXF1YWxzKCJEZXBvc2l0IikpIHsNCiAgICAg\nICAgICAgICAgICBjYXRlZ29yeSA9ICJDcmVkaXQiOw0KICAgICAgICAgICAg\nICAgIHRvdGFsRGVwb3NpdHMgKz0gYW1vdW50Ow0KICAgICAgICAgICAgfSBl\nbHNlIHsNCiAgICAgICAgICAgICAgICBjYXRlZ29yeSA9ICJEZWJpdCI7DQog\nICAgICAgICAgICAgICAgaWYgKHRyYW5zYWN0aW9uVHlwZS5lcXVhbHMoIldp\ndGhkcmF3YWwiKSkgew0KICAgICAgICAgICAgICAgICAgICB0b3RhbFdpdGhk\ncmF3YWxzICs9IGFtb3VudDsNCiAgICAgICAgICAgICAgICB9IGVsc2UgaWYg\nKHRyYW5zYWN0aW9uVHlwZS5lcXVhbHMoIlRyYW5zZmVyIikpIHsNCiAgICAg\nICAgICAgICAgICAgICAgdG90YWxUcmFuc2ZlcnMgKz0gYW1vdW50Ow0KICAg\nICAgICAgICAgICAgIH0gZWxzZSBpZiAodHJhbnNhY3Rpb25UeXBlLmVxdWFs\ncygiUGF5bWVudCIpKSB7DQogICAgICAgICAgICAgICAgICAgIHRvdGFsUGF5\nbWVudHMgKz0gYW1vdW50Ow0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAg\nICAgIH0NCiAgICAgICAgICAgIGNvdW50Kys7IA0KICAgICAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCk7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oIlRyYW5zYWN0aW9uICIgKyBjb3VudCArICI6ICIgKyB0cmFuc2Fj\ndGlvblR5cGUpOw0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJB\nbW91bnQ6ICQiICsgYW1vdW50KTsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQu\ncHJpbnRsbigiQ2F0ZWdvcnk6ICIgKyBjYXRlZ29yeSk7DQogICAgICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oKTsNCiAgICAgICAgfQ0KDQoNCiAgICAg\nICAgZG91YmxlIG5ldEJhbGFuY2UgPSB0b3RhbERlcG9zaXRzIC0NCiAgICAg\nICAgICAgICAgICAodG90YWxXaXRoZHJhd2FscyArIHRvdGFsVHJhbnNmZXJz\nICsgdG90YWxQYXltZW50cyk7DQoNCiANCiAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCJUb3RhbCBUcmFuc2FjdGlvbnM6ICIgKyBjb3VudCk7DQogICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwgRGVwb3NpdHM6ICQiICsg\ndG90YWxEZXBvc2l0cyk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nVG90YWwgV2l0aGRyYXdhbHM6ICQiICsgdG90YWxXaXRoZHJhd2Fscyk7DQog\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwgVHJhbnNmZXJzOiAk\nIiArIHRvdGFsVHJhbnNmZXJzKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJUb3RhbCBQYXltZW50czogJCIgKyB0b3RhbFBheW1lbnRzKTsNCiAg\nICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJOZXQgQmFsYW5jZSBDaGFuZ2U6\nICQiICsgbmV0QmFsYW5jZSk7DQoNCiAgICAgICAgc2Nhbi5jbG9zZSgpOw0K\nICAgIH0NCn0=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/837a9f12ae6eeb3ca7b8a5fd2b56c59ed3f9e35b/For-Loops/Forloop20.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/5fbb7bb3a7382b5119dbf16897e1e502a6d0bb2e', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/837a9f12ae6eeb3ca7b8a5fd2b56c59ed3f9e35b/For-Loops/Forloop20.java', 'name': 'Forloop20.java', 'path': 'For-Loops/Forloop20.java', 'sha': '5fbb7bb3a7382b5119dbf16897e1e502a6d0bb2e', 'size': 1943, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop20.java?ref=837a9f12ae6eeb3ca7b8a5fd2b56c59ed3f9e35b'}
+import java.util.Scanner;
+
+public class Forloop20 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        double totalDeposits = 0;
+        double totalWithdrawals = 0;
+        double totalTransfers = 0;
+        double totalPayments = 0;
+        int count = 0; 
+        for (int i = 0; i < n; i++) {
+            String transactionType = scan.next();
+            double amount = scan.nextDouble();
+            String category = null;
+            if (transactionType.equals("Deposit")) {
+                category = "Credit";
+                totalDeposits += amount;
+            } else {
+                category = "Debit";
+                if (transactionType.equals("Withdrawal")) {
+                    totalWithdrawals += amount;
+                } else if (transactionType.equals("Transfer")) {
+                    totalTransfers += amount;
+                } else if (transactionType.equals("Payment")) {
+                    totalPayments += amount;
+                }
+            }
+            count++; 
+            System.out.println();
+            System.out.println("Transaction " + count + ": " + transactionType);
+            System.out.println("Amount: $" + amount);
+            System.out.println("Category: " + category);
+            System.out.println();
+        }
+
+
+        double netBalance = totalDeposits -
+                (totalWithdrawals + totalTransfers + totalPayments);
+
+ 
+        System.out.println("Total Transactions: " + count);
+        System.out.println("Total Deposits: $" + totalDeposits);
+        System.out.println("Total Withdrawals: $" + totalWithdrawals);
+        System.out.println("Total Transfers: $" + totalTransfers);
+        System.out.println("Total Payments: $" + totalPayments);
+        System.out.println("Net Balance Change: $" + netBalance);
+
+        scan.close();
+    }
+}

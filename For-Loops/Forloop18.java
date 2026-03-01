@@ -1,1 +1,74 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/7bceaf57c6776e5e368b92136724dd0740246c5c', 'html': 'https://github.com/kaarthi2005/Java-/blob/542b2e656274c7ca63216c52d2ae24b90570b794/For-Loops/Forloop18.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop18.java?ref=542b2e656274c7ca63216c52d2ae24b90570b794'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgRm9y\nbG9vcDE4IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQoNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCg0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dElu\ndCgpOw0KDQogICAgICAgIGRvdWJsZSB0b3RhbFRlbXAgPSAwLjA7DQoNCiAg\nICAgICAgZG91YmxlIGhpZ2hlc3RUZW1wID0tMTAwMDAwMDAwMDsNCiAgICAg\nICAgZG91YmxlIGxvd2VzdFRlbXAgPSAxMDAwMDAwMDAwOw0KICAgICAgICBp\nbnQgaGlnaGVzdEhvdXIgPSAwOw0KICAgICAgICBpbnQgbG93ZXN0SG91ciA9\nIDA7DQogICAgICAgIGludCBob3RDb3VudCA9IDA7DQogICAgICAgIGludCBj\nb2xkQ291bnQgPSAwOw0KICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG47\nIGkrKykgew0KDQogICAgICAgICAgICBpbnQgaG91ciA9IHNjYW4ubmV4dElu\ndCgpOw0KICAgICAgICAgICAgZG91YmxlIHRlbXAgPSBzY2FuLm5leHREb3Vi\nbGUoKTsNCg0KICAgICAgICAgICAgU3RyaW5nIHN0YXR1czsNCg0KICAgICAg\nICAgICAgaWYgKHRlbXAgPiA0MCB8fCB0ZW1wIDwgMCkgew0KICAgICAgICAg\nICAgICAgIHN0YXR1cyA9ICJFeHRyZW1lIjsNCiAgICAgICAgICAgIH0gDQog\nICAgICAgICAgICBlbHNlIGlmICh0ZW1wID49IDMyKSB7DQogICAgICAgICAg\nICAgICAgc3RhdHVzID0gIkhvdCI7DQogICAgICAgICAgICB9IA0KICAgICAg\nICAgICAgZWxzZSBpZiAodGVtcCA8PSAxMCkgew0KICAgICAgICAgICAgICAg\nIHN0YXR1cyA9ICJDb2xkIjsNCiAgICAgICAgICAgIH0gDQogICAgICAgICAg\nICBlbHNlIHsNCiAgICAgICAgICAgICAgICBzdGF0dXMgPSAiTm9ybWFsIjsN\nCiAgICAgICAgICAgIH0NCg0KICAgICAgICAgICAgaWYgKHRlbXAgPj0gMzIp\nIHsNCiAgICAgICAgICAgICAgICBob3RDb3VudCsrOw0KICAgICAgICAgICAg\nfQ0KDQogICAgICAgICAgICBpZiAodGVtcCA8PSAxMCkgew0KICAgICAgICAg\nICAgICAgIGNvbGRDb3VudCsrOw0KICAgICAgICAgICAgfQ0KDQogICAgICAg\nICAgICBpZiAodGVtcCA+IGhpZ2hlc3RUZW1wKSB7DQogICAgICAgICAgICAg\nICAgaGlnaGVzdFRlbXAgPSB0ZW1wOw0KICAgICAgICAgICAgICAgIGhpZ2hl\nc3RIb3VyID0gaG91cjsNCiAgICAgICAgICAgIH0NCg0KICAgICAgICAgICAg\naWYgKHRlbXAgPCBsb3dlc3RUZW1wKSB7DQogICAgICAgICAgICAgICAgbG93\nZXN0VGVtcCA9IHRlbXA7DQogICAgICAgICAgICAgICAgbG93ZXN0SG91ciA9\nIGhvdXI7DQogICAgICAgICAgICB9DQoNCiAgICAgICAgICAgIHRvdGFsVGVt\ncCArPSB0ZW1wOw0KDQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIkhvdXIgIiArIGhvdXIgKyAiOiAiICsgdGVtcCArICLCsEMiKTsNCiAgICAg\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3RhdHVzOiAiICsgc3RhdHVz\nKTsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAg\nICB9DQoNCiAgICAgICAgZG91YmxlIGF2ZXJhZ2VUZW1wID0gdG90YWxUZW1w\nIC8gbjsNCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRvdGFsIFJl\nYWRpbmdzOiAiICsgbik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nQXZlcmFnZSBUZW1wZXJhdHVyZTogIiArIGF2ZXJhZ2VUZW1wICsgIsKwQyIp\nOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhpZ2hlc3QgVGVtcGVy\nYXR1cmU6ICIgKyBoaWdoZXN0VGVtcCArICLCsEMgYXQgSG91ciAiICsgaGln\naGVzdEhvdXIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkxvd2Vz\ndCBUZW1wZXJhdHVyZTogIiArIGxvd2VzdFRlbXAgKyAiwrBDIGF0IEhvdXIg\nIiArIGxvd2VzdEhvdXIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIkhvdCBIb3VyczogIiArIGhvdENvdW50KTsNCiAgICAgICAgU3lzdGVtLm91\ndC5wcmludGxuKCJDb2xkIEhvdXJzOiAiICsgY29sZENvdW50KTsNCg0KICAg\nICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/542b2e656274c7ca63216c52d2ae24b90570b794/For-Loops/Forloop18.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/7bceaf57c6776e5e368b92136724dd0740246c5c', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/542b2e656274c7ca63216c52d2ae24b90570b794/For-Loops/Forloop18.java', 'name': 'Forloop18.java', 'path': 'For-Loops/Forloop18.java', 'sha': '7bceaf57c6776e5e368b92136724dd0740246c5c', 'size': 2053, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/For-Loops/Forloop18.java?ref=542b2e656274c7ca63216c52d2ae24b90570b794'}
+import java.util.Scanner;
+
+public class Forloop18 {
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+
+        int n = scan.nextInt();
+
+        double totalTemp = 0.0;
+
+        double highestTemp =-1000000000;
+        double lowestTemp = 1000000000;
+        int highestHour = 0;
+        int lowestHour = 0;
+        int hotCount = 0;
+        int coldCount = 0;
+        for (int i = 0; i < n; i++) {
+
+            int hour = scan.nextInt();
+            double temp = scan.nextDouble();
+
+            String status;
+
+            if (temp > 40 || temp < 0) {
+                status = "Extreme";
+            } 
+            else if (temp >= 32) {
+                status = "Hot";
+            } 
+            else if (temp <= 10) {
+                status = "Cold";
+            } 
+            else {
+                status = "Normal";
+            }
+
+            if (temp >= 32) {
+                hotCount++;
+            }
+
+            if (temp <= 10) {
+                coldCount++;
+            }
+
+            if (temp > highestTemp) {
+                highestTemp = temp;
+                highestHour = hour;
+            }
+
+            if (temp < lowestTemp) {
+                lowestTemp = temp;
+                lowestHour = hour;
+            }
+
+            totalTemp += temp;
+
+            System.out.println("Hour " + hour + ": " + temp + "°C");
+            System.out.println("Status: " + status);
+            System.out.println();
+        }
+
+        double averageTemp = totalTemp / n;
+
+        System.out.println("Total Readings: " + n);
+        System.out.println("Average Temperature: " + averageTemp + "°C");
+        System.out.println("Highest Temperature: " + highestTemp + "°C at Hour " + highestHour);
+        System.out.println("Lowest Temperature: " + lowestTemp + "°C at Hour " + lowestHour);
+        System.out.println("Hot Hours: " + hotCount);
+        System.out.println("Cold Hours: " + coldCount);
+
+        scan.close();
+    }
+}
