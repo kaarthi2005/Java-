@@ -1,1 +1,23 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/25f5b67b4a33f7085aafabddea8fafbde11f2eaa', 'html': 'https://github.com/kaarthi2005/Java-/blob/7d9216aca83bdbdf1963edb3ca33e41846f4086e/While-Loop/Whileloop3.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop3.java?ref=7d9216aca83bdbdf1963edb3ca33e41846f4086e'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wMyB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgc2VjcmV0TnVtYmVyID0gc2Nh\nbi5uZXh0SW50KCk7DQogICAgICAgIGJvb2xlYW4gZmxhZyA9IHRydWU7DQog\nICAgICAgIGludCBjb3VudCA9MCA7DQogICAgICAgIHdoaWxlKGZsYWcpew0K\nICAgICAgICAgICAgY291bnQrKzsNCiAgICAgICAgICAgIGludCBndWVzc2Vz\nID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oIkd1ZXNzIHRoZSBudW1iZXIgKDExMDApOiAiK2d1ZXNzZXMpOw0K\nICAgICAgICAgICAgaWYoc2VjcmV0TnVtYmVyID09IGd1ZXNzZXMpew0KICAg\nICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ29ycmVjdCEgQXR0\nZW1wdHM6ICIrY291bnQpOw0KICAgICAgICAgICAgfWVsc2UgaWYoc2VjcmV0\nTnVtYmVyID4gZ3Vlc3Nlcyl7DQogICAgICAgICAgICAgICAgU3lzdGVtLm91\ndC5wcmludGxuKCJUb28gbG93ISIpOw0KICAgICAgICAgICAgfWVsc2UgaWYo\nc2VjcmV0TnVtYmVyIDwgZ3Vlc3Nlcyl7DQogICAgICAgICAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCJUb28gSGlnaCEiKTsNCiAgICAgICAgICAgIH0N\nCiAgICAgICAgfQ0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/7d9216aca83bdbdf1963edb3ca33e41846f4086e/While-Loop/Whileloop3.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/25f5b67b4a33f7085aafabddea8fafbde11f2eaa', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/7d9216aca83bdbdf1963edb3ca33e41846f4086e/While-Loop/Whileloop3.java', 'name': 'Whileloop3.java', 'path': 'While-Loop/Whileloop3.java', 'sha': '25f5b67b4a33f7085aafabddea8fafbde11f2eaa', 'size': 765, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop3.java?ref=7d9216aca83bdbdf1963edb3ca33e41846f4086e'}
+import java.util.Scanner;
+
+public class Whileloop3 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int secretNumber = scan.nextInt();
+        boolean flag = true;
+        int count =0 ;
+        while(flag){
+            count++;
+            int guesses = scan.nextInt();
+            System.out.println("Guess the number (1100): "+guesses);
+            if(secretNumber == guesses){
+                System.out.println("Correct! Attempts: "+count);
+            }else if(secretNumber > guesses){
+                System.out.println("Too low!");
+            }else if(secretNumber < guesses){
+                System.out.println("Too High!");
+            }
+        }
+        scan.close();
+    }
+}

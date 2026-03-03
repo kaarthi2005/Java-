@@ -1,1 +1,27 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/84f07f054388aeeb0137a75f354a61ccf52a3aa7', 'html': 'https://github.com/kaarthi2005/Java-/blob/b230ea196666a83f42e5822aac3e9911c5f580ae/While-Loop/Whileloop20.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop20.java?ref=b230ea196666a83f42e5822aac3e9911c5f580ae'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wMjAgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJbnQo\nKTsNCiAgICAgICAgaW50IG9nID0gbjsNCiAgICAgICANCiAgICAgICAgaW50\nIHN1bSA9IDA7DQogICAgICAgIHdoaWxlIChuPjApIHsNCiAgICAgICAgICAg\nICBpbnQgbXV1bCA9MTsNCiAgICAgICAgICAgIGludCByZW0gPSBuJTEwOw0K\nICAgICAgICAgICAgd2hpbGUgKHJlbT4wKSB7DQogICAgICAgICAgICAgICAg\nbXV1bCAqPSByZW07DQogICAgICAgICAgICAgICAgcmVtLS07DQogICAgICAg\nICAgICB9DQogICAgICAgICAgICBzdW0gKz0gbXV1bDsNCiAgICAgICAgICAg\nIG4vPTEwOw0KICAgICAgICB9DQogICAgICAgIGlmKHN1bSA9PSBvZyApew0K\nICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKG9nKyIgaXMgYSBzdHJv\nbmcgbnVtYmVyIik7DQogICAgICAgIH1lbHNlew0KICAgICAgICAgICAgIFN5\nc3RlbS5lcnIucHJpbnRsbihvZysiIGlzIG5vdCBhIHN0cm9uZyBudW1iZXIi\nKTsNCiAgICAgICAgfQ0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0K\nfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/b230ea196666a83f42e5822aac3e9911c5f580ae/While-Loop/Whileloop20.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/84f07f054388aeeb0137a75f354a61ccf52a3aa7', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/b230ea196666a83f42e5822aac3e9911c5f580ae/While-Loop/Whileloop20.java', 'name': 'Whileloop20.java', 'path': 'While-Loop/Whileloop20.java', 'sha': '84f07f054388aeeb0137a75f354a61ccf52a3aa7', 'size': 678, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop20.java?ref=b230ea196666a83f42e5822aac3e9911c5f580ae'}
+import java.util.Scanner;
+
+public class Whileloop20 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int og = n;
+       
+        int sum = 0;
+        while (n>0) {
+             int muul =1;
+            int rem = n%10;
+            while (rem>0) {
+                muul *= rem;
+                rem--;
+            }
+            sum += muul;
+            n/=10;
+        }
+        if(sum == og ){
+            System.err.println(og+" is a strong number");
+        }else{
+             System.err.println(og+" is not a strong number");
+        }
+        scan.close();
+    }
+}

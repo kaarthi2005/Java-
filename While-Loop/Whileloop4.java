@@ -1,1 +1,17 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/6677d994075e706cbb901896d9b0e3f446cb9793', 'html': 'https://github.com/kaarthi2005/Java-/blob/f0504a11827347acaf4f04dcf3a7d26f5a756b32/While-Loop/Whileloop4.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop4.java?ref=f0504a11827347acaf4f04dcf3a7d26f5a756b32'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wNCB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBpbnQgb3JnID0gbjsNCiAgICAgICAgaW50IGZhY3QgPSAx\nOw0KICAgICAgICB3aGlsZSAobj4wKXsNCiAgICAgICAgICAgZmFjdCAqPSBu\nOw0KICAgICAgICAgICBuLS07DQogICAgICAgIH0NCiAgICAgICAgU3lzdGVt\nLm91dC5wcmludGYoIkZhY3RvcmlhbCBvZiAlZCA9ICVkIixvcmcsZmFjdCk7\nDQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQogIA0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/f0504a11827347acaf4f04dcf3a7d26f5a756b32/While-Loop/Whileloop4.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/6677d994075e706cbb901896d9b0e3f446cb9793', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/f0504a11827347acaf4f04dcf3a7d26f5a756b32/While-Loop/Whileloop4.java', 'name': 'Whileloop4.java', 'path': 'While-Loop/Whileloop4.java', 'sha': '6677d994075e706cbb901896d9b0e3f446cb9793', 'size': 399, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop4.java?ref=f0504a11827347acaf4f04dcf3a7d26f5a756b32'}
+import java.util.Scanner;
+
+public class Whileloop4 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int org = n;
+        int fact = 1;
+        while (n>0){
+           fact *= n;
+           n--;
+        }
+        System.out.printf("Factorial of %d = %d",org,fact);
+        scan.close();
+    }
+  
+}

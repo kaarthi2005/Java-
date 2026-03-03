@@ -1,1 +1,18 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/7a863acfbcb37c0b130afbaf32b4542fadbad356', 'html': 'https://github.com/kaarthi2005/Java-/blob/056af5e2c548ff414337e3bf089b7a71e55d2d6b/While-Loop/Whileloop2.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop2.java?ref=056af5e2c548ff414337e3bf089b7a71e55d2d6b'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KcHVibGljIGNsYXNzIFdoaWxlbG9vcDIg\new0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3Mp\nIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIoU3lzdGVt\nLmluKTsNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJbnQoKTsNCiAgICAg\nICAgaW50IHN1bSA9MCxjb3VudD0wIDsNCg0KICAgICAgICB3aGlsZShuICE9\nIDApew0KICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJFbnRlciBu\ndW1iZXIgKDAgdG8gc3RvcCk6ICIrbik7DQogICAgICAgICAgICBzdW0gKz0g\nbjsNCiAgICAgICAgICAgIGNvdW50Kys7DQogICAgICAgICAgICBuID0gc2Nh\nbi5uZXh0SW50KCk7DQogICAgICAgIH0NCiAgICAgICAgU3lzdGVtLmVyci5w\ncmludGxuKCJUb3RhbCBzdW06ICIrc3VtKTsNCiAgICAgICAgU3lzdGVtLm91\ndC5wcmludGxuKCJDb3VudDogIitjb3VudCk7DQogICAgICAgIHNjYW4uY2xv\nc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/056af5e2c548ff414337e3bf089b7a71e55d2d6b/While-Loop/Whileloop2.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/7a863acfbcb37c0b130afbaf32b4542fadbad356', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/056af5e2c548ff414337e3bf089b7a71e55d2d6b/While-Loop/Whileloop2.java', 'name': 'Whileloop2.java', 'path': 'While-Loop/Whileloop2.java', 'sha': '7a863acfbcb37c0b130afbaf32b4542fadbad356', 'size': 512, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop2.java?ref=056af5e2c548ff414337e3bf089b7a71e55d2d6b'}
+import java.util.*;
+public class Whileloop2 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int sum =0,count=0 ;
+
+        while(n != 0){
+            System.err.println("Enter number (0 to stop): "+n);
+            sum += n;
+            count++;
+            n = scan.nextInt();
+        }
+        System.err.println("Total sum: "+sum);
+        System.out.println("Count: "+count);
+        scan.close();
+    }
+}

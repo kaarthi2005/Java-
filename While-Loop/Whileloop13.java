@@ -1,1 +1,17 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3f15d68c30fb43ae36039b319f429bfab92a0e95', 'html': 'https://github.com/kaarthi2005/Java-/blob/04144225450aa99a47a1fdbac8932c29097460b9/While-Loop/Whileloop13.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop13.java?ref=04144225450aa99a47a1fdbac8932c29097460b9'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wMTMgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgaW50IG4gID0gc2Nhbi5uZXh0SW50\nKCk7DQogICAgICAgIGludCBuMSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAg\nICBpbnQgb2cgPSBuMTsNCiAgICAgICAgaW50IHN1bSA9IDE7DQogICAgICAg\nIHdoaWxlIChuMT4wKSB7DQogICAgICAgICAgICBzdW0gPSBzdW0qbjsNCiAg\nICAgICAgICAgIG4xLS07DQogICAgICAgIH0NCiAgICAgICAgU3lzdGVtLm91\ndC5wcmludGxuKG4rIl4iK29nKyIgPSAiK3N1bSk7DQogICAgICAgIHNjYW4u\nY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/04144225450aa99a47a1fdbac8932c29097460b9/While-Loop/Whileloop13.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3f15d68c30fb43ae36039b319f429bfab92a0e95', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/04144225450aa99a47a1fdbac8932c29097460b9/While-Loop/Whileloop13.java', 'name': 'Whileloop13.java', 'path': 'While-Loop/Whileloop13.java', 'sha': '3f15d68c30fb43ae36039b319f429bfab92a0e95', 'size': 425, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop13.java?ref=04144225450aa99a47a1fdbac8932c29097460b9'}
+import java.util.Scanner;
+
+public class Whileloop13 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n  = scan.nextInt();
+        int n1 = scan.nextInt();
+        int og = n1;
+        int sum = 1;
+        while (n1>0) {
+            sum = sum*n;
+            n1--;
+        }
+        System.out.println(n+"^"+og+" = "+sum);
+        scan.close();
+    }
+}

@@ -1,1 +1,27 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9a435ce247cd73d330e2177161dd3ae81e4a7653', 'html': 'https://github.com/kaarthi2005/Java-/blob/fb7620ed72d145d051a54c0a6ed0e434593981cd/While-Loop/Whileloop17.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop17.java?ref=fb7620ed72d145d051a54c0a6ed0e434593981cd'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wMTcgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJbnQo\nKTsNCiAgICAgICAgaW50IGkgPSAxOw0KICAgICAgICBpbnQgc3VtID0gMDsg\nDQogICAgICAgIGJvb2xlYW4gZmxhZyA9IHRydWU7DQogICAgICAgIHdoaWxl\nIChmbGFnKSB7DQogICAgICAgICAgICBpZihuJWk9PTApew0KICAgICAgICAg\nICAgICAgIHN1bSArPSBpOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAg\naSsrOw0KICAgICAgICAgICAgaWYoaSA9PSBuKXsNCiAgICAgICAgICAgICAg\nICBmbGFnID0gZmFsc2U7DQogICAgICAgICAgICB9DQogICAgICAgICAgICAN\nCiAgICAgICAgfQ0KICAgICAgICBpZihzdW0gPT0gbil7DQogICAgICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4obisiIGlzIGEgcGVyZmVjdCBudW1iZXIi\nKTsNCiAgICAgICAgfWVsc2V7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4obisiIGlzIG5vdCBhIHBlcmZlY3QgbnVtYmVyIik7DQogICAgICAg\nIH0NCiAgICAgICAgc2Nhbi5jbG9zZSgpOw0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/fb7620ed72d145d051a54c0a6ed0e434593981cd/While-Loop/Whileloop17.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9a435ce247cd73d330e2177161dd3ae81e4a7653', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/fb7620ed72d145d051a54c0a6ed0e434593981cd/While-Loop/Whileloop17.java', 'name': 'Whileloop17.java', 'path': 'While-Loop/Whileloop17.java', 'sha': '9a435ce247cd73d330e2177161dd3ae81e4a7653', 'size': 667, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop17.java?ref=fb7620ed72d145d051a54c0a6ed0e434593981cd'}
+import java.util.Scanner;
+
+public class Whileloop17 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int i = 1;
+        int sum = 0; 
+        boolean flag = true;
+        while (flag) {
+            if(n%i==0){
+                sum += i;
+            }
+            i++;
+            if(i == n){
+                flag = false;
+            }
+            
+        }
+        if(sum == n){
+            System.out.println(n+" is a perfect number");
+        }else{
+            System.out.println(n+" is not a perfect number");
+        }
+        scan.close();
+    }
+}

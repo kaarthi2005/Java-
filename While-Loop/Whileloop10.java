@@ -1,1 +1,19 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/526c5fa19b272ad88b3468b03c3f6c2292d43f87', 'html': 'https://github.com/kaarthi2005/Java-/blob/476b5501ec844b18e2d05a260d788e3767d6ed38/While-Loop/Whileloop10.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop10.java?ref=476b5501ec844b18e2d05a260d788e3767d6ed38'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wMTAgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgaW50IGEgPSAwIDsNCiAgICAgICAg\naW50IGIgPSAxOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgpOw0K\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZpYm9uYWNjaSBzZXF1ZW5j\nZSAoIituKyIgdGVybXMpOiIpOw0KICAgICAgICB3aGlsZShuPjApew0KICAg\nICAgICAgICAgU3lzdGVtLm91dC5wcmludChhKyIgIik7DQogICAgICAgICAg\nICBpbnQgc3VtID0gYStiOw0KICAgICAgICAgICAgYSA9IGI7DQogICAgICAg\nICAgICBiID0gc3VtOw0KICAgICAgICAgICAgbi0tOw0KICAgICAgICB9DQog\nICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/476b5501ec844b18e2d05a260d788e3767d6ed38/While-Loop/Whileloop10.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/526c5fa19b272ad88b3468b03c3f6c2292d43f87', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/476b5501ec844b18e2d05a260d788e3767d6ed38/While-Loop/Whileloop10.java', 'name': 'Whileloop10.java', 'path': 'While-Loop/Whileloop10.java', 'sha': '526c5fa19b272ad88b3468b03c3f6c2292d43f87', 'size': 482, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop10.java?ref=476b5501ec844b18e2d05a260d788e3767d6ed38'}
+import java.util.Scanner;
+
+public class Whileloop10 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int a = 0 ;
+        int b = 1;
+        int n = scan.nextInt();
+        System.out.println("Fibonacci sequence ("+n+" terms):");
+        while(n>0){
+            System.out.print(a+" ");
+            int sum = a+b;
+            a = b;
+            b = sum;
+            n--;
+        }
+        scan.close();
+    }
+}

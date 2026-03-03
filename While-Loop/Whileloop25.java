@@ -1,1 +1,20 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/55741ae4e5bcc0a863e3b0e95aa3230d607836bd', 'html': 'https://github.com/kaarthi2005/Java-/blob/9e467d3bd891cb01216449f21e55cf89bdcc637b/While-Loop/Whileloop25.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop25.java?ref=9e467d3bd891cb01216449f21e55cf89bdcc637b'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KcHVibGljIGNsYXNzIFdoaWxlbG9vcDI1\nIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdz\nKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVyKFN5c3Rl\nbS5pbik7DQogICAgICAgIGludCBuID0gc2Nhbi5uZXh0SW50KCk7DQogICAg\nICAgIGludCBpID0gMTsNCiAgICAgICAgaW50IGNvdW50ID0gMDsNCiAgICAg\nICAgZG97DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGkrIiAiKTsN\nCiAgICAgICAgICAgIGNvdW50Kys7DQoNCiAgICAgICAgICAgIGlmIChpPT1j\nb3VudCkgew0KICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigp\nOw0KICAgICAgICAgICAgICAgIGNvdW50ID0gMDsNCiAgICAgICAgICAgICAg\nICBpKys7DQogICAgICAgICAgICB9DQogICAgICAgIH13aGlsZShpPD1uKTsN\nCiAgICAgICAgc2Nhbi5jbG9zZSgpOw0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/9e467d3bd891cb01216449f21e55cf89bdcc637b/While-Loop/Whileloop25.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/55741ae4e5bcc0a863e3b0e95aa3230d607836bd', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/9e467d3bd891cb01216449f21e55cf89bdcc637b/While-Loop/Whileloop25.java', 'name': 'Whileloop25.java', 'path': 'While-Loop/Whileloop25.java', 'sha': '55741ae4e5bcc0a863e3b0e95aa3230d607836bd', 'size': 484, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop25.java?ref=9e467d3bd891cb01216449f21e55cf89bdcc637b'}
+import java.util.*;
+public class Whileloop25 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int i = 1;
+        int count = 0;
+        do{
+            System.out.print(i+" ");
+            count++;
+
+            if (i==count) {
+                System.out.println();
+                count = 0;
+                i++;
+            }
+        }while(i<=n);
+        scan.close();
+    }
+}

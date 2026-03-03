@@ -1,1 +1,41 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/6b2c7a3638e7d571a7acadfe1f80e83ee22c5267', 'html': 'https://github.com/kaarthi2005/Java-/blob/f65a69a25fd3d84c6980b937101223fdc3602e56/While-Loop/Whileloop14.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop14.java?ref=f65a69a25fd3d84c6980b937101223fdc3602e56'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wMTQgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJbnQo\nKTsNCiAgICAgICAgaW50IHRlbXAgPSBuOw0KICAgICAgICBpbnQgb3JnID0g\nbjsNCiAgICAgICAgaW50IGNvdW50ID0gMDsNCiAgICAgICAgd2hpbGUgKHRl\nbXA+MCkgew0KICAgICAgICAgICAgY291bnQrKzsNCiAgICAgICAgICAgIHRl\nbXAvPTEwOw0KICAgICAgICAgICANCiAgICAgICAgfQ0KDQogICAgICAgIGlu\ndCBzdW0gPSAwOw0KICAgICAgIA0KICAgICAgICB3aGlsZSAobj4wKSB7DQog\nICAgICAgICAgICANCiAgICAgICAgICAgaW50IG11bCA9IDE7DQogICAgICAg\nICAgIGludCBuMSA9IGNvdW50Ow0KICAgICAgICAgICBpbnQgZGlnaSA9IG4l\nMTA7DQogICAgICAgICAgIA0KICAgICAgICAgICB3aGlsZSAobjE+MCkgew0K\nICAgICAgICAgICAgbXVsICo9IGRpZ2k7DQogICAgICAgICAgICBuMS0tOw0K\nICAgICAgICAgICAgfQ0KDQogICAgICAgICAgICBzdW0gKz0gbXVsOw0KICAg\nICAgICAgICAgbi89MTA7DQoNCiAgICAgICAgfQ0KICAgICAgICBpZihvcmcg\nPT0gc3VtKXsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihvcmcr\nIiBpcyBhbiBBcm1zdHJvbmcgbnVtYmVyIik7DQogICAgICAgIH1lbHNlIHsN\nCiAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3JnKyIgaXMgbm90\nIGFuIEFybXN0cm9uZyBudW1iZXIiKTsNCiAgICAgICAgfQ0KICAgICAgICBz\nY2FuLmNsb3NlKCk7DQogICAgICAgIA0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/f65a69a25fd3d84c6980b937101223fdc3602e56/While-Loop/Whileloop14.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/6b2c7a3638e7d571a7acadfe1f80e83ee22c5267', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/f65a69a25fd3d84c6980b937101223fdc3602e56/While-Loop/Whileloop14.java', 'name': 'Whileloop14.java', 'path': 'While-Loop/Whileloop14.java', 'sha': '6b2c7a3638e7d571a7acadfe1f80e83ee22c5267', 'size': 889, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop14.java?ref=f65a69a25fd3d84c6980b937101223fdc3602e56'}
+import java.util.Scanner;
+
+public class Whileloop14 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int temp = n;
+        int org = n;
+        int count = 0;
+        while (temp>0) {
+            count++;
+            temp/=10;
+           
+        }
+
+        int sum = 0;
+       
+        while (n>0) {
+            
+           int mul = 1;
+           int n1 = count;
+           int digi = n%10;
+           
+           while (n1>0) {
+            mul *= digi;
+            n1--;
+            }
+
+            sum += mul;
+            n/=10;
+
+        }
+        if(org == sum){
+            System.out.println(org+" is an Armstrong number");
+        }else {
+             System.out.println(org+" is not an Armstrong number");
+        }
+        scan.close();
+        
+    }
+}

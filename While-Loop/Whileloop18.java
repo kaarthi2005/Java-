@@ -1,1 +1,20 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/a2dfd0d78fc89d0a6b23c653b909ac1f7e842457', 'html': 'https://github.com/kaarthi2005/Java-/blob/66c0bd84295a1a27a2d757905277e9722c4bf478/While-Loop/Whileloop18.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop18.java?ref=66c0bd84295a1a27a2d757905277e9722c4bf478'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wMTggew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgaW50IG4xID0gc2Nhbi5uZXh0SW50\nKCk7DQogICAgICAgIGludCBhID0gbjE7DQogICAgICAgIGludCBuMiA9IHNj\nYW4ubmV4dEludCgpOw0KICAgICAgICBpbnQgYiA9IG4yOw0KICAgICAgICBp\nbnQgbiA9IChuMTxuMiA/bjE6bjIpOw0KICAgICAgICBpbnQgbjMgPSAobjE+\nbjIgP24xOm4yKTsNCiAgICAgICAgd2hpbGUgKG4hPTApIHsNCiAgICAgICAg\nICAgIGludCB0ZW1wID0gbjsNCiAgICAgICAgICAgIG4gPSBuMyAlIG47DQog\nICAgICAgICAgICBuMyA9IHRlbXA7DQogICAgICAgIH0NCiAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKChhKmIpL24zKTsNCiAgICAgICAgc2Nhbi5jbG9z\nZSgpOw0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/66c0bd84295a1a27a2d757905277e9722c4bf478/While-Loop/Whileloop18.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/a2dfd0d78fc89d0a6b23c653b909ac1f7e842457', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/66c0bd84295a1a27a2d757905277e9722c4bf478/While-Loop/Whileloop18.java', 'name': 'Whileloop18.java', 'path': 'While-Loop/Whileloop18.java', 'sha': 'a2dfd0d78fc89d0a6b23c653b909ac1f7e842457', 'size': 511, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop18.java?ref=66c0bd84295a1a27a2d757905277e9722c4bf478'}
+import java.util.Scanner;
+
+public class Whileloop18 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n1 = scan.nextInt();
+        int a = n1;
+        int n2 = scan.nextInt();
+        int b = n2;
+        int n = (n1<n2 ?n1:n2);
+        int n3 = (n1>n2 ?n1:n2);
+        while (n!=0) {
+            int temp = n;
+            n = n3 % n;
+            n3 = temp;
+        }
+        System.out.println((a*b)/n3);
+        scan.close();
+    }
+}

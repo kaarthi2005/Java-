@@ -1,1 +1,18 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3748adb4806e526ffd76891fd5b660def0e9d44f', 'html': 'https://github.com/kaarthi2005/Java-/blob/4f60217da72b15db673ca080c81560a462325f30/While-Loop/Whileloop5.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop5.java?ref=4f60217da72b15db673ca080c81560a462325f30'}, 'content': 'aW1wb3J0IGphdmEubWF0aC5CaWdJbnRlZ2VyOw0KaW1wb3J0IGphdmEudXRp\nbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hpbGVsb29wNSB7DQogICAg\ncHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgew0KICAg\nICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOw0K\nICAgICAgICBCaWdJbnRlZ2VyICBuID0gc2Nhbi5uZXh0QmlnSW50ZWdlcigp\nOw0KICAgICAgICBCaWdJbnRlZ2VyIHJldiA9IEJpZ0ludGVnZXIuWkVSTzsN\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJPcmlnaW5hbDogIituKTsN\nCiAgICAgICAgd2hpbGUobi5jb21wYXJlVG8oQmlnSW50ZWdlci5aRVJPKT4w\nKXsNCiAgICAgICAgICAgIEJpZ0ludGVnZXIgZGlnaSA9IG4ubW9kKEJpZ0lu\ndGVnZXIuVEVOKTsNCiAgICAgICAgICAgIHJldiA9IHJldi5tdWx0aXBseShC\naWdJbnRlZ2VyLlRFTikuYWRkKGRpZ2kpOw0KICAgICAgICAgICAgbiA9IG4u\nZGl2aWRlKEJpZ0ludGVnZXIuVEVOKTsNCiAgICAgICAgfQ0KICAgICAgICBT\neXN0ZW0ub3V0LnByaW50bG4oIlJldmVyc2VkOiAiK3Jldik7DQogICAgICAg\nIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/4f60217da72b15db673ca080c81560a462325f30/While-Loop/Whileloop5.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3748adb4806e526ffd76891fd5b660def0e9d44f', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/4f60217da72b15db673ca080c81560a462325f30/While-Loop/Whileloop5.java', 'name': 'Whileloop5.java', 'path': 'While-Loop/Whileloop5.java', 'sha': '3748adb4806e526ffd76891fd5b660def0e9d44f', 'size': 611, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop5.java?ref=4f60217da72b15db673ca080c81560a462325f30'}
+import java.math.BigInteger;
+import java.util.Scanner;
+
+public class Whileloop5 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        BigInteger  n = scan.nextBigInteger();
+        BigInteger rev = BigInteger.ZERO;
+        System.out.println("Original: "+n);
+        while(n.compareTo(BigInteger.ZERO)>0){
+            BigInteger digi = n.mod(BigInteger.TEN);
+            rev = rev.multiply(BigInteger.TEN).add(digi);
+            n = n.divide(BigInteger.TEN);
+        }
+        System.out.println("Reversed: "+rev);
+        scan.close();
+    }
+}

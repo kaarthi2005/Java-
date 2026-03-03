@@ -1,1 +1,19 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/0f1cc7accc3e02399ea4151218c656a1b5ce5db9', 'html': 'https://github.com/kaarthi2005/Java-/blob/8e705a7e63c1eab7b30de27e4d0aed4caaead0d2/While-Loop/Whileloop11.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop11.java?ref=8e705a7e63c1eab7b30de27e4d0aed4caaead0d2'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wMTEgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJF\nbnRlciBhIHR3byBudW1iZXI6ICIpOw0KICAgICAgICBpbnQgbjEgPSBzY2Fu\nLm5leHRJbnQoKTsNCiAgICAgICAgaW50IG9nID0gbjE7DQogICAgICAgIGlu\ndCBuMiA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICBpbnQgbiA9IChuMTxu\nMiA/IG4xIDogbjIpOw0KICAgICAgICB3aGlsZSAobiE9MCkgew0KICAgICAg\nICAgICAgaW50IHRlbXAgPSBuOw0KICAgICAgICAgICAgbiA9IG4xJW47DQog\nICAgICAgICAgICBuMT0gdGVtcDsNCiAgICAgICAgfQ0KICAgICAgICBTeXN0\nZW0ub3V0LnByaW50bG4oIkdDRCBvZiAiK29nKyIgYW5kICIrbjIrIiA9ICIr\nbjEpOw0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/8e705a7e63c1eab7b30de27e4d0aed4caaead0d2/While-Loop/Whileloop11.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/0f1cc7accc3e02399ea4151218c656a1b5ce5db9', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/8e705a7e63c1eab7b30de27e4d0aed4caaead0d2/While-Loop/Whileloop11.java', 'name': 'Whileloop11.java', 'path': 'While-Loop/Whileloop11.java', 'sha': '0f1cc7accc3e02399ea4151218c656a1b5ce5db9', 'size': 534, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop11.java?ref=8e705a7e63c1eab7b30de27e4d0aed4caaead0d2'}
+import java.util.Scanner;
+
+public class Whileloop11 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a two number: ");
+        int n1 = scan.nextInt();
+        int og = n1;
+        int n2 = scan.nextInt();
+        int n = (n1<n2 ? n1 : n2);
+        while (n!=0) {
+            int temp = n;
+            n = n1%n;
+            n1= temp;
+        }
+        System.out.println("GCD of "+og+" and "+n2+" = "+n1);
+        scan.close();
+    }
+}

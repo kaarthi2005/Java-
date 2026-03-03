@@ -1,1 +1,27 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/4e609a3bf457ac079e26895a61d9ada75afb2e44', 'html': 'https://github.com/kaarthi2005/Java-/blob/d25dd2a766b535315d9f708865ba079d78918986/While-Loop/Whileloop8.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop8.java?ref=d25dd2a766b535315d9f708865ba079d78918986'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wOCB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBpbnQgYSA9IDE7DQogICAgICAgIGludCBjb3VudCA9IDA7\nDQogICAgICAgIGJvb2xlYW4gZmxhZyA9IHRydWU7DQogICAgICAgIHdoaWxl\nIChmbGFnKSB7DQogICAgICAgICAgICBpZihuJWEgPT0gMCl7DQogICAgICAg\nICAgICAgICAgY291bnQrKzsNCiAgICAgICAgICAgIH0NCiAgICAgICAgICAg\nIGlmKGE9PW4pew0KICAgICAgICAgICAgICAgIGZsYWcgPSBmYWxzZTsNCiAg\nICAgICAgICAgIH0NCiAgICAgICAgICAgIGErKzsNCiAgICAgICAgfQ0KICAg\nICAgICBpZihjb3VudCA9PSAyKXsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQu\ncHJpbnRsbihuKyIgaXMgUHJpbWUiKTsNCiAgICAgICAgfWVsc2Ugew0KICAg\nICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4rIiBpcyBub3QgUHJpbWUi\nKTsNCiAgICAgICAgfQ0KDQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9\nDQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/d25dd2a766b535315d9f708865ba079d78918986/While-Loop/Whileloop8.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/4e609a3bf457ac079e26895a61d9ada75afb2e44', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/d25dd2a766b535315d9f708865ba079d78918986/While-Loop/Whileloop8.java', 'name': 'Whileloop8.java', 'path': 'While-Loop/Whileloop8.java', 'sha': '4e609a3bf457ac079e26895a61d9ada75afb2e44', 'size': 635, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop8.java?ref=d25dd2a766b535315d9f708865ba079d78918986'}
+import java.util.Scanner;
+
+public class Whileloop8 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int a = 1;
+        int count = 0;
+        boolean flag = true;
+        while (flag) {
+            if(n%a == 0){
+                count++;
+            }
+            if(a==n){
+                flag = false;
+            }
+            a++;
+        }
+        if(count == 2){
+            System.out.println(n+" is Prime");
+        }else {
+            System.out.println(n+" is not Prime");
+        }
+
+        scan.close();
+    }
+}

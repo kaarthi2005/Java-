@@ -1,1 +1,22 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/e113720e02cd2b4257fa04cca1c5d7e4f3a49c86', 'html': 'https://github.com/kaarthi2005/Java-/blob/f28b5a2dbe49e22d8b31d37aa51e5437b00dfe9d/While-Loop/Whileloop12.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop12.java?ref=f28b5a2dbe49e22d8b31d37aa51e5437b00dfe9d'}, 'content': 'aW1wb3J0IGphdmEubWF0aC5CaWdJbnRlZ2VyOw0KaW1wb3J0IGphdmEudXRp\nbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hpbGVsb29wMTIgew0KICAg\nIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsNCiAg\nICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIoU3lzdGVtLmluKTsN\nCiAgICAgICAgQmlnSW50ZWdlciBudW1iZXIgPSBzY2FuLm5leHRCaWdJbnRl\nZ2VyKCk7DQogICAgICAgIEJpZ0ludGVnZXIgb2cgPSBudW1iZXI7DQogICAg\nICAgIEJpZ0ludGVnZXIgcmV2ID0gQmlnSW50ZWdlci5aRVJPOw0KICAgICAg\nICB3aGlsZSAobnVtYmVyLmNvbXBhcmVUbyhCaWdJbnRlZ2VyLlpFUk8pPjAp\nIHsNCiAgICAgICAgICAgIEJpZ0ludGVnZXIgZGlnaXQgPSBudW1iZXIubW9k\nKEJpZ0ludGVnZXIuVEVOKTsNCiAgICAgICAgICAgIHJldiA9IHJldi5tdWx0\naXBseShCaWdJbnRlZ2VyLlRFTikuYWRkKGRpZ2l0KTsNCiAgICAgICAgICAg\nIG51bWJlciA9IG51bWJlci5kaXZpZGUoQmlnSW50ZWdlci5URU4pOw0KICAg\nICAgICB9DQogICAgICAgIGlmKG9nLmVxdWFscyhyZXYpKXsNCiAgICAgICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRsbihvZysiIGlzIGEgcGFsaWRyb21lIik7\nDQogICAgICAgIH1lbHNlIHsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbihvZysiIGlzIG5vdCBhIHBhbGlkcm9tZSIpOw0KICAgICAgICB9DQog\nICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/f28b5a2dbe49e22d8b31d37aa51e5437b00dfe9d/While-Loop/Whileloop12.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/e113720e02cd2b4257fa04cca1c5d7e4f3a49c86', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/f28b5a2dbe49e22d8b31d37aa51e5437b00dfe9d/While-Loop/Whileloop12.java', 'name': 'Whileloop12.java', 'path': 'While-Loop/Whileloop12.java', 'sha': 'e113720e02cd2b4257fa04cca1c5d7e4f3a49c86', 'size': 752, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop12.java?ref=f28b5a2dbe49e22d8b31d37aa51e5437b00dfe9d'}
+import java.math.BigInteger;
+import java.util.Scanner;
+
+public class Whileloop12 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        BigInteger number = scan.nextBigInteger();
+        BigInteger og = number;
+        BigInteger rev = BigInteger.ZERO;
+        while (number.compareTo(BigInteger.ZERO)>0) {
+            BigInteger digit = number.mod(BigInteger.TEN);
+            rev = rev.multiply(BigInteger.TEN).add(digit);
+            number = number.divide(BigInteger.TEN);
+        }
+        if(og.equals(rev)){
+            System.out.println(og+" is a palidrome");
+        }else {
+            System.out.println(og+" is not a palidrome");
+        }
+        scan.close();
+    }
+}
