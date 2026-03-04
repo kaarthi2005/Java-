@@ -1,1 +1,38 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/919733da0f42c28b7db6eaa9ad2202fd8e5859ca', 'html': 'https://github.com/kaarthi2005/Java-/blob/3123f62ec26cd4dfa81611ce493b79696821f877/Nested_Loop/Nestedloop5.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop5.java?ref=3123f62ec26cd4dfa81611ce493b79696821f877'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KcHVibGljIGNsYXNzIE5lc3RlZGxvb3A1\nIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdz\nKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVyKFN5c3Rl\nbS5pbik7DQogICAgICAgIGludCBhID0gc2Nhbi5uZXh0SW50KCk7DQogICAg\nICAgIGludCBiID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIGludCBqPTE7\nDQoNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDYWxlbmRhciBHcmlk\nOlxuIisiTW9uICAgVHVlICAgV2VkICAgVGh1ICAgRnJpICAgU2F0ICAgU3Vu\nIik7DQogICAgICAgIGZvcihpbnQgaT0xIDtpPD02O2krKyl7DQogICAgICAg\nICAgICBpbnQgY291bnQgPTA7DQogICAgICAgICAgICBmb3IoIDtqPD1hIDsp\new0KICAgICAgICAgICAgICAgIGNvdW50Kys7DQogICAgICAgICAgICAgICAg\nDQogICAgICAgICAgICAgICAgaWYoYi0xID4wKXsNCiAgICAgICAgICAgICAg\nICAgICAgU3lzdGVtLm91dC5wcmludCgiICAgICAgIik7DQogICAgICAgICAg\nICAgICAgfQ0KICAgICAgICAgICAgICAgIGVsc2Ugew0KICAgICAgICAgICAg\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCIgICIraisiICAiKTsNCiAgICAg\nICAgICAgICAgICAgICAgaisrOw0KICAgICAgICAgICAgICAgIH1iLS07DQoN\nCiAgICAgICAgICAgICAgICBpZihjb3VudCA9PSA3KXsNCiAgICAgICAgICAg\nICAgICAgICAgYnJlYWs7DQogICAgICAgICAgICAgICAgfQ0KDQogICAgICAg\nICAgICB9DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsNCg0K\nICAgICAgICAgICAgaWYoaj09YSsxKXsNCiAgICAgICAgICAgICAgICBicmVh\nazsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KDQogICAgICAgIHNjYW4u\nY2xvc2UoKTsNCg0KICAgIH0NCn0=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/3123f62ec26cd4dfa81611ce493b79696821f877/Nested_Loop/Nestedloop5.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/919733da0f42c28b7db6eaa9ad2202fd8e5859ca', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/3123f62ec26cd4dfa81611ce493b79696821f877/Nested_Loop/Nestedloop5.java', 'name': 'Nestedloop5.java', 'path': 'Nested_Loop/Nestedloop5.java', 'sha': '919733da0f42c28b7db6eaa9ad2202fd8e5859ca', 'size': 920, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop5.java?ref=3123f62ec26cd4dfa81611ce493b79696821f877'}
+import java.util.*;
+public class Nestedloop5 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        int b = scan.nextInt();
+        int j=1;
+
+        System.out.println("Calendar Grid:\n"+"Mon   Tue   Wed   Thu   Fri   Sat   Sun");
+        for(int i=1 ;i<=6;i++){
+            int count =0;
+            for( ;j<=a ;){
+                count++;
+                
+                if(b-1 >0){
+                    System.out.print("      ");
+                }
+                else {
+                    System.out.print("  "+j+"  ");
+                    j++;
+                }b--;
+
+                if(count == 7){
+                    break;
+                }
+
+            }
+            System.out.println();
+
+            if(j==a+1){
+                break;
+            }
+        }
+
+        scan.close();
+
+    }
+}

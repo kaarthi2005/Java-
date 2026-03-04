@@ -1,1 +1,22 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/308497b049a01490c4a2d73c4afba7683f816109', 'html': 'https://github.com/kaarthi2005/Java-/blob/6e3eae00056bb8b76d9893c756d641a7d6c55a2d/Nested_Loop/Nestedloop1.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop1.java?ref=6e3eae00056bb8b76d9893c756d641a7d6c55a2d'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOwoKcHVibGljIGNsYXNzIE5lc3Rl\nZGxvb3AxewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIFtd\nIGFyZ3MpCiAgICB7CiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsKICAgICAgICBpbnQgciA9IHNjYW4ubmV4dEludCgp\nOwogICAgICAgIGludCBjID0gc2Nhbi5uZXh0SW50KCk7CiAgICAgICAgZm9y\nKGludCBpPTEgO2k8PWMgO2krKyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQu\ncHJpbnQoaSsiICIpOwogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oKTsKICAgICAgICAgZm9yKGludCBpID0xIDtpPD1yIDtpKyspewog\nICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGkrIiAiKTsKICAgICAgICAg\nICAgZm9yKGludCBqID0xIDtqPD1jIDtqKyspewogICAgICAgICAgICAgICBT\neXN0ZW0ub3V0LnByaW50KGkqaisiICIpOyAgICAgICAgCiAgICAgICAgICAg\nIH0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICAgICAg\nIH0KICAgICAgICAgc2Nhbi5jbG9zZSgpOwogICAgfQp9Cg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/6e3eae00056bb8b76d9893c756d641a7d6c55a2d/Nested_Loop/Nestedloop1.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/308497b049a01490c4a2d73c4afba7683f816109', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/6e3eae00056bb8b76d9893c756d641a7d6c55a2d/Nested_Loop/Nestedloop1.java', 'name': 'Nestedloop1.java', 'path': 'Nested_Loop/Nestedloop1.java', 'sha': '308497b049a01490c4a2d73c4afba7683f816109', 'size': 574, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop1.java?ref=6e3eae00056bb8b76d9893c756d641a7d6c55a2d'}
+import java.util.Scanner;
+
+public class Nestedloop1{
+    public static void main(String [] args)
+    {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+        for(int i=1 ;i<=c ;i++){
+            System.out.print(i+" ");
+        }
+        System.out.println();
+         for(int i =1 ;i<=r ;i++){
+            System.out.print(i+" ");
+            for(int j =1 ;j<=c ;j++){
+               System.out.print(i*j+" ");        
+            }
+            System.out.println();
+         }
+         scan.close();
+    }
+}

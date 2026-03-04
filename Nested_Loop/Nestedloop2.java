@@ -1,1 +1,21 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/97f86103caa4857e4b8a214cd06f0340580e2607', 'html': 'https://github.com/kaarthi2005/Java-/blob/9d2651c8b8631acb0108f3afadbe6f2862f7a857/Nested_Loop/Nestedloop2.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop2.java?ref=9d2651c8b8631acb0108f3afadbe6f2862f7a857'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KcHVibGljIGNsYXNzIE5lc3RlZGxvb3Ay\nIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdz\nKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVyKFN5c3Rl\nbS5pbik7DQogICAgICAgIGludCBjb3VudCA9IDA7DQogICAgICAgICBpbnQg\nciA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICBpbnQgYyA9IHNjYW4ubmV4\ndEludCgpOw0KICAgICAgICBmb3IoaW50IGk9MSA7aTw9ciA7aSsrKXsNCiAg\nICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIlJvdyAiK2krIjoiKTsNCiAg\nICAgICAgICAgIGZvcihpbnQgaj0xIDtqPD1jIDtqKyspew0KICAgICAgICAg\nICAgICAgIGNvdW50Kys7DQogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5w\ncmludCgiIFNlYXQtIitqKTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAgICB9DQogICAgICAgIFN5\nc3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oIlRvdGFsIFNlYXRzOiAiK2NvdW50KTsNCg0KICAgICAgICBzY2FuLmNs\nb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/9d2651c8b8631acb0108f3afadbe6f2862f7a857/Nested_Loop/Nestedloop2.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/97f86103caa4857e4b8a214cd06f0340580e2607', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/9d2651c8b8631acb0108f3afadbe6f2862f7a857/Nested_Loop/Nestedloop2.java', 'name': 'Nestedloop2.java', 'path': 'Nested_Loop/Nestedloop2.java', 'sha': '97f86103caa4857e4b8a214cd06f0340580e2607', 'size': 603, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop2.java?ref=9d2651c8b8631acb0108f3afadbe6f2862f7a857'}
+import java.util.*;
+public class Nestedloop2 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int count = 0;
+         int r = scan.nextInt();
+        int c = scan.nextInt();
+        for(int i=1 ;i<=r ;i++){
+            System.out.print("Row "+i+":");
+            for(int j=1 ;j<=c ;j++){
+                count++;
+                System.out.print(" Seat-"+j);
+            }
+            System.out.println();
+        }
+        System.out.println();
+        System.out.println("Total Seats: "+count);
+
+        scan.close();
+    }
+}

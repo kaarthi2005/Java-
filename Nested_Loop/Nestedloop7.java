@@ -1,1 +1,30 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/8e2c457da39d4819618c558fca4db9ed170ae972', 'html': 'https://github.com/kaarthi2005/Java-/blob/04bc1d60d8fdf188ecfe4c81022271e3d7898b1c/Nested_Loop/Nestedloop7.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop7.java?ref=04bc1d60d8fdf188ecfe4c81022271e3d7898b1c'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgTmVz\ndGVkbG9vcDcgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJbnQo\nKTsNCg0KICAgICAgICBpbnQgbWlkZGxlID0gbi8yOw0KICAgICAgICBmb3Io\naW50IGkgPSAwIDtpPD0gbWlkZGxlIDtpKyspew0KICAgICAgICAgICAgZm9y\nKGludCBqPTAgO2o8IG1pZGRsZS1pIDtqKyspew0KICAgICAgICAgICAgICAg\nIFN5c3RlbS5vdXQucHJpbnQoIiAiKTsNCiAgICAgICAgICAgIH0NCiAgICAg\nICAgICAgIGZvcihpbnQgaz0wIDtrPCAoMippKzEpIDtrKyspew0KICAgICAg\nICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIioiKTsNCiAgICAgICAgICAg\nIH0NCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAg\nICB9DQogICAgICAgICBmb3IoaW50IGkgPSBtaWRkbGUtMSA7aT49MCA7aS0t\nKXsNCiAgICAgICAgICAgIGZvcihpbnQgaj0wIDtqPCBtaWRkbGUtaSA7aisr\nKXsNCiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCIgIik7DQog\nICAgICAgICAgICB9DQogICAgICAgICAgICBmb3IoaW50IGs9MCA7azwgKDIq\naSsxKSA7aysrKXsNCiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nKCIqIik7DQogICAgICAgICAgICB9DQogICAgICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oKTsNCiAgICAgICAgfQ0KDQogICAgICAgIHNjYW4uY2xvc2Uo\nKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/04bc1d60d8fdf188ecfe4c81022271e3d7898b1c/Nested_Loop/Nestedloop7.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/8e2c457da39d4819618c558fca4db9ed170ae972', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/04bc1d60d8fdf188ecfe4c81022271e3d7898b1c/Nested_Loop/Nestedloop7.java', 'name': 'Nestedloop7.java', 'path': 'Nested_Loop/Nestedloop7.java', 'sha': '8e2c457da39d4819618c558fca4db9ed170ae972', 'size': 824, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop7.java?ref=04bc1d60d8fdf188ecfe4c81022271e3d7898b1c'}
+import java.util.Scanner;
+
+public class Nestedloop7 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+
+        int middle = n/2;
+        for(int i = 0 ;i<= middle ;i++){
+            for(int j=0 ;j< middle-i ;j++){
+                System.out.print(" ");
+            }
+            for(int k=0 ;k< (2*i+1) ;k++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+         for(int i = middle-1 ;i>=0 ;i--){
+            for(int j=0 ;j< middle-i ;j++){
+                System.out.print(" ");
+            }
+            for(int k=0 ;k< (2*i+1) ;k++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+        scan.close();
+    }
+}
