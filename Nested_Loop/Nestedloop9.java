@@ -1,1 +1,29 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9f0baff900b6c58c0c0395c26279c693c9dec289', 'html': 'https://github.com/kaarthi2005/Java-/blob/28a9b93cd35854545d278b7174dbd0e56fd8111a/Nested_Loop/Nestedloop9.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop9.java?ref=28a9b93cd35854545d278b7174dbd0e56fd8111a'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgTmVz\ndGVkbG9vcDkgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJbnQo\nKTsNCiAgICAgICAgaW50IG0gPSAwOw0KICAgICAgICBpbnQgbWlkZGxlID0g\nbi8yOw0KICAgICAgICBmb3IoaW50IGkgPSAwIDtpPG4gO2krKyl7DQogICAg\nICAgICAgICBpbnQgbD0xOw0KICAgICAgICAgICAgU3RyaW5nIGZsYWcgPSAi\ndHJ1ZSI7DQogICAgICAgICAgICBmb3IoaW50IGo9MCA7ajw9IG1pZGRsZS1p\nKzEgO2orKyl7DQogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgi\nICIpOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgZm9yKGludCBrPTAg\nO2s8IChtID0gMippKzEpIDtrKyspew0KICAgICAgICAgICAgICAgIGlmKGw+\nbS8yIHx8IGZsYWcuZXF1YWxzKCJmYWxzZSIpKXsNCiAgICAgICAgICAgICAg\nICAgICAgZmxhZyA9ICJmYWxzZSI7DQogICAgICAgICAgICAgICAgICAgIFN5\nc3RlbS5vdXQucHJpbnQobCk7DQogICAgICAgICAgICAgICAgICAgIGwtLTsN\nCiAgICAgICAgICAgICAgICB9ZWxzZSBpZiAoZmxhZy5lcXVhbHMoInRydWUi\nKSl7DQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQobCk7\nDQogICAgICAgICAgICAgICAgICAgIGwrKzsNCiAgICAgICAgICAgICAgICB9\nDQogICAgICAgICAgICB9DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oKTsNCiAgICAgICAgfQ0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAg\nfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/28a9b93cd35854545d278b7174dbd0e56fd8111a/Nested_Loop/Nestedloop9.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9f0baff900b6c58c0c0395c26279c693c9dec289', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/28a9b93cd35854545d278b7174dbd0e56fd8111a/Nested_Loop/Nestedloop9.java', 'name': 'Nestedloop9.java', 'path': 'Nested_Loop/Nestedloop9.java', 'sha': '9f0baff900b6c58c0c0395c26279c693c9dec289', 'size': 861, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop9.java?ref=28a9b93cd35854545d278b7174dbd0e56fd8111a'}
+import java.util.Scanner;
+
+public class Nestedloop9 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int m = 0;
+        int middle = n/2;
+        for(int i = 0 ;i<n ;i++){
+            int l=1;
+            String flag = "true";
+            for(int j=0 ;j<= middle-i+1 ;j++){
+                System.out.print(" ");
+            }
+            for(int k=0 ;k< (m = 2*i+1) ;k++){
+                if(l>m/2 || flag.equals("false")){
+                    flag = "false";
+                    System.out.print(l);
+                    l--;
+                }else if (flag.equals("true")){
+                    System.out.print(l);
+                    l++;
+                }
+            }
+            System.out.println();
+        }
+        scan.close();
+    }
+}

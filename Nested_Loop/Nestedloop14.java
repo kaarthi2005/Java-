@@ -1,1 +1,52 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/5ed923139d83e38e66ac3b099c0fbc8a66431517', 'html': 'https://github.com/kaarthi2005/Java-/blob/885c92d3fb11a895e02e803517f52f7864fcfb41/Nested_Loop/Nestedloop14.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop14.java?ref=885c92d3fb11a895e02e803517f52f7864fcfb41'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgTmVz\ndGVkbG9vcDE0IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIGludCByID0gc2Nhbi5uZXh0SW50\nKCk7DQogICAgICAgIGludCBjID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAg\nIGludCBzZWF0ID0gc2Nhbi5uZXh0SW50KCk7DQoNCiAgICAgICAgaW50IGNv\ndW50ID0gMTsNCiAgICAgICAgaW50IHNjb3VudCA9IDA7DQogICAgICAgIGlu\ndCBzZWF0cyA9IHIqYzsgDQogICAgICAgIGZvcihpbnQgaT0xIDtpPD1yKjIg\nO2krKyl7DQogICAgICAgICAgICAgc2NvdW50ICsrOw0KICAgICAgICAgICAg\nZm9yKGludCBqPTEgO2o8PWMgO2orKyl7DQogICAgICAgICAgICAgICBpZihj\nb3VudCAhPSBzZWF0KzEgKXsNCiAgICAgICAgICAgICAgICBpZihpJTI9PTAg\nKXsNCiAgICAgICAgICAgICAgICAgICAgaWYoaiUyPT0wKXsNCiAgICAgICAg\nICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIiBTJTAzZCAiLGNvdW50\nKTsNCiAgICAgICAgICAgICAgICAgICAgY291bnQrKzsNCiAgICAgICAgICAg\nICAgICAgICAgfWVsc2V7DQogICAgICAgICAgICAgICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50KCIgLS0tLSAiKTsNCiAgICAgICAgICAgICAgICAgICAgfQ0K\nDQogICAgICAgICAgICAgICAgfWVsc2UgaWYoaSUyIT0wKXsNCiAgICAgICAg\nICAgICAgICAgICAgaWYoaiUyPT0wICl7DQogICAgICAgICAgICAgICAgICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50KCIgLS0tLSAiKTsNCiAgICAgICAgICAg\nICAgICAgICAgDQogICAgICAgICAgICAgICAgICAgIH1lbHNlICB7DQogICAg\nICAgICAgICAgICAgICAgICANCiAgICAgICAgICAgICAgICAgICAgICBTeXN0\nZW0ub3V0LnByaW50ZigiIFMlMDNkICIsY291bnQpOw0KICAgICAgICAgICAg\nICAgICAgICAgIGNvdW50Kys7DQogICAgICAgICAgICAgICAgICAgIH0NCiAg\nICAgICAgICAgICAgICB9DQoNCiAgICAgICAgICAgIH1lbHNlew0KICAgICAg\nICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIiAtLS0tICIpOw0KICAgICAg\nICAgICAgfQ0KICAgICAgICAgICAgICAgDQoNCiAgICAgICAgICAgIH0NCiAg\nICAgICAgICAgIGlmKHNjb3VudCA9PSBzZWF0cyl7DQogICAgICAgICAgICAg\nICAgICAgIGJyZWFrOw0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAgICB9DQogICAgICAgIFN5\nc3RlbS5vdXQucHJpbnRsbigiVG90YWwgU2VhdHM6ICIrc2VhdHMpOw0KICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk9jY3VwaWVkIFNlYXRzOiAiKyhz\nZWF0KSk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW1wdHkgU2Vh\ndHM6ICIrKHNlYXRzLXNlYXQpKTsNCiAgICAgICAgc2Nhbi5jbG9zZSgpOw0K\nICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/885c92d3fb11a895e02e803517f52f7864fcfb41/Nested_Loop/Nestedloop14.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/5ed923139d83e38e66ac3b099c0fbc8a66431517', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/885c92d3fb11a895e02e803517f52f7864fcfb41/Nested_Loop/Nestedloop14.java', 'name': 'Nestedloop14.java', 'path': 'Nested_Loop/Nestedloop14.java', 'sha': '5ed923139d83e38e66ac3b099c0fbc8a66431517', 'size': 1495, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop14.java?ref=885c92d3fb11a895e02e803517f52f7864fcfb41'}
+import java.util.Scanner;
+
+public class Nestedloop14 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+        int seat = scan.nextInt();
+
+        int count = 1;
+        int scount = 0;
+        int seats = r*c; 
+        for(int i=1 ;i<=r*2 ;i++){
+             scount ++;
+            for(int j=1 ;j<=c ;j++){
+               if(count != seat+1 ){
+                if(i%2==0 ){
+                    if(j%2==0){
+                    System.out.printf(" S%03d ",count);
+                    count++;
+                    }else{
+                     System.out.print(" ---- ");
+                    }
+
+                }else if(i%2!=0){
+                    if(j%2==0 ){
+                        System.out.print(" ---- ");
+                    
+                    }else  {
+                     
+                      System.out.printf(" S%03d ",count);
+                      count++;
+                    }
+                }
+
+            }else{
+                System.out.print(" ---- ");
+            }
+               
+
+            }
+            if(scount == seats){
+                    break;
+                }
+            System.out.println();
+        }
+        System.out.println("Total Seats: "+seats);
+        System.out.println("Occupied Seats: "+(seat));
+        System.out.println("Empty Seats: "+(seats-seat));
+        scan.close();
+    }
+}

@@ -1,1 +1,28 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/f84163b5e65921ebff7a33b63800f4d07529b1f1', 'html': 'https://github.com/kaarthi2005/Java-/blob/fe160b22625ca42f3a7d6dd0861001a30f43017b/Nested_Loop/Nestedloop10.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop10.java?ref=fe160b22625ca42f3a7d6dd0861001a30f43017b'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KDQpwdWJsaWMgY2xhc3MgTmVzdGVkbG9v\ncDEwIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBh\ncmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVyKFN5\nc3RlbS5pbik7DQogICAgICAgIGludCByID0gc2Nhbi5uZXh0SW50KCk7DQog\nICAgICAgIGludCBjID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIA0KDQog\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiXG5cblByaWNlIENvbXBhcmlz\nb24gTWF0cml4OlxyXG4iICsgIlByb2R1Y3QgVmVuZG9yMSBWZW5kb3IyIFZl\nbmRvcjMgVmVuZG9yNCBCZXN0UHJpY2VcclxuIik7DQogICAgICAgIGZvcihp\nbnQgaT0wO2k8cjtpKyspew0KICAgICAgICAgICAgZmxvYXQgbWluID0gSW50\nZWdlci5NQVhfVkFMVUU7DQogICAgICAgICAgICBTdHJpbmcgc3RyID0gc2Nh\nbi5uZXh0KCk7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHN0cik7\nDQogICAgICAgICAgICBmb3IoaW50IGo9MDtqPGM7aisrKXsNCiAgICAgICAg\nICAgICAgIGZsb2F0IG51bSA9IHNjYW4ubmV4dEZsb2F0KCk7DQogICAgICAg\nICAgICAgICAgaWYobnVtIDwgbWluKXsNCiAgICAgICAgICAgICAgICAgICAg\nbWluID0gbnVtOw0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50KCIgIitudW0rIiAiKTsNCiAgICAgICAgICAg\nIH0NCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCIgJS4yZiIsbWlu\nKTsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAg\nICAgICANCiAgICAgICAgfQ0KICAgICAgICAgc2Nhbi5jbG9zZSgpOw0KICAg\nIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/fe160b22625ca42f3a7d6dd0861001a30f43017b/Nested_Loop/Nestedloop10.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/f84163b5e65921ebff7a33b63800f4d07529b1f1', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/fe160b22625ca42f3a7d6dd0861001a30f43017b/Nested_Loop/Nestedloop10.java', 'name': 'Nestedloop10.java', 'path': 'Nested_Loop/Nestedloop10.java', 'sha': 'f84163b5e65921ebff7a33b63800f4d07529b1f1', 'size': 862, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop10.java?ref=fe160b22625ca42f3a7d6dd0861001a30f43017b'}
+import java.util.*;
+
+public class Nestedloop10 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+        
+
+        System.out.println("\n\nPrice Comparison Matrix:\r\n" + "Product Vendor1 Vendor2 Vendor3 Vendor4 BestPrice\r\n");
+        for(int i=0;i<r;i++){
+            float min = Integer.MAX_VALUE;
+            String str = scan.next();
+            System.out.print(str);
+            for(int j=0;j<c;j++){
+               float num = scan.nextFloat();
+                if(num < min){
+                    min = num;
+                }
+                System.out.print(" "+num+" ");
+            }
+            System.out.printf(" %.2f",min);
+            System.out.println();
+           
+        }
+         scan.close();
+    }
+}

@@ -1,1 +1,47 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/10adc0032526b18de8ed032477d19aa97f4b829e', 'html': 'https://github.com/kaarthi2005/Java-/blob/89e3c4b74e56f009d3413b948d1b1447994686fc/Nested_Loop/Nestedloop13.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop13.java?ref=89e3c4b74e56f009d3413b948d1b1447994686fc'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgTmVz\ndGVkbG9vcDEzIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIGludCBuID0gc2Nhbi5uZXh0SW50\nKCk7DQogICAgICAgIGludCBtQyA9IDAsbVIgPSAwLE1SPW4tMSwgTUMgPSBu\nLTE7DQogICAgICAgIGludCBbXVtdIG1hdHJpeCA9IG5ldyBpbnQgW25dW25d\nOw0KDQoNCg0KDQoNCiAgICAgICAgaW50IGk9MTsNCiAgICAgICAgd2hpbGUo\naTw9KG4qbikpew0KICAgICAgICAgICAgZm9yKGludCBqPW1DIDtqIDw9IE1D\nIDtqKyspew0KICAgICAgICAgICAgICAgIG1hdHJpeFttUl1bal0gPSBpKys7\nDQogICAgICAgICAgICB9DQogICAgICAgICAgICBmb3IoaW50IGo9bVIrMSA7\naiA8PSBNUiA7aisrKXsNCiAgICAgICAgICAgICAgICBtYXRyaXhbal1bTUNd\nID0gaSsrOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgZm9yKGludCBq\nPU1DLTEgO2ogPj0gbUMgO2otLSl7DQogICAgICAgICAgICAgICAgbWF0cml4\nW01SXVtqXSA9IGkrKzsNCiAgICAgICAgICAgIH0NCiAgICAgICAgICAgIGZv\ncihpbnQgaj1NUi0xIDtqID49IG1SKzEgO2otLSl7DQogICAgICAgICAgICAg\nICAgbWF0cml4W2pdW21DXSA9IGkrKzsNCiAgICAgICAgICAgIH0NCg0KICAg\nICAgICAgICAgbUMrKzsNCiAgICAgICAgICAgIG1SKys7DQogICAgICAgICAg\nICBNUi0tOw0KICAgICAgICAgICAgTUMtLTsNCiAgICAgICAgfQ0KICAgICAg\nICANCg0KICAgICAgICBmb3IoaW50IGs9MCA7azxuO2srKyl7DQogICAgICAg\nICAgICANCiAgICAgICAgICAgIGZvcihpbnQgaiA9MDtqPG47aisrKXsNCiAg\nICAgICAgICAgICANCiAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQo\nbWF0cml4W2tdW2pdKyIgIik7DQogICAgICAgICAgICAgICANCiAgICAgICAg\nICAgIH0NCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAg\nICAgICB9DQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/89e3c4b74e56f009d3413b948d1b1447994686fc/Nested_Loop/Nestedloop13.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/10adc0032526b18de8ed032477d19aa97f4b829e', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/89e3c4b74e56f009d3413b948d1b1447994686fc/Nested_Loop/Nestedloop13.java', 'name': 'Nestedloop13.java', 'path': 'Nested_Loop/Nestedloop13.java', 'sha': '10adc0032526b18de8ed032477d19aa97f4b829e', 'size': 1079, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop13.java?ref=89e3c4b74e56f009d3413b948d1b1447994686fc'}
+import java.util.Scanner;
+
+public class Nestedloop13 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int mC = 0,mR = 0,MR=n-1, MC = n-1;
+        int [][] matrix = new int [n][n];
+
+
+
+
+
+        int i=1;
+        while(i<=(n*n)){
+            for(int j=mC ;j <= MC ;j++){
+                matrix[mR][j] = i++;
+            }
+            for(int j=mR+1 ;j <= MR ;j++){
+                matrix[j][MC] = i++;
+            }
+            for(int j=MC-1 ;j >= mC ;j--){
+                matrix[MR][j] = i++;
+            }
+            for(int j=MR-1 ;j >= mR+1 ;j--){
+                matrix[j][mC] = i++;
+            }
+
+            mC++;
+            mR++;
+            MR--;
+            MC--;
+        }
+        
+
+        for(int k=0 ;k<n;k++){
+            
+            for(int j =0;j<n;j++){
+             
+               System.out.print(matrix[k][j]+" ");
+               
+            }
+            System.out.println();
+        }
+        scan.close();
+       }
+}

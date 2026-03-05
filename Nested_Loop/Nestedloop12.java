@@ -1,1 +1,27 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/06b407298ce6386453db3f7dc83cd0cef8145865', 'html': 'https://github.com/kaarthi2005/Java-/blob/64435d79f97c3be7f54a88e4dd6a2805304c0ad9/Nested_Loop/Nestedloop12.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop12.java?ref=64435d79f97c3be7f54a88e4dd6a2805304c0ad9'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgTmVz\ndGVkbG9vcDEyIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIGludCBuID0gc2Nhbi5uZXh0SW50\nKCk7DQogICAgICAgIGZvcihpbnQgaT0wIDtpPG47aSsrKXsNCiAgICAgICAg\nICAgIGZvcihpbnQgaj0wIDtqPG4gO2orKyl7IA0KICAgICAgICAgICAgICAg\nIGlmKGklMj09MCl7DQogICAgICAgICAgICAgICAgICAgIGlmKGolMj09MCl7\nDQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIiogIik7\nDQogICAgICAgICAgICAgICAgICAgIH1lbHNlew0KICAgICAgICAgICAgICAg\nICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiLSAiKTsNCiAgICAgICAgICAg\nICAgICAgICAgfQ0KICAgICAgICAgICAgICAgIH1lbHNlew0KICAgICAgICAg\nICAgICAgICAgICBpZihqJTI9PTApew0KICAgICAgICAgICAgICAgICAgICBT\neXN0ZW0ub3V0LnByaW50KCItICIpOw0KICAgICAgICAgICAgICAgICAgICB9\nZWxzZXsNCiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJp\nbnQoIiogIik7DQogICAgICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAg\nICAgICB9DQogICAgICAgICAgICB9DQogICAgICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oKTsNCiAgICAgICAgfQ0KICAgICAgICBzY2FuLmNsb3NlKCk7\nDQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/64435d79f97c3be7f54a88e4dd6a2805304c0ad9/Nested_Loop/Nestedloop12.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/06b407298ce6386453db3f7dc83cd0cef8145865', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/64435d79f97c3be7f54a88e4dd6a2805304c0ad9/Nested_Loop/Nestedloop12.java', 'name': 'Nestedloop12.java', 'path': 'Nested_Loop/Nestedloop12.java', 'sha': '06b407298ce6386453db3f7dc83cd0cef8145865', 'size': 777, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop12.java?ref=64435d79f97c3be7f54a88e4dd6a2805304c0ad9'}
+import java.util.Scanner;
+
+public class Nestedloop12 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        for(int i=0 ;i<n;i++){
+            for(int j=0 ;j<n ;j++){ 
+                if(i%2==0){
+                    if(j%2==0){
+                    System.out.print("* ");
+                    }else{
+                        System.out.print("- ");
+                    }
+                }else{
+                    if(j%2==0){
+                    System.out.print("- ");
+                    }else{
+                        System.out.print("* ");
+                    }
+                }
+            }
+            System.out.println();
+        }
+        scan.close();
+    }
+}
