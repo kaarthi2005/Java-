@@ -1,1 +1,17 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/b4a00b085c68ad9308705a274776146788de12fa', 'html': 'https://github.com/kaarthi2005/Java-/blob/3632dca5e2d402688aea935659b1f2154d5d9519/Nested_Loop/Nestedloop19.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop19.java?ref=3632dca5e2d402688aea935659b1f2154d5d9519'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgTmVz\ndGVkbG9vcDE5IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIGludCBuID0gc2Nhbi5uZXh0SW50\nKCk7DQogICAgICAgIGludCBoID0gMDsNCiAgICAgICAgZm9yKGludCBpPTAg\nO2k8biA7aSsrKXsNCiAgICAgICAgICAgIGZvcihpbnQgaz0wIDtrPCBpKzE7\naysrKXsNCiAgICAgICAgICAgICAgICBoKys7DQogICAgICAgICAgICAgICAg\nU3lzdGVtLm91dC5wcmludChoKyIgIik7DQogICAgICAgICAgICB9DQogICAg\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsNCiAgICAgICAgfQ0KICAg\nICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/3632dca5e2d402688aea935659b1f2154d5d9519/Nested_Loop/Nestedloop19.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/b4a00b085c68ad9308705a274776146788de12fa', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/3632dca5e2d402688aea935659b1f2154d5d9519/Nested_Loop/Nestedloop19.java', 'name': 'Nestedloop19.java', 'path': 'Nested_Loop/Nestedloop19.java', 'sha': 'b4a00b085c68ad9308705a274776146788de12fa', 'size': 435, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop19.java?ref=3632dca5e2d402688aea935659b1f2154d5d9519'}
+import java.util.Scanner;
+
+public class Nestedloop19 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int h = 0;
+        for(int i=0 ;i<n ;i++){
+            for(int k=0 ;k< i+1;k++){
+                h++;
+                System.out.print(h+" ");
+            }
+            System.out.println();
+        }
+        scan.close();
+    }
+}

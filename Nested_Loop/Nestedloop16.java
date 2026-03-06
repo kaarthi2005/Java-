@@ -1,1 +1,37 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/873c9f292b5f1216aa877c98b2db4461e482fb6b', 'html': 'https://github.com/kaarthi2005/Java-/blob/dcd540a8756c2d50facc31a5679a19d3a6e2830a/Nested_Loop/Nestedloop16.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop16.java?ref=dcd540a8756c2d50facc31a5679a19d3a6e2830a'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgTmVz\ndGVkbG9vcDE2IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIGludCByID0gc2Nhbi5uZXh0SW50\nKCk7DQogICAgICAgIGludCBjID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAg\nIGludCBvY2N1cGllZFNwb3RzID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAg\nIGJvb2xlYW4gW11bXWFyciA9IG5ldyBib29sZWFuIFtvY2N1cGllZFNwb3Rz\nXVtvY2N1cGllZFNwb3RzXTsNCiAgICAgICANCiAgICAgICAgZm9yKGludCBp\nPTAgO2k8b2NjdXBpZWRTcG90cyA7aSsrKXsgDQogICAgICAgICAgICAgICAg\naW50IG4xID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgICAgICAgICAgaW50\nIG4yID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgICAgICAgICAgYXJyW24x\nXVtuMl0gPSB0cnVlOw0KICAgICAgICB9DQogICAgICAgIA0KICAgICAgICBm\nb3IoaW50IGk9MCA7aTxyIDtpKyspew0KICAgICAgICAgICAgZm9yKGludCBq\nID0wO2o8YyA7aisrKXsNCiAgICAgICAgICAgICAgICBpZihhcnJbaV1bal0g\nPT0gdHJ1ZSl7DQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJp\nbnQoIltPXSAiKTsNCiAgICAgICAgICAgICAgICB9ZWxzZXsNCiAgICAgICAg\nICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIltdICIpOw0KICAgICAg\nICAgICAgICAgIH0NCiAgICAgICAgICAgIH0NCiAgICAgICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigpOw0KICAgICAgICB9DQoNCiAgICAgICAgaW50IHNw\nb3QgPSByKmM7DQogICAgICAgIGZsb2F0IG9jY3VwYW5jeSA9ICgoZmxvYXQp\nb2NjdXBpZWRTcG90cy9zcG90KSoxMDAuZjsNCg0KICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50bG4oIlRvdGFsIFNwb3RzOiAiK3Nwb3QpOw0KICAgICAgICBT\neXN0ZW0ub3V0LnByaW50bG4oIk9jY3VwaWVkOiAiK29jY3VwaWVkU3BvdHMp\nOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlZhY2VudDogIisocipj\nLW9jY3VwaWVkU3BvdHMpKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGYo\nIk9jY3VwYW5jeSBSYXRlOiAlLjJmICUlIixvY2N1cGFuY3kpOw0KICAgIHNj\nYW4uY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/dcd540a8756c2d50facc31a5679a19d3a6e2830a/Nested_Loop/Nestedloop16.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/873c9f292b5f1216aa877c98b2db4461e482fb6b', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/dcd540a8756c2d50facc31a5679a19d3a6e2830a/Nested_Loop/Nestedloop16.java', 'name': 'Nestedloop16.java', 'path': 'Nested_Loop/Nestedloop16.java', 'sha': '873c9f292b5f1216aa877c98b2db4461e482fb6b', 'size': 1193, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop16.java?ref=dcd540a8756c2d50facc31a5679a19d3a6e2830a'}
+import java.util.Scanner;
+
+public class Nestedloop16 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+        int occupiedSpots = scan.nextInt();
+        boolean [][]arr = new boolean [occupiedSpots][occupiedSpots];
+       
+        for(int i=0 ;i<occupiedSpots ;i++){ 
+                int n1 = scan.nextInt();
+                int n2 = scan.nextInt();
+                arr[n1][n2] = true;
+        }
+        
+        for(int i=0 ;i<r ;i++){
+            for(int j =0;j<c ;j++){
+                if(arr[i][j] == true){
+                    System.out.print("[O] ");
+                }else{
+                     System.out.print("[] ");
+                }
+            }
+            System.out.println();
+        }
+
+        int spot = r*c;
+        float occupancy = ((float)occupiedSpots/spot)*100.f;
+
+        System.out.println("Total Spots: "+spot);
+        System.out.println("Occupied: "+occupiedSpots);
+        System.out.println("Vacent: "+(r*c-occupiedSpots));
+        System.out.printf("Occupancy Rate: %.2f %%",occupancy);
+    scan.close();
+    }
+}

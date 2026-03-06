@@ -1,1 +1,51 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/06b7231fba5059470aedd4cc201447e5dd82d214', 'html': 'https://github.com/kaarthi2005/Java-/blob/dce6a9bee3f81f20c65085c4e2510cee47ec50f9/Nested_Loop/Nestedloop18.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop18.java?ref=dce6a9bee3f81f20c65085c4e2510cee47ec50f9'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgTmVz\ndGVkbG9vcDE4IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIGludCByID0gc2Nhbi5uZXh0SW50\nKCk7DQogICAgICAgIGludCBjID0gc2Nhbi5uZXh0SW50KCk7DQoNCiAgICAg\nICAgU3RyaW5nIFtdIGFyciA9IG5ldyBTdHJpbmdbcl07DQogICAgICAgIGZv\ncihpbnQgaT0wIDtpPHIgO2krKyl7DQogICAgICAgICAgICBzd2l0Y2ggKGkp\nIHsNCiAgICAgICAgICAgICAgICBjYXNlIDA6DQogICAgICAgICAgICAgICAg\nICAgIGFycltpXSA9ICJNb25kYXkgIjsNCiAgICAgICAgICAgICAgICAgICAg\nYnJlYWs7DQogICAgICAgICAgICAgICAgY2FzZSAxOg0KICAgICAgICAgICAg\nICAgICAgICBhcnJbaV0gPSAiVHVlc2RheSAiOw0KICAgICAgICAgICAgICAg\nICAgICBicmVhazsNCiAgICAgICAgICAgICAgICBjYXNlIDI6DQogICAgICAg\nICAgICAgICAgICAgIGFycltpXSA9ICJXZWRuZXNkYXkgIjsNCiAgICAgICAg\nICAgICAgICAgICAgYnJlYWs7DQogICAgICAgICAgICAgICAgY2FzZSAzOg0K\nICAgICAgICAgICAgICAgICAgICBhcnJbaV0gPSAiVGhydXNkYXkgIjsNCiAg\nICAgICAgICAgICAgICAgICAgYnJlYWs7DQogICAgICAgICAgICAgICAgY2Fz\nZSA0Og0KICAgICAgICAgICAgICAgICAgICBhcnJbaV0gPSAiRnJpZGF5ICI7\nDQogICAgICAgICAgICAgICAgICAgIGJyZWFrOw0KICAgICAgICAgICAgICAg\nIGNhc2UgNToNCiAgICAgICAgICAgICAgICAgICAgYXJyW2ldID0gIlNhdHVy\nZGF5ICI7DQogICAgICAgICAgICAgICAgICAgIGJyZWFrOw0KICAgICAgICAg\nICAgDQogICAgICAgICAgICAgICAgZGVmYXVsdDoNCiAgICAgICAgICAgICAg\nICAgICAgYnJlYWs7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCg0KICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsNCiAgICAgICAgU3lzdGVtLm91\ndC5wcmludGxuKCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGF5\nIFBlcmlvZDEgUGVyaW9kMiBQZXJpb2QzIFBlcmlvZDQiKTsNCiAgICAgICAg\nZm9yKGludCBpPTAgO2k8ciA7aSsrKXsNCiAgICAgICAgICAgIFN5c3RlbS5v\ndXQucHJpbnQoYXJyW2ldKTsNCiAgICAgICAgICAgIGZvcihpbnQgaj0wIDtq\nPGMgO2orKyl7DQogICAgICAgICAgICAgICAgU3RyaW5nIHN0ciA9IHNjYW4u\nbmV4dCgpOw0KICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoc3Ry\nKyIgIik7DQogICAgICAgICAgICB9DQogICAgICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oKTsNCiAgICAgICAgfQ0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7DQogICAg\nICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/dce6a9bee3f81f20c65085c4e2510cee47ec50f9/Nested_Loop/Nestedloop18.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/06b7231fba5059470aedd4cc201447e5dd82d214', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/dce6a9bee3f81f20c65085c4e2510cee47ec50f9/Nested_Loop/Nestedloop18.java', 'name': 'Nestedloop18.java', 'path': 'Nested_Loop/Nestedloop18.java', 'sha': '06b7231fba5059470aedd4cc201447e5dd82d214', 'size': 1469, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/Nested_Loop/Nestedloop18.java?ref=dce6a9bee3f81f20c65085c4e2510cee47ec50f9'}
+import java.util.Scanner;
+
+public class Nestedloop18 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+
+        String [] arr = new String[r];
+        for(int i=0 ;i<r ;i++){
+            switch (i) {
+                case 0:
+                    arr[i] = "Monday ";
+                    break;
+                case 1:
+                    arr[i] = "Tuesday ";
+                    break;
+                case 2:
+                    arr[i] = "Wednesday ";
+                    break;
+                case 3:
+                    arr[i] = "Thrusday ";
+                    break;
+                case 4:
+                    arr[i] = "Friday ";
+                    break;
+                case 5:
+                    arr[i] = "Saturday ";
+                    break;
+            
+                default:
+                    break;
+            }
+        }
+
+        System.out.println();
+        System.out.println();
+        System.out.println("Day Period1 Period2 Period3 Period4");
+        for(int i=0 ;i<r ;i++){
+            System.out.print(arr[i]);
+            for(int j=0 ;j<c ;j++){
+                String str = scan.next();
+                System.out.print(str+" ");
+            }
+            System.out.println();
+        }
+        System.out.println();
+        System.out.println();
+        scan.close();
+    }
+}

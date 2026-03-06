@@ -1,1 +1,42 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/f223748cd430bdb6ea414bdbc83c123c20fbefff', 'html': 'https://github.com/kaarthi2005/Java-/blob/491d779adb8656bbb98a688ef1eb4e08316065dc/1D_Array/Array1D_2.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_2.java?ref=491d779adb8656bbb98a688ef1eb4e08316065dc'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF8yIHsNCiAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1td\nIGFyZ3MpIHsNCiAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5lcihTeXN0\nZW0uaW4pOw0KICAgIGludCBuID0gc2Nhbi5uZXh0SW50KCk7DQogICAgaW50\nIFtdIGFyciA9IG5ldyBpbnQgW25dOw0KICAgIGludCBbXSBpbmRleCA9IG5l\ndyBpbnQgW25dOw0KICAgIGludCBjb3VudCA9IDA7DQogICAgaW50IHRhcmdl\ndCA9IHNjYW4ubmV4dEludCgpOw0KICAgIGZvcihpbnQgaT0wIDtpPG4gO2kr\nKyl7DQogICAgICAgIGFycltpXSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAg\nICBpZihhcnJbaV0gPCB0YXJnZXQpew0KICAgICAgICAgICANCiAgICAgICAg\nICAgIGluZGV4W2NvdW50XSA9IGk7DQogICAgICAgICAgICBjb3VudCsrOw0K\nICAgICAgICB9DQogICAgfQ0KDQogICAgU3lzdGVtLm91dC5wcmludGxuKCJU\nb3RhbCBQcm9kdWN0czogIituKTsNCiAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIk1pbmltdW0gVGhyZXNob2xkOiAiK3RhcmdldCk7DQogICAgU3lzdGVtLm91\ndC5wcmludGxuKCJMb3cgU3RvY2sgUHJvZHVjdHM6ICIrY291bnQpOw0KICAg\nIGZvcihpbnQgaT0wIDtpPGNvdW50IDtpKyspew0KICAgICAgICANCiAgICAg\nICAgaWYoaT09MCApew0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgi\nUHJvZHVjdCBJbmRpY2VzOiBbICIpOw0KICAgICAgICB9DQogICAgICAgIFN5\nc3RlbS5vdXQucHJpbnQoaW5kZXhbaV0pOw0KICAgICAgICBpZihpPT1jb3Vu\ndC0xKXsNCiAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiIF0iKTsNCiAg\nICAgICAgfQ0KICAgICAgICBlbHNlew0KICAgICAgICAgICAgIA0KICAgICAg\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCIsICIpOw0KICAgICAgICB9DQog\nICAgfQ0KDQoNCiAgICBzY2FuLmNsb3NlKCk7DQoNCiAgIH0gIA0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/491d779adb8656bbb98a688ef1eb4e08316065dc/1D_Array/Array1D_2.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/f223748cd430bdb6ea414bdbc83c123c20fbefff', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/491d779adb8656bbb98a688ef1eb4e08316065dc/1D_Array/Array1D_2.java', 'name': 'Array1D_2.java', 'path': '1D_Array/Array1D_2.java', 'sha': 'f223748cd430bdb6ea414bdbc83c123c20fbefff', 'size': 987, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_2.java?ref=491d779adb8656bbb98a688ef1eb4e08316065dc'}
+import java.util.Scanner;
+
+public class Array1D_2 {
+   public static void main(String[] args) {
+    Scanner scan = new Scanner(System.in);
+    int n = scan.nextInt();
+    int [] arr = new int [n];
+    int [] index = new int [n];
+    int count = 0;
+    int target = scan.nextInt();
+    for(int i=0 ;i<n ;i++){
+        arr[i] = scan.nextInt();
+        if(arr[i] < target){
+           
+            index[count] = i;
+            count++;
+        }
+    }
+
+    System.out.println("Total Products: "+n);
+    System.out.println("Minimum Threshold: "+target);
+    System.out.println("Low Stock Products: "+count);
+    for(int i=0 ;i<count ;i++){
+        
+        if(i==0 ){
+            System.out.print("Product Indices: [ ");
+        }
+        System.out.print(index[i]);
+        if(i==count-1){
+           System.out.print(" ]");
+        }
+        else{
+             
+              System.out.print(", ");
+        }
+    }
+
+
+    scan.close();
+
+   }  
+}
