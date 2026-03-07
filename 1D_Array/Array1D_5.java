@@ -16,10 +16,13 @@ public class Array1D_5 {
                 min = arr[i];
             }
         }
+        float difference  = max-min;
+        float saving = (difference/max)*100;
         System.out.println("Number of Sellers: "+n);
         System.out.printf("Lowest Price: $%.2f\n",(double)min);
         System.out.printf("Highest Price: $%.2f\n",(double)max);
-        System.out.printf("Price Difference: $%.2f\n",(double)max-min);
+        System.out.printf("Price Difference: $%.2f\n",(double)difference);
+        System.out.printf("Savings: %.2f %%",(double)saving);
         scan.close();
     }
 }
