@@ -1,1 +1,53 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/e614cc13e38c49efb41177cf5f0369a88b854958', 'html': 'https://github.com/kaarthi2005/Java-/blob/f7ad4db9a2be7c93b7ce732f8ac63d43e53787f1/1D_Array/Array1D_11.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_11.java?ref=f7ad4db9a2be7c93b7ce732f8ac63d43e53787f1'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF8xMSB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBEb3VibGUgW10gYXJyID0gbmV3IERvdWJsZVtuXTsNCiAg\nICAgICAgRG91YmxlIFtdIGFycjEgPSBuZXcgRG91YmxlW25dOw0KDQogICAg\nICAgIGZvcihpbnQgaT0wIDtpPG4gO2krKyl7DQogICAgICAgICAgICBhcnIg\nW2ldID0gc2Nhbi5uZXh0RG91YmxlKCk7DQogICAgICAgIH0NCiAgICAgICAg\nZm9yKGludCBpPTAgO2k8biA7aSsrKXsNCiAgICAgICAgICAgIGFycjFbaV0g\nPSBzY2FuLm5leHREb3VibGUoKTsNCiAgICAgICAgfQ0KDQogICAgICAgIERv\ndWJsZSBtaW4gPSAtMS4wOw0KICAgICAgICBEb3VibGUgbWF4ID0gMS4wOw0K\nICAgICAgICBEb3VibGUgW110b3RhbCA9IG5ldyBEb3VibGVbbl07IA0KICAg\nICAgICBEb3VibGUgc3VtID0wLjAgOw0KICAgICAgICBpbnQgYXNzZXMxID0g\nMDsNCiAgICAgICAgaW50IGFzc2VzMiA9IDA7DQoNCiAgICAgICAgZm9yKGlu\ndCBpPTAgO2k8biA7aSsrKXsNCiAgICAgICAgICAgIHRvdGFsW2ldID0gKGFy\ncltpXSphcnIxW2ldKTsNCiAgICAgICAgICAgIGlmKHRvdGFsW2ldIDw9IG1p\nbiB8fCBtaW4gPT0gLTEuMCl7DQogICAgICAgICAgICAgICAgbWluID0gdG90\nYWxbaV07DQogICAgICAgICAgICAgICAgYXNzZXMyID0gaSsxOw0KICAgICAg\nICAgICAgfQ0KICAgICAgICAgICAgaWYodG90YWxbaV0gPj0gbWF4IHx8IG1h\neCA9PSAxLjApew0KICAgICAgICAgICAgICAgIG1heCA9IHRvdGFsW2ldOw0K\nICAgICAgICAgICAgICAgIGFzc2VzMSA9IGkrMTsNCiAgICAgICAgICAgIH0N\nCiAgICAgICAgICAgIHN1bSArPSB0b3RhbFtpXTsNCiAgICAgICAgfQ0KDQoN\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJOdW1iZXIgb2YgQXNzZXRz\nOiAiK24pOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiVG90YWwgUG9y\ndGZvbGlvIFZhbHVlOiAkJS4yZlxuIixzdW0pOw0KICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50ZigiTW9zdCBWYWx1YWJsZSBBc3NldDogQXNzZXQgJWQgKCQl\nLjJmKVxuIixhc3NlczIsbWF4KTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGYoIkxlYXN0IFZhbHVhYmxlIEFzc2V0OiBBc3NldCAlZCAoJCUuMmYpXG4i\nLGFzc2VzMSxtaW4pOw0KIA0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAg\nICAgIA0KICAgICAgICANCiAgICAgICAgDQogICAgICAgIA0KICAgICAgICAN\nCiAgICAgICAgDQogICAgICAgIA0KICAgICAgICANCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/f7ad4db9a2be7c93b7ce732f8ac63d43e53787f1/1D_Array/Array1D_11.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/e614cc13e38c49efb41177cf5f0369a88b854958', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/f7ad4db9a2be7c93b7ce732f8ac63d43e53787f1/1D_Array/Array1D_11.java', 'name': 'Array1D_11.java', 'path': '1D_Array/Array1D_11.java', 'sha': 'e614cc13e38c49efb41177cf5f0369a88b854958', 'size': 1391, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_11.java?ref=f7ad4db9a2be7c93b7ce732f8ac63d43e53787f1'}
+import java.util.Scanner;
+
+public class Array1D_11 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        Double [] arr = new Double[n];
+        Double [] arr1 = new Double[n];
+
+        for(int i=0 ;i<n ;i++){
+            arr [i] = scan.nextDouble();
+        }
+        for(int i=0 ;i<n ;i++){
+            arr1[i] = scan.nextDouble();
+        }
+
+        Double min = -1.0;
+        Double max = 1.0;
+        Double []total = new Double[n]; 
+        Double sum =0.0 ;
+        int asses1 = 0;
+        int asses2 = 0;
+
+        for(int i=0 ;i<n ;i++){
+            total[i] = (arr[i]*arr1[i]);
+            if(total[i] <= min || min == -1.0){
+                min = total[i];
+                asses2 = i+1;
+            }
+            if(total[i] >= max || max == 1.0){
+                max = total[i];
+                asses1 = i+1;
+            }
+            sum += total[i];
+        }
+
+
+        System.out.println("Number of Assets: "+n);
+        System.out.printf("Total Portfolio Value: $%.2f\n",sum);
+        System.out.printf("Most Valuable Asset: Asset %d ($%.2f)\n",asses2,max);
+        System.out.printf("Least Valuable Asset: Asset %d ($%.2f)\n",asses1,min);
+ 
+        scan.close();
+        
+        
+        
+        
+        
+        
+        
+        
+    }
+}

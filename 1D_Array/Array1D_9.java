@@ -1,1 +1,33 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/1f30c7124b098b89a57884b81e6f80df6a1c4971', 'html': 'https://github.com/kaarthi2005/Java-/blob/fa2a69ff70af44c9a83ea2d151eda94084cc022b/1D_Array/Array1D_9.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_9.java?ref=fa2a69ff70af44c9a83ea2d151eda94084cc022b'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF85IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIGludCBuID0gc2Nhbi5uZXh0SW50KCk7\nDQogICAgICAgIERvdWJsZSBbXSBhcnIgPSBuZXcgRG91YmxlW25dOw0KICAg\nICAgICBEb3VibGUgbWF4ID0gMS4wMDsNCiAgICAgICAgRG91YmxlIG1pbiA9\nIC0xLjAwOw0KICAgICAgICBEb3VibGUgc3VtID0gMC4wMDsNCiAgICAgICAg\naW50IHN0b3JlMSA9IDA7DQogICAgICAgIGludCBzdG9yZTIgPSAwOw0KICAg\nICAgICBmb3IoaW50IGk9MCA7aTxuIDtpKyspew0KICAgICAgICAgICAgYXJy\nW2ldID0gc2Nhbi5uZXh0RG91YmxlKCk7DQogICAgICAgICAgICBpZihtYXgg\nPD0gYXJyW2ldIHx8IG1heCA9PSAxLjAwKXsNCiAgICAgICAgICAgICAgICBt\nYXggPSBhcnJbaV07DQogICAgICAgICAgICAgICAgc3RvcmUxID0gaSsxOw0K\nICAgICAgICAgICAgfQ0KICAgICAgICAgICAgaWYobWluID49IGFycltpXSB8\nfCBtaW4gPT0gLTEuMDApew0KICAgICAgICAgICAgICAgIG1pbiA9IGFycltp\nXTsNCiAgICAgICAgICAgICAgICBzdG9yZTIgPSBpKzE7DQogICAgICAgICAg\nICB9DQogICAgICAgICAgICBzdW0gKz0gYXJyW2ldOw0KICAgICAgICB9DQoN\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUb3RhbCBTdG9yZXM6ICIr\nbik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJIaWdoZXN0IFNhbGVz\nOiAkJS4yZiAoU3RvcmUgJWQpXG4iLG1heCxzdG9yZTEpOw0KICAgICAgICBT\neXN0ZW0ub3V0LnByaW50ZigiTG93ZXN0IFNhbGVzOiAkJS4yZiAoU3RvcmUg\nJWQpXG4iLG1pbixzdG9yZTIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nZigiVG90YWwgU2FsZXM6ICQlLjJmXG4iLHN1bSk7DQogICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRmKCJBdmVyYWdlIFNhbGVzOiAkJS4yZiIsc3VtL24pOw0K\nICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/fa2a69ff70af44c9a83ea2d151eda94084cc022b/1D_Array/Array1D_9.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/1f30c7124b098b89a57884b81e6f80df6a1c4971', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/fa2a69ff70af44c9a83ea2d151eda94084cc022b/1D_Array/Array1D_9.java', 'name': 'Array1D_9.java', 'path': '1D_Array/Array1D_9.java', 'sha': '1f30c7124b098b89a57884b81e6f80df6a1c4971', 'size': 1068, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_9.java?ref=fa2a69ff70af44c9a83ea2d151eda94084cc022b'}
+import java.util.Scanner;
+
+public class Array1D_9 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        Double [] arr = new Double[n];
+        Double max = 1.00;
+        Double min = -1.00;
+        Double sum = 0.00;
+        int store1 = 0;
+        int store2 = 0;
+        for(int i=0 ;i<n ;i++){
+            arr[i] = scan.nextDouble();
+            if(max <= arr[i] || max == 1.00){
+                max = arr[i];
+                store1 = i+1;
+            }
+            if(min >= arr[i] || min == -1.00){
+                min = arr[i];
+                store2 = i+1;
+            }
+            sum += arr[i];
+        }
+
+        System.out.println("Total Stores: "+n);
+        System.out.printf("Highest Sales: $%.2f (Store %d)\n",max,store1);
+        System.out.printf("Lowest Sales: $%.2f (Store %d)\n",min,store2);
+        System.out.printf("Total Sales: $%.2f\n",sum);
+        System.out.printf("Average Sales: $%.2f",sum/n);
+        scan.close();
+    }
+}
