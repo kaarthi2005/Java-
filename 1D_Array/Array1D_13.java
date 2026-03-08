@@ -1,1 +1,48 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/01b28083d096ced330d62af27caf127b201c35d8', 'html': 'https://github.com/kaarthi2005/Java-/blob/7383b44c3da71064ca168c0bcc57f53947e24154/1D_Array/Array1D_13.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_13.java?ref=7383b44c3da71064ca168c0bcc57f53947e24154'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF8xMyB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KDQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQoNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJ\nbnQoKTsNCiAgICAgICAgaW50W10gZGVsYXkgPSBuZXcgaW50W25dOw0KDQog\nICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgaSsrKSB7DQogICAgICAg\nICAgICBkZWxheVtpXSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICB9DQoN\nCiAgICAgICAgaW50IHN1bSA9IDA7DQogICAgICAgIGludCBtYXggPSBkZWxh\neVswXTsNCiAgICAgICAgaW50IG9uVGltZSA9IDA7DQogICAgICAgIGludCBj\nb21wZW5zYXRpb24gPSAwOw0KDQogICAgICAgIGZvciAoaW50IGkgPSAwOyBp\nIDwgbjsgaSsrKSB7DQogICAgICAgICAgICBzdW0gKz0gZGVsYXlbaV07DQoN\nCiAgICAgICAgICAgIGlmIChkZWxheVtpXSA+IG1heCkgew0KICAgICAgICAg\nICAgICAgIG1heCA9IGRlbGF5W2ldOw0KICAgICAgICAgICAgfQ0KDQogICAg\nICAgICAgICBpZiAoZGVsYXlbaV0gPD0gMTUpIHsNCiAgICAgICAgICAgICAg\nICBvblRpbWUrKzsNCiAgICAgICAgICAgIH0NCg0KICAgICAgICAgICAgaWYg\nKGRlbGF5W2ldID4gMTgwKSB7DQogICAgICAgICAgICAgICAgY29tcGVuc2F0\naW9uKys7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCg0KICAgICAgICBk\nb3VibGUgYXZlcmFnZSA9IChkb3VibGUpIHN1bSAvIG47DQogICAgICAgIGRv\ndWJsZSBwZXJmb3JtYW5jZSA9ICgoZG91YmxlKSBvblRpbWUgLyBuKSAqIDEw\nMDsNCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRvdGFsIEZsaWdo\ndHM6ICIgKyBuKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIkF2ZXJh\nZ2UgRGVsYXk6ICUuMmYgbWludXRlc1xuIiwgYXZlcmFnZSk7DQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiTWF4aW11bSBEZWxheTogIiArIG1heCAr\nICIgbWludXRlcyIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk9u\nLVRpbWUgRmxpZ2h0czogIiArIG9uVGltZSk7DQogICAgICAgIFN5c3RlbS5v\ndXQucHJpbnRsbigiQ29tcGVuc2F0aW9uIFJlcXVpcmVkOiAiICsgY29tcGVu\nc2F0aW9uKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIk9uLVRpbWUg\nUGVyZm9ybWFuY2U6ICUuMmYlJVxuIiwgcGVyZm9ybWFuY2UpOw0KDQogICAg\nICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/7383b44c3da71064ca168c0bcc57f53947e24154/1D_Array/Array1D_13.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/01b28083d096ced330d62af27caf127b201c35d8', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/7383b44c3da71064ca168c0bcc57f53947e24154/1D_Array/Array1D_13.java', 'name': 'Array1D_13.java', 'path': '1D_Array/Array1D_13.java', 'sha': '01b28083d096ced330d62af27caf127b201c35d8', 'size': 1289, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_13.java?ref=7383b44c3da71064ca168c0bcc57f53947e24154'}
+import java.util.Scanner;
+
+public class Array1D_13 {
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+
+        int n = scan.nextInt();
+        int[] delay = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            delay[i] = scan.nextInt();
+        }
+
+        int sum = 0;
+        int max = delay[0];
+        int onTime = 0;
+        int compensation = 0;
+
+        for (int i = 0; i < n; i++) {
+            sum += delay[i];
+
+            if (delay[i] > max) {
+                max = delay[i];
+            }
+
+            if (delay[i] <= 15) {
+                onTime++;
+            }
+
+            if (delay[i] > 180) {
+                compensation++;
+            }
+        }
+
+        double average = (double) sum / n;
+        double performance = ((double) onTime / n) * 100;
+
+        System.out.println("Total Flights: " + n);
+        System.out.printf("Average Delay: %.2f minutes\n", average);
+        System.out.println("Maximum Delay: " + max + " minutes");
+        System.out.println("On-Time Flights: " + onTime);
+        System.out.println("Compensation Required: " + compensation);
+        System.out.printf("On-Time Performance: %.2f%%\n", performance);
+
+        scan.close();
+    }
+}

@@ -1,1 +1,53 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/82b10cdb090eccdb7f3dfacd4dc10f82d3c4264d', 'html': 'https://github.com/kaarthi2005/Java-/blob/3b92a766c370d9a731ee601c56f4a84cf2cbb6b7/1D_Array/Array1D_25.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_25.java?ref=3b92a766c370d9a731ee601c56f4a84cf2cbb6b7'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF8yNSB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBpbnQgcmlza1Njb3Jlc1tdID0gbmV3IGludFtuXTsNCiAg\nICAgICAgaW50IHRvdGFsID0gMDsNCiAgICAgICAgaW50IG1heCA9IDA7DQog\nICAgICAgIGludCBtaW4gPSAxMDA7DQogICAgICAgIGludCBtYXhJbmRleCA9\nIDE7DQogICAgICAgIGludCBtaW5JbmRleCA9IDE7DQogICAgICAgIGZvciAo\naW50IGkgPSAwOyBpIDwgbjsgaSsrKSB7DQogICAgICAgICAgICByaXNrU2Nv\ncmVzW2ldID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgICAgICB0b3RhbCAr\nPSByaXNrU2NvcmVzW2ldOw0KICAgICAgICAgICAgaWYgKHJpc2tTY29yZXNb\naV0gPiBtYXgpIHsNCiAgICAgICAgICAgICAgICBtYXggPSByaXNrU2NvcmVz\nW2ldOw0KICAgICAgICAgICAgICAgIG1heEluZGV4ID0gaSArIDE7IA0KICAg\nICAgICAgICAgfQ0KICAgICAgICAgICAgaWYgKHJpc2tTY29yZXNbaV0gPCBt\naW4pIHsNCiAgICAgICAgICAgICAgICBtaW4gPSByaXNrU2NvcmVzW2ldOw0K\nICAgICAgICAgICAgICAgIG1pbkluZGV4ID0gaSArIDE7DQogICAgICAgICAg\nICB9DQogICAgICAgIH0NCiAgICAgICAgZG91YmxlIGF2ZXJhZ2UgPSAoZG91\nYmxlKSB0b3RhbCAvIG47DQogICAgICAgIGRvdWJsZSB0aHJlc2hvbGQgPSBh\ndmVyYWdlICogMi4wOw0KICAgICAgICBpbnQgYWxlcnRFdmVudHNbXSA9IG5l\ndyBpbnRbbl07DQogICAgICAgIGludCBjcml0aWNhbENvdW50ID0gMDsNCiAg\nICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsNCiAgICAgICAg\nICAgIGlmIChyaXNrU2NvcmVzW2ldID4gdGhyZXNob2xkKSB7DQogICAgICAg\nICAgICAgICAgYWxlcnRFdmVudHNbY3JpdGljYWxDb3VudF0gPSBpICsgMTsg\nDQogICAgICAgICAgICAgICAgY3JpdGljYWxDb3VudCsrOw0KICAgICAgICAg\nICAgfQ0KICAgICAgICB9DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nU2VjdXJpdHkgRXZlbnRzIEFuYWx5emVkOiAiICsgbik7DQogICAgICAgIFN5\nc3RlbS5vdXQucHJpbnRmKCJBdmVyYWdlIFJpc2sgU2NvcmU6ICUuMmZcbiIs\nIGF2ZXJhZ2UpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhpZ2hl\nc3QgUmlzayBFdmVudDogIiArIG1heCArICIgKEV2ZW50ICIgKyBtYXhJbmRl\neCArICIpIik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTG93ZXN0\nIFJpc2sgRXZlbnQ6ICIgKyBtaW4gKyAiIChFdmVudCAiICsgbWluSW5kZXgg\nKyAiKSIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNyaXRpY2Fs\nIFRocmVhdHMgKD4yMDAlIGF2Zyk6ICIgKyBjcml0aWNhbENvdW50KTsNCiAg\nICAgICAgU3lzdGVtLm91dC5wcmludGYoIlRocmVhdCBUaHJlc2hvbGQ6ICUu\nMmZcbiIsIHRocmVzaG9sZCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnQo\nIkFsZXJ0IEV2ZW50czogWyIpOw0KICAgICAgICBmb3IgKGludCBpID0gMDsg\naSA8IGNyaXRpY2FsQ291bnQ7IGkrKykgew0KICAgICAgICAgICAgU3lzdGVt\nLm91dC5wcmludChhbGVydEV2ZW50c1tpXSk7DQogICAgICAgICAgICBpZiAo\naSAhPSBjcml0aWNhbENvdW50IC0gMSkgew0KICAgICAgICAgICAgICAgIFN5\nc3RlbS5vdXQucHJpbnQoIiwgIik7DQogICAgICAgICAgICB9DQogICAgICAg\nIH0NCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJdIik7DQoNCg0KICAg\nICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/3b92a766c370d9a731ee601c56f4a84cf2cbb6b7/1D_Array/Array1D_25.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/82b10cdb090eccdb7f3dfacd4dc10f82d3c4264d', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/3b92a766c370d9a731ee601c56f4a84cf2cbb6b7/1D_Array/Array1D_25.java', 'name': 'Array1D_25.java', 'path': '1D_Array/Array1D_25.java', 'sha': '82b10cdb090eccdb7f3dfacd4dc10f82d3c4264d', 'size': 1873, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_25.java?ref=3b92a766c370d9a731ee601c56f4a84cf2cbb6b7'}
+import java.util.Scanner;
+
+public class Array1D_25 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int riskScores[] = new int[n];
+        int total = 0;
+        int max = 0;
+        int min = 100;
+        int maxIndex = 1;
+        int minIndex = 1;
+        for (int i = 0; i < n; i++) {
+            riskScores[i] = scan.nextInt();
+            total += riskScores[i];
+            if (riskScores[i] > max) {
+                max = riskScores[i];
+                maxIndex = i + 1; 
+            }
+            if (riskScores[i] < min) {
+                min = riskScores[i];
+                minIndex = i + 1;
+            }
+        }
+        double average = (double) total / n;
+        double threshold = average * 2.0;
+        int alertEvents[] = new int[n];
+        int criticalCount = 0;
+        for (int i = 0; i < n; i++) {
+            if (riskScores[i] > threshold) {
+                alertEvents[criticalCount] = i + 1; 
+                criticalCount++;
+            }
+        }
+        System.out.println("Security Events Analyzed: " + n);
+        System.out.printf("Average Risk Score: %.2f\n", average);
+        System.out.println("Highest Risk Event: " + max + " (Event " + maxIndex + ")");
+        System.out.println("Lowest Risk Event: " + min + " (Event " + minIndex + ")");
+        System.out.println("Critical Threats (>200% avg): " + criticalCount);
+        System.out.printf("Threat Threshold: %.2f\n", threshold);
+        System.out.print("Alert Events: [");
+        for (int i = 0; i < criticalCount; i++) {
+            System.out.print(alertEvents[i]);
+            if (i != criticalCount - 1) {
+                System.out.print(", ");
+            }
+        }
+        System.out.println("]");
+
+
+        scan.close();
+    }
+}

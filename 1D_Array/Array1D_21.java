@@ -1,1 +1,49 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/8d5361839215570b36b1bf889b0aff0f4f2e9016', 'html': 'https://github.com/kaarthi2005/Java-/blob/9bdfec937a38ff4cfbc7abb410a44c0e7bd36700/1D_Array/Array1D_21.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_21.java?ref=9bdfec937a38ff4cfbc7abb410a44c0e7bd36700'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF8yMSB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBkb3VibGUgYXJyW10gPSBuZXcgZG91YmxlW25dOw0KICAg\nICAgICBkb3VibGUgc3VtID0gMDsNCiAgICAgICAgZG91YmxlIG1heCA9IDAs\nIG1pbiA9IDEwMDsNCiAgICAgICAgaW50IG1heEluZGV4ID0gMSwgbWluSW5k\nZXggPSAxOw0KDQogICAgICAgIGZvcihpbnQgaSA9IDA7IGkgPCBuOyBpKysp\new0KICAgICAgICAgICAgYXJyW2ldID0gc2Nhbi5uZXh0RG91YmxlKCk7DQog\nICAgICAgICAgICBzdW0gKz0gYXJyW2ldOw0KICAgICAgICAgICAgaWYoYXJy\nW2ldID4gbWF4KXsNCiAgICAgICAgICAgICAgICBtYXggPSBhcnJbaV07DQog\nICAgICAgICAgICAgICAgbWF4SW5kZXggPSBpICsgMTsNCiAgICAgICAgICAg\nIH0NCiAgICAgICAgICAgIGlmKGFycltpXSA8IG1pbil7DQogICAgICAgICAg\nICAgICAgbWluID0gYXJyW2ldOw0KICAgICAgICAgICAgICAgIG1pbkluZGV4\nID0gaSArIDE7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCiAgICAgICAg\nZG91YmxlIGF2ZyA9IHN1bSAvIG47DQogICAgICAgIGRvdWJsZSB0aHJlc2hv\nbGQgPSBhdmcgKiAwLjg7DQogICAgICAgIA0KICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oIkZsZWV0IFNpemU6ICIgKyBuKTsNCiAgICAgICAgU3lzdGVt\nLm91dC5wcmludGYoIkF2ZXJhZ2UgRnVlbCBFZmZpY2llbmN5OiAlLjJmIE1Q\nR1xuIiwgYXZnKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIk1vc3Qg\nRWZmaWNpZW50OiAlLjJmIE1QRyAoVmVoaWNsZSAlZClcbiIsIG1heCwgbWF4\nSW5kZXgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiTGVhc3QgRWZm\naWNpZW50OiAlLjJmIE1QRyAoVmVoaWNsZSAlZClcbiIsIG1pbiwgbWluSW5k\nZXgpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJNYWludGVuYW5jZSBQ\ncmlvcml0eTogWyIpOw0KICAgICAgICBpbnQgdW5kZXIgPSAwOw0KICAgICAg\nICBib29sZWFuIGZpcnN0ID0gdHJ1ZTsNCiAgICAgICAgZm9yKGludCBpID0g\nMDsgaSA8IG47IGkrKyl7DQogICAgICAgICAgICBpZihhcnJbaV0gPCB0aHJl\nc2hvbGQpew0KICAgICAgICAgICAgICAgIHVuZGVyKys7DQogICAgICAgICAg\nICAgICAgaWYoIWZpcnN0KXsNCiAgICAgICAgICAgICAgICAgICAgU3lzdGVt\nLm91dC5wcmludCgiLCAiKTsNCiAgICAgICAgICAgICAgICB9DQogICAgICAg\nICAgICAgICAgU3lzdGVtLm91dC5wcmludChpICsgMSk7DQogICAgICAgICAg\nICAgICAgZmlyc3QgPSBmYWxzZTsNCiAgICAgICAgICAgIH0NCiAgICAgICAg\nfQ0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIl0iKTsNCiAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKCJVbmRlcnBlcmZvcm1pbmcgVmVoaWNsZXM6\nICIgKyB1bmRlcik7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJFZmZp\nY2llbmN5IFRocmVzaG9sZDogJS4yZiBNUEdcbiIsIHRocmVzaG9sZCk7DQog\nICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9DQp9\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/9bdfec937a38ff4cfbc7abb410a44c0e7bd36700/1D_Array/Array1D_21.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/8d5361839215570b36b1bf889b0aff0f4f2e9016', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/9bdfec937a38ff4cfbc7abb410a44c0e7bd36700/1D_Array/Array1D_21.java', 'name': 'Array1D_21.java', 'path': '1D_Array/Array1D_21.java', 'sha': '8d5361839215570b36b1bf889b0aff0f4f2e9016', 'size': 1650, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_21.java?ref=9bdfec937a38ff4cfbc7abb410a44c0e7bd36700'}
+import java.util.Scanner;
+
+public class Array1D_21 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        double arr[] = new double[n];
+        double sum = 0;
+        double max = 0, min = 100;
+        int maxIndex = 1, minIndex = 1;
+
+        for(int i = 0; i < n; i++){
+            arr[i] = scan.nextDouble();
+            sum += arr[i];
+            if(arr[i] > max){
+                max = arr[i];
+                maxIndex = i + 1;
+            }
+            if(arr[i] < min){
+                min = arr[i];
+                minIndex = i + 1;
+            }
+        }
+        double avg = sum / n;
+        double threshold = avg * 0.8;
+        
+        System.out.println("Fleet Size: " + n);
+        System.out.printf("Average Fuel Efficiency: %.2f MPG\n", avg);
+        System.out.printf("Most Efficient: %.2f MPG (Vehicle %d)\n", max, maxIndex);
+        System.out.printf("Least Efficient: %.2f MPG (Vehicle %d)\n", min, minIndex);
+        System.out.print("Maintenance Priority: [");
+        int under = 0;
+        boolean first = true;
+        for(int i = 0; i < n; i++){
+            if(arr[i] < threshold){
+                under++;
+                if(!first){
+                    System.out.print(", ");
+                }
+                System.out.print(i + 1);
+                first = false;
+            }
+        }
+        System.out.println("]");
+        System.out.println("Underperforming Vehicles: " + under);
+        System.out.printf("Efficiency Threshold: %.2f MPG\n", threshold);
+        scan.close();
+    }
+}

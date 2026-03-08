@@ -1,1 +1,38 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/2e7bf60548a0a5b0e53494132a2161b9ec31f0c6', 'html': 'https://github.com/kaarthi2005/Java-/blob/7e7c1b21eadee30b6d343c435171e72a0313ab0a/1D_Array/Array1D_19.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_19.java?ref=7e7c1b21eadee30b6d343c435171e72a0313ab0a'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF8xOSB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBpbnQgYXJyW10gPSBuZXcgaW50W25dOw0KICAgICAgICBp\nbnQgdG90YWwgPSAwOw0KICAgICAgICBpbnQgbWF4ID0gMDsNCiAgICAgICAg\naW50IHBlYWtEYXkgPSAxOw0KICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwg\nbjsgaSsrKXsNCiAgICAgICAgICAgIGFycltpXSA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICAgICAgdG90YWwgKz0gYXJyW2ldOw0KDQogICAgICAgICAg\nICBpZihhcnJbaV0gPiBtYXgpew0KICAgICAgICAgICAgICAgIG1heCA9IGFy\ncltpXTsNCiAgICAgICAgICAgICAgICBwZWFrRGF5ID0gaSArIDE7DQogICAg\nICAgICAgICB9DQogICAgICAgIH0NCiAgICAgICAgaW50IHRhcmdldCA9IHNj\nYW4ubmV4dEludCgpOw0KICAgICAgICBpbnQgYmVsb3dUYXJnZXQgPSAwOw0K\nICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgbjsgaSsrKXsNCiAgICAgICAg\nICAgIGlmKGFycltpXSA8IHRhcmdldCl7DQogICAgICAgICAgICAgICAgYmVs\nb3dUYXJnZXQrKzsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KICAgICAg\nICBkb3VibGUgYXZnID0gKGRvdWJsZSkgdG90YWwgLyBuOw0KICAgICAgICBk\nb3VibGUgYWNoaWV2ZW1lbnQgPSAoKGRvdWJsZSkobiAtIGJlbG93VGFyZ2V0\nKSAvIG4pICogMTAwOw0KDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nRGF5cyBUcmFja2VkOiAiICsgbik7DQogICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbigiVG90YWwgQ2Fsb3JpZXMgQnVybmVkOiAiICsgdG90YWwpOw0KICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50ZigiQXZlcmFnZSBEYWlseSBCdXJuOiAl\nLjJmXG4iLCBhdmcpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlBl\nYWsgQnVybiBEYXk6IERheSAiICsgcGVha0RheSArICIgKCIgKyBtYXggKyAi\nIGNhbG9yaWVzKSIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRh\neXMgQmVsb3cgVGFyZ2V0OiAiICsgYmVsb3dUYXJnZXQpOw0KICAgICAgICBT\neXN0ZW0ub3V0LnByaW50ZigiR29hbCBBY2hpZXZlbWVudDogJS4yZiUlXG4i\nLCBhY2hpZXZlbWVudCk7DQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICB9\nDQp9\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/7e7c1b21eadee30b6d343c435171e72a0313ab0a/1D_Array/Array1D_19.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/2e7bf60548a0a5b0e53494132a2161b9ec31f0c6', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/7e7c1b21eadee30b6d343c435171e72a0313ab0a/1D_Array/Array1D_19.java', 'name': 'Array1D_19.java', 'path': '1D_Array/Array1D_19.java', 'sha': '2e7bf60548a0a5b0e53494132a2161b9ec31f0c6', 'size': 1263, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_19.java?ref=7e7c1b21eadee30b6d343c435171e72a0313ab0a'}
+import java.util.Scanner;
+
+public class Array1D_19 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int arr[] = new int[n];
+        int total = 0;
+        int max = 0;
+        int peakDay = 1;
+        for(int i = 0; i < n; i++){
+            arr[i] = scan.nextInt();
+            total += arr[i];
+
+            if(arr[i] > max){
+                max = arr[i];
+                peakDay = i + 1;
+            }
+        }
+        int target = scan.nextInt();
+        int belowTarget = 0;
+        for(int i = 0; i < n; i++){
+            if(arr[i] < target){
+                belowTarget++;
+            }
+        }
+        double avg = (double) total / n;
+        double achievement = ((double)(n - belowTarget) / n) * 100;
+
+        System.out.println("Days Tracked: " + n);
+        System.out.println("Total Calories Burned: " + total);
+        System.out.printf("Average Daily Burn: %.2f\n", avg);
+        System.out.println("Peak Burn Day: Day " + peakDay + " (" + max + " calories)");
+        System.out.println("Days Below Target: " + belowTarget);
+        System.out.printf("Goal Achievement: %.2f%%\n", achievement);
+        scan.close();
+    }
+}

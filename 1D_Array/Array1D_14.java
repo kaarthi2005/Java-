@@ -1,1 +1,39 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/5dc181739286989e56eded07de82b00a4c7a3df0', 'html': 'https://github.com/kaarthi2005/Java-/blob/b0620791ad2c6d202338e2ab4c52526500d3abc7/1D_Array/Array1D_14.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_14.java?ref=b0620791ad2c6d202338e2ab4c52526500d3abc7'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF8xNCB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBkb3VibGVbXSB5aWVsZCA9IG5ldyBkb3VibGVbbl07DQog\nICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgaSsrKSB7DQogICAgICAg\nICAgICB5aWVsZFtpXSA9IHNjYW4ubmV4dERvdWJsZSgpOw0KICAgICAgICB9\nDQogICAgICAgIGRvdWJsZSB0b3RhbCA9IDA7DQogICAgICAgIGRvdWJsZSBt\nYXggPSB5aWVsZFswXTsNCiAgICAgICAgaW50IG1heEluZGV4ID0gMDsNCiAg\nICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsNCiAgICAgICAg\nICAgIHRvdGFsICs9IHlpZWxkW2ldOw0KDQogICAgICAgICAgICBpZiAoeWll\nbGRbaV0gPiBtYXgpIHsNCiAgICAgICAgICAgICAgICBtYXggPSB5aWVsZFtp\nXTsNCiAgICAgICAgICAgICAgICBtYXhJbmRleCA9IGk7DQogICAgICAgICAg\nICB9DQogICAgICAgIH0NCiAgICAgICAgZG91YmxlIGF2ZXJhZ2UgPSB0b3Rh\nbCAvIG47DQogICAgICAgIGRvdWJsZSB0aHJlc2hvbGQgPSBhdmVyYWdlICog\nMC44Ow0KICAgICAgICBpbnQgdW5kZXJwZXJmb3JtID0gMDsNCiAgICAgICAg\nZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsNCiAgICAgICAgICAgIGlm\nICh5aWVsZFtpXSA8IHRocmVzaG9sZCkgew0KICAgICAgICAgICAgICAgIHVu\nZGVycGVyZm9ybSsrOw0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQogICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwgUGxvdHM6ICIgKyBuKTsN\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIlRvdGFsIEhhcnZlc3Q6ICUu\nMmYgdG9uc1xuIiwgdG90YWwpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nZigiQXZlcmFnZSBZaWVsZDogJS4yZiB0b25zL2FjcmVcbiIsIGF2ZXJhZ2Up\nOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiSGlnaGVzdCBZaWVsZDog\nJS4yZiB0b25zL2FjcmUgKFBsb3QgJWQpXG4iLCBtYXgsIG1heEluZGV4ICsg\nMSk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVW5kZXJwZXJmb3Jt\naW5nIFBsb3RzOiAiICsgdW5kZXJwZXJmb3JtKTsNCiAgICAgICAgU3lzdGVt\nLm91dC5wcmludGYoIlBlcmZvcm1hbmNlIFRocmVzaG9sZDogJS4yZiB0b25z\nL2FjcmVcbiIsIHRocmVzaG9sZCk7DQoNCiAgICAgICAgc2Nhbi5jbG9zZSgp\nOw0KICAgIH0NCn0=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/b0620791ad2c6d202338e2ab4c52526500d3abc7/1D_Array/Array1D_14.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/5dc181739286989e56eded07de82b00a4c7a3df0', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/b0620791ad2c6d202338e2ab4c52526500d3abc7/1D_Array/Array1D_14.java', 'name': 'Array1D_14.java', 'path': '1D_Array/Array1D_14.java', 'sha': '5dc181739286989e56eded07de82b00a4c7a3df0', 'size': 1316, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_14.java?ref=b0620791ad2c6d202338e2ab4c52526500d3abc7'}
+import java.util.Scanner;
+
+public class Array1D_14 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        double[] yield = new double[n];
+        for (int i = 0; i < n; i++) {
+            yield[i] = scan.nextDouble();
+        }
+        double total = 0;
+        double max = yield[0];
+        int maxIndex = 0;
+        for (int i = 0; i < n; i++) {
+            total += yield[i];
+
+            if (yield[i] > max) {
+                max = yield[i];
+                maxIndex = i;
+            }
+        }
+        double average = total / n;
+        double threshold = average * 0.8;
+        int underperform = 0;
+        for (int i = 0; i < n; i++) {
+            if (yield[i] < threshold) {
+                underperform++;
+            }
+        }
+        System.out.println("Total Plots: " + n);
+        System.out.printf("Total Harvest: %.2f tons\n", total);
+        System.out.printf("Average Yield: %.2f tons/acre\n", average);
+        System.out.printf("Highest Yield: %.2f tons/acre (Plot %d)\n", max, maxIndex + 1);
+        System.out.println("Underperforming Plots: " + underperform);
+        System.out.printf("Performance Threshold: %.2f tons/acre\n", threshold);
+
+        scan.close();
+    }
+}

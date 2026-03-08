@@ -1,1 +1,44 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/c6dd80463cb2f99ca4de1c53e58344e0953c148e', 'html': 'https://github.com/kaarthi2005/Java-/blob/aa58d15cf8b83ec5c1468430813e18672ed69a1a/1D_Array/Array1D_15.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_15.java?ref=aa58d15cf8b83ec5c1468430813e18672ed69a1a'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF8xNSB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KDQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQoNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJ\nbnQoKTsNCiAgICAgICAgaW50W10gY2FsbHMgPSBuZXcgaW50W25dOw0KDQog\nICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgaSsrKSB7DQogICAgICAg\nICAgICBjYWxsc1tpXSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICB9DQoN\nCiAgICAgICAgaW50IHN1bSA9IDA7DQogICAgICAgIGludCBtaW4gPSBjYWxs\nc1swXTsNCiAgICAgICAgaW50IG1heCA9IGNhbGxzWzBdOw0KICAgICAgICBp\nbnQgZXhjZWVkID0gMDsNCg0KICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8\nIG47IGkrKykgew0KICAgICAgICAgICAgc3VtICs9IGNhbGxzW2ldOw0KDQog\nICAgICAgICAgICBpZiAoY2FsbHNbaV0gPCBtaW4pIHsNCiAgICAgICAgICAg\nICAgICBtaW4gPSBjYWxsc1tpXTsNCiAgICAgICAgICAgIH0NCiAgICAgICAg\nICAgIGlmIChjYWxsc1tpXSA+IG1heCkgew0KICAgICAgICAgICAgICAgIG1h\neCA9IGNhbGxzW2ldOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgaWYg\nKGNhbGxzW2ldID4gMzAwKSB7DQogICAgICAgICAgICAgICAgZXhjZWVkKys7\nDQogICAgICAgICAgICB9DQogICAgICAgIH0NCiAgICAgICAgZG91YmxlIGF2\nZXJhZ2UgPSAoZG91YmxlKSBzdW0gLyBuOw0KICAgICAgICBkb3VibGUgY29t\ncGxpYW5jZSA9ICgoZG91YmxlKSAobiAtIGV4Y2VlZCkgLyBuKSAqIDEwMDsN\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUb3RhbCBDYWxsczogIiAr\nIG4pOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiQXZlcmFnZSBIYW5k\nbGluZyBUaW1lOiAlLjJmIHNlY29uZHNcbiIsIGF2ZXJhZ2UpOw0KICAgICAg\nICBTeXN0ZW0ub3V0LnByaW50bG4oIlNob3J0ZXN0IENhbGw6ICIgKyBtaW4g\nKyAiIHNlY29uZHMiKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJM\nb25nZXN0IENhbGw6ICIgKyBtYXggKyAiIHNlY29uZHMiKTsNCiAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKCJDYWxscyBFeGNlZWRpbmcgVGFyZ2V0ICgz\nMDBzKTogIiArIGV4Y2VlZCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRm\nKCJUYXJnZXQgQ29tcGxpYW5jZTogJS4yZiUlXG4iLCBjb21wbGlhbmNlKTsN\nCg0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/aa58d15cf8b83ec5c1468430813e18672ed69a1a/1D_Array/Array1D_15.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/c6dd80463cb2f99ca4de1c53e58344e0953c148e', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/aa58d15cf8b83ec5c1468430813e18672ed69a1a/1D_Array/Array1D_15.java', 'name': 'Array1D_15.java', 'path': '1D_Array/Array1D_15.java', 'sha': 'c6dd80463cb2f99ca4de1c53e58344e0953c148e', 'size': 1294, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_15.java?ref=aa58d15cf8b83ec5c1468430813e18672ed69a1a'}
+import java.util.Scanner;
+
+public class Array1D_15 {
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+
+        int n = scan.nextInt();
+        int[] calls = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            calls[i] = scan.nextInt();
+        }
+
+        int sum = 0;
+        int min = calls[0];
+        int max = calls[0];
+        int exceed = 0;
+
+        for (int i = 0; i < n; i++) {
+            sum += calls[i];
+
+            if (calls[i] < min) {
+                min = calls[i];
+            }
+            if (calls[i] > max) {
+                max = calls[i];
+            }
+            if (calls[i] > 300) {
+                exceed++;
+            }
+        }
+        double average = (double) sum / n;
+        double compliance = ((double) (n - exceed) / n) * 100;
+        System.out.println("Total Calls: " + n);
+        System.out.printf("Average Handling Time: %.2f seconds\n", average);
+        System.out.println("Shortest Call: " + min + " seconds");
+        System.out.println("Longest Call: " + max + " seconds");
+        System.out.println("Calls Exceeding Target (300s): " + exceed);
+        System.out.printf("Target Compliance: %.2f%%\n", compliance);
+
+        scan.close();
+    }
+}

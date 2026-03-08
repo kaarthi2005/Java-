@@ -1,1 +1,45 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/252bb18dbd4f270580418d6cfd1a6bb92e9dec9c', 'html': 'https://github.com/kaarthi2005/Java-/blob/41f29f98a10508e99fc7fda6c444e757e749115f/1D_Array/Array1D_18.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_18.java?ref=41f29f98a10508e99fc7fda6c444e757e749115f'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF8xOCB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBpbnQgYXJyW10gPSBuZXcgaW50W25dOw0KICAgICAgICBp\nbnQgdG90YWwgPSAwOw0KICAgICAgICBpbnQgbWF4ID0gMDsNCiAgICAgICAg\naW50IGJlc3RQcm9kdWN0ID0gMTsNCiAgICAgICAgZm9yKGludCBpID0gMDsg\naSA8IG47IGkrKyl7DQogICAgICAgICAgICBhcnJbaV0gPSBzY2FuLm5leHRJ\nbnQoKTsNCiAgICAgICAgICAgIHRvdGFsICs9IGFycltpXTsNCg0KICAgICAg\nICAgICAgaWYoYXJyW2ldID4gbWF4KXsNCiAgICAgICAgICAgICAgICBtYXgg\nPSBhcnJbaV07DQogICAgICAgICAgICAgICAgYmVzdFByb2R1Y3QgPSBpICsg\nMTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KICAgICAgICBkb3VibGUg\nYXZnID0gKGRvdWJsZSkgdG90YWwgLyBuOw0KICAgICAgICBkb3VibGUgdGhy\nZXNob2xkID0gYXZnICogMC41Ow0KICAgICAgICBpbnQgc2xvdyA9IDA7DQog\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwgUHJvZHVjdHM6ICIg\nKyBuKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUb3RhbCBVbml0\ncyBTb2xkOiAiICsgdG90YWwpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nZigiQXZlcmFnZSBNb250aGx5IFNhbGVzOiAlLjJmXG4iLCBhdmcpOw0KICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkJlc3QgU2VsbGVyOiBQcm9kdWN0\nICIgKyBiZXN0UHJvZHVjdCArICIgKCIgKyBtYXggKyAiIHVuaXRzKSIpOw0K\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJDbGVhcmFuY2UgQ2FuZGlkYXRl\nczogWyIpOw0KICAgICAgICBib29sZWFuIGZpcnN0ID0gdHJ1ZTsNCiAgICAg\nICAgZm9yKGludCBpID0gMDsgaSA8IG47IGkrKyl7DQogICAgICAgICAgICBp\nZihhcnJbaV0gPCB0aHJlc2hvbGQpew0KICAgICAgICAgICAgICAgIHNsb3cr\nKzsNCiAgICAgICAgICAgICAgICBpZighZmlyc3Qpew0KICAgICAgICAgICAg\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCIsICIpOw0KICAgICAgICAgICAg\nICAgIH0NCiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGkgKyAx\nKTsNCiAgICAgICAgICAgICAgICBmaXJzdCA9IGZhbHNlOw0KICAgICAgICAg\nICAgfQ0KICAgICAgICB9DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nXSIpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNsb3ctTW92aW5n\nIFByb2R1Y3RzOiAiICsgc2xvdyk7DQogICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRmKCJUdXJub3ZlciBUaHJlc2hvbGQ6ICUuMmYgdW5pdHNcbiIsIHRocmVz\naG9sZCk7DQoNCiAgICAgICAgc2Nhbi5jbG9zZSgpOw0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/41f29f98a10508e99fc7fda6c444e757e749115f/1D_Array/Array1D_18.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/252bb18dbd4f270580418d6cfd1a6bb92e9dec9c', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/41f29f98a10508e99fc7fda6c444e757e749115f/1D_Array/Array1D_18.java', 'name': 'Array1D_18.java', 'path': '1D_Array/Array1D_18.java', 'sha': '252bb18dbd4f270580418d6cfd1a6bb92e9dec9c', 'size': 1483, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_18.java?ref=41f29f98a10508e99fc7fda6c444e757e749115f'}
+import java.util.Scanner;
+
+public class Array1D_18 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int arr[] = new int[n];
+        int total = 0;
+        int max = 0;
+        int bestProduct = 1;
+        for(int i = 0; i < n; i++){
+            arr[i] = scan.nextInt();
+            total += arr[i];
+
+            if(arr[i] > max){
+                max = arr[i];
+                bestProduct = i + 1;
+            }
+        }
+        double avg = (double) total / n;
+        double threshold = avg * 0.5;
+        int slow = 0;
+        System.out.println("Total Products: " + n);
+        System.out.println("Total Units Sold: " + total);
+        System.out.printf("Average Monthly Sales: %.2f\n", avg);
+        System.out.println("Best Seller: Product " + bestProduct + " (" + max + " units)");
+        System.out.print("Clearance Candidates: [");
+        boolean first = true;
+        for(int i = 0; i < n; i++){
+            if(arr[i] < threshold){
+                slow++;
+                if(!first){
+                    System.out.print(", ");
+                }
+                System.out.print(i + 1);
+                first = false;
+            }
+        }
+        System.out.println("]");
+        System.out.println("Slow-Moving Products: " + slow);
+        System.out.printf("Turnover Threshold: %.2f units\n", threshold);
+
+        scan.close();
+    }
+}

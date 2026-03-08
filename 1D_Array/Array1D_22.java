@@ -1,1 +1,50 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/292464d60a4e992873a64878ddfea8eac4ad4ecc', 'html': 'https://github.com/kaarthi2005/Java-/blob/b866ce370a8683a5fcd2e2f44338b7c8829f2405/1D_Array/Array1D_22.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_22.java?ref=b866ce370a8683a5fcd2e2f44338b7c8829f2405'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkxRF8yMiB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBkb3VibGUgYXJyW10gPSBuZXcgZG91YmxlW25dOw0KICAg\nICAgICBkb3VibGUgc3VtID0gMDsNCiAgICAgICAgZG91YmxlIG1heCA9IDAs\nIG1pbiA9IDEwMDsNCiAgICAgICAgaW50IG1heEluZGV4ID0gMTsNCiAgICAg\nICAgaW50IG1pbkluZGV4ID0gMTsNCiAgICAgICAgDQogICAgICAgIGZvcihp\nbnQgaSA9IDA7IGkgPCBuOyBpKyspew0KICAgICAgICAgICAgYXJyW2ldID0g\nc2Nhbi5uZXh0RG91YmxlKCk7DQogICAgICAgICAgICBzdW0gKz0gYXJyW2ld\nOw0KICAgICAgICAgICAgaWYoYXJyW2ldID4gbWF4KXsNCiAgICAgICAgICAg\nICAgICBtYXggPSBhcnJbaV07DQogICAgICAgICAgICAgICAgbWF4SW5kZXgg\nPSBpICsgMTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgICAgIGlmKGFycltp\nXSA8IG1pbil7DQogICAgICAgICAgICAgICAgbWluID0gYXJyW2ldOw0KICAg\nICAgICAgICAgICAgIG1pbkluZGV4ID0gaSArIDE7DQogICAgICAgICAgICB9\nDQogICAgICAgIH0NCiAgICAgICAgZG91YmxlIGF2ZyA9IHN1bSAvIG47DQog\nICAgICAgIGRvdWJsZSB0aHJlc2hvbGQgPSBhdmcgKiAyLjA7DQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwgUG9zdHM6ICIgKyBuKTsNCiAg\nICAgICAgU3lzdGVtLm91dC5wcmludGYoIkF2ZXJhZ2UgRW5nYWdlbWVudDog\nJS4yZiUlXG4iLCBhdmcpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50Zigi\nUGVhayBFbmdhZ2VtZW50OiAlLjJmJSUgKFBvc3QgJWQpXG4iLCBtYXgsIG1h\neEluZGV4KTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIkxvd2VzdCBF\nbmdhZ2VtZW50OiAlLjJmJSUgKFBvc3QgJWQpXG4iLCBtaW4sIG1pbkluZGV4\nKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludCgiVG9wIFBlcmZvcm1lcnM6\nIFsiKTsNCiAgICAgICAgYm9vbGVhbiBmaXJzdCA9IHRydWU7DQogICAgICAg\nIGludCB2aXJhbCA9IDA7DQogICAgICAgIGZvcihpbnQgaSA9IDA7IGkgPCBu\nOyBpKyspew0KICAgICAgICAgICAgaWYoYXJyW2ldID4gdGhyZXNob2xkKXsN\nCiAgICAgICAgICAgICAgICB2aXJhbCsrOw0KICAgICAgICAgICAgICAgIGlm\nKCFmaXJzdCl7DQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJp\nbnQoIiwgIik7DQogICAgICAgICAgICAgICAgfQ0KICAgICAgICAgICAgICAg\nIFN5c3RlbS5vdXQucHJpbnQoaSArIDEpOw0KICAgICAgICAgICAgICAgIGZp\ncnN0ID0gZmFsc2U7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCiAgICAg\nICAgU3lzdGVtLm91dC5wcmludGxuKCJdIik7DQogICAgICAgIFN5c3RlbS5v\ndXQucHJpbnRsbigiVmlyYWwgUG9zdHMgKD4yMDAlIGF2Zyk6ICIgKyB2aXJh\nbCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJWaXJhbCBUaHJlc2hv\nbGQ6ICUuMmYlJVxuIiwgdGhyZXNob2xkKTsNCg0KICAgICAgICBzY2FuLmNs\nb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/b866ce370a8683a5fcd2e2f44338b7c8829f2405/1D_Array/Array1D_22.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/292464d60a4e992873a64878ddfea8eac4ad4ecc', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/b866ce370a8683a5fcd2e2f44338b7c8829f2405/1D_Array/Array1D_22.java', 'name': 'Array1D_22.java', 'path': '1D_Array/Array1D_22.java', 'sha': '292464d60a4e992873a64878ddfea8eac4ad4ecc', 'size': 1638, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_22.java?ref=b866ce370a8683a5fcd2e2f44338b7c8829f2405'}
+import java.util.Scanner;
+
+public class Array1D_22 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        double arr[] = new double[n];
+        double sum = 0;
+        double max = 0, min = 100;
+        int maxIndex = 1;
+        int minIndex = 1;
+        
+        for(int i = 0; i < n; i++){
+            arr[i] = scan.nextDouble();
+            sum += arr[i];
+            if(arr[i] > max){
+                max = arr[i];
+                maxIndex = i + 1;
+            }
+            if(arr[i] < min){
+                min = arr[i];
+                minIndex = i + 1;
+            }
+        }
+        double avg = sum / n;
+        double threshold = avg * 2.0;
+        System.out.println("Total Posts: " + n);
+        System.out.printf("Average Engagement: %.2f%%\n", avg);
+        System.out.printf("Peak Engagement: %.2f%% (Post %d)\n", max, maxIndex);
+        System.out.printf("Lowest Engagement: %.2f%% (Post %d)\n", min, minIndex);
+        System.out.print("Top Performers: [");
+        boolean first = true;
+        int viral = 0;
+        for(int i = 0; i < n; i++){
+            if(arr[i] > threshold){
+                viral++;
+                if(!first){
+                    System.out.print(", ");
+                }
+                System.out.print(i + 1);
+                first = false;
+            }
+        }
+        System.out.println("]");
+        System.out.println("Viral Posts (>200% avg): " + viral);
+        System.out.printf("Viral Threshold: %.2f%%\n", threshold);
+
+        scan.close();
+    }
+}
