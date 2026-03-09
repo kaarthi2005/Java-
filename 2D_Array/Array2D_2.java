@@ -1,1 +1,49 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/8728d31484fbbf2e80134ce13283be68650eb258', 'html': 'https://github.com/kaarthi2005/Java-/blob/1c0cbde4ea20da047c28ee2abc2641061b58b069/2D_Array/Array2D_2.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_2.java?ref=1c0cbde4ea20da047c28ee2abc2641061b58b069'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkyRF8yIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIGludCByID0gc2Nhbi5uZXh0SW50KCk7\nDQogICAgICAgIGludCBjID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIGlu\ndCBuID0gc2Nhbi5uZXh0SW50KCk7DQoNCiAgICAgICAgYm9vbGVhbiBbXVtd\nIGFyciA9IG5ldyBib29sZWFuW25dW25dOw0KICAgICAgICBpbnQgIGEgOw0K\nICAgICAgICBpbnQgIGIgOyANCiAgICAgICAgZm9yKGludCBpPTA7aTxuO2kr\nKyl7DQogICAgICAgICAgICBhICA9IHNjYW4ubmV4dEludCgpOw0KICAgICAg\nICAgICAgYiAgPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgICAgIGZvcihp\nbnQgaj0wIDtqPDE7aisrKXsNCiAgICAgICAgICAgICAgICBhcnJbYV1bYl09\nIHRydWU7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCiAgICAgICAgaW50\nIGJvb2sgPSAwOw0KICAgICAgICBpbnQgdG90YWwgPSAwOw0KICAgICAgICBp\nbnQgYXZhaWxhYmxlX1NlYXQgPSAwOw0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oIlNlYXRpbmcgQ2hhcnQ6ICIpOw0KICAgICAgICBmb3IoaW50IGk9\nMCA7aTxyIDtpKyspew0KICAgICAgICAgICAgZm9yKGludCBqPTAgO2o8YyA7\naisrKXsNCiAgICAgICAgICAgICAgICB0b3RhbCsrOw0KICAgICAgICAgICAg\nICAgIGlmKGFycltpXVtqXSA9PSB0cnVlKXsNCiAgICAgICAgICAgICAgICAg\nICAgU3lzdGVtLm91dC5wcmludCgiQiAiKTsNCiAgICAgICAgICAgICAgICAg\nICAgYm9vaysrOw0KICAgICAgICAgICAgICAgIH1lbHNlew0KICAgICAgICAg\nICAgICAgICAgICBhdmFpbGFibGVfU2VhdCsrOw0KICAgICAgICAgICAgICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50KCJBICIpOw0KICAgICAgICAgICAgICAg\nIH0NCiAgICAgICAgICAgIH0NCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbigpOw0KICAgICAgICB9DQoNCiAgICAgICAgRG91YmxlIGF2ZyA9ICgo\nZG91YmxlKWJvb2svdG90YWwpKjEwMDsNCiAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwg\nU2VhdHM6ICIrdG90YWwpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIkJvb2tlZCBTZWF0czogIitib29rKTsNCiAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCJBdmFpbGFibGUgU2VhdHM6ICIrYXZhaWxhYmxlX1NlYXQpOw0K\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiT2NjdXBhbmN5IFJhdGU6ICVk\nICUlIixhdmcpOw0KDQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAgICAgICAg\nDQoNCiAgICB9DQp9DQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/1c0cbde4ea20da047c28ee2abc2641061b58b069/2D_Array/Array2D_2.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/8728d31484fbbf2e80134ce13283be68650eb258', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/1c0cbde4ea20da047c28ee2abc2641061b58b069/2D_Array/Array2D_2.java', 'name': 'Array2D_2.java', 'path': '2D_Array/Array2D_2.java', 'sha': '8728d31484fbbf2e80134ce13283be68650eb258', 'size': 1409, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_2.java?ref=1c0cbde4ea20da047c28ee2abc2641061b58b069'}
+import java.util.Scanner;
+
+public class Array2D_2 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+        int n = scan.nextInt();
+
+        boolean [][] arr = new boolean[n][n];
+        int  a ;
+        int  b ; 
+        for(int i=0;i<n;i++){
+            a  = scan.nextInt();
+            b  = scan.nextInt();
+            for(int j=0 ;j<1;j++){
+                arr[a][b]= true;
+            }
+        }
+        int book = 0;
+        int total = 0;
+        int available_Seat = 0;
+        System.out.println("Seating Chart: ");
+        for(int i=0 ;i<r ;i++){
+            for(int j=0 ;j<c ;j++){
+                total++;
+                if(arr[i][j] == true){
+                    System.out.print("B ");
+                    book++;
+                }else{
+                    available_Seat++;
+                    System.out.print("A ");
+                }
+            }
+            System.out.println();
+        }
+
+        Double avg = ((double)book/total)*100;
+        System.out.println();
+        System.out.println("Total Seats: "+total);
+        System.out.println("Booked Seats: "+book);
+        System.out.println("Available Seats: "+available_Seat);
+        System.out.printf("Occupancy Rate: %d %%",avg);
+
+        scan.close();
+        
+
+    }
+}

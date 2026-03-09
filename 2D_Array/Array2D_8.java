@@ -1,1 +1,41 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/979e3ddef2beadfabb84498d5ff1cd4f281d6721', 'html': 'https://github.com/kaarthi2005/Java-/blob/51b5c03df18dcff5571bf7283b6b008e58a07cb7/2D_Array/Array2D_8.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_8.java?ref=51b5c03df18dcff5571bf7283b6b008e58a07cb7'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkyRF84IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIGludCByID0gc2Nhbi5uZXh0SW50KCk7\nDQogICAgICAgIGludCBjID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgIGlu\ndCBhZGQgPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgaW50IFtdW11hcnIg\nPSBuZXcgaW50IFtyXVtjXTsNCg0KICAgICAgICBmb3IoaW50IGk9MCA7aTxy\nIDtpKyspew0KICAgICAgICAgICAgZm9yKGludCBqPTAgO2o8YyA7aisrKXsN\nCiAgICAgICAgICAgICAgICBhcnJbaV1bal0gPSBzY2FuLm5leHRJbnQoKTsN\nCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oIk9yaWdpbmFsIEltYWdlOiAiKTsNCiAgICAgICAgZm9yKGlu\ndCBpPTAgO2k8cjtpKyspew0KICAgICAgICAgICAgZm9yKGludCBqPTAgO2o8\nYyA7aisrKXsNCiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGFy\ncltpXVtqXSsiICIpOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgU3lz\ndGVtLm91dC5wcmludGxuKCk7DQogICAgICAgIH0NCg0KICAgICAgICBTeXN0\nZW0ub3V0LnByaW50bG4oKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJBanVzdGVkIEltYWdlOiAiKTsNCiAgICAgICAgZm9yKGludCBpPTAgO2k8\nciA7aSsrKXsNCiAgICAgICAgICAgIGZvcihpbnQgaj0wIDtqPGMgO2orKyl7\nDQogICAgICAgICAgICAgICAgaW50IHggPSBhcnJbaV1bal0gKyBhZGQ7DQog\nICAgICAgICAgICAgICAgaWYoeD49MjU1KXsNCiAgICAgICAgICAgICAgICAg\nICAgU3lzdGVtLm91dC5wcmludCgiMjU1ICIpOw0KICAgICAgICAgICAgICAg\nIH1lbHNlew0KICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nKHgrIiAiKTsNCiAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICB9DQog\nICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsNCiAgICAgICAgfQ0K\nDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAgICBzY2Fu\nLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/51b5c03df18dcff5571bf7283b6b008e58a07cb7/2D_Array/Array2D_8.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/979e3ddef2beadfabb84498d5ff1cd4f281d6721', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/51b5c03df18dcff5571bf7283b6b008e58a07cb7/2D_Array/Array2D_8.java', 'name': 'Array2D_8.java', 'path': '2D_Array/Array2D_8.java', 'sha': '979e3ddef2beadfabb84498d5ff1cd4f281d6721', 'size': 1146, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_8.java?ref=51b5c03df18dcff5571bf7283b6b008e58a07cb7'}
+import java.util.Scanner;
+
+public class Array2D_8 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+        int add = scan.nextInt();
+        int [][]arr = new int [r][c];
+
+        for(int i=0 ;i<r ;i++){
+            for(int j=0 ;j<c ;j++){
+                arr[i][j] = scan.nextInt();
+            }
+        }
+        System.out.println("Original Image: ");
+        for(int i=0 ;i<r;i++){
+            for(int j=0 ;j<c ;j++){
+                System.out.print(arr[i][j]+" ");
+            }
+            System.out.println();
+        }
+
+        System.out.println();
+        System.out.println("Ajusted Image: ");
+        for(int i=0 ;i<r ;i++){
+            for(int j=0 ;j<c ;j++){
+                int x = arr[i][j] + add;
+                if(x>=255){
+                    System.out.print("255 ");
+                }else{
+                    System.out.print(x+" ");
+                }
+            }
+            System.out.println();
+        }
+
+        System.out.println();
+        scan.close();
+    }
+}

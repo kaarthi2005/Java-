@@ -1,1 +1,61 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/8fe1294a3d9542dc2fb59eb0be1e73cda5dc72ba', 'html': 'https://github.com/kaarthi2005/Java-/blob/4efa7e8816584f594553ef868cd0d4177f6c7e98/2D_Array/Array2D_11.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_11.java?ref=4efa7e8816584f594553ef868cd0d4177f6c7e98'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KcHVibGljIGNsYXNzIEFycmF5\nMkRfMTEgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1td\nIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzYyA9IG5ldyBTY2FubmVyKFN5\nc3RlbS5pbik7DQoNCiAgICAgICAgaW50IHJvd3MgPSBzYy5uZXh0SW50KCk7\nDQogICAgICAgIGludCBjb2xzID0gc2MubmV4dEludCgpOw0KDQogICAgICAg\nIGludFtdW10gc2VhdCA9IG5ldyBpbnRbcm93c11bY29sc107DQogICAgICAg\nIGZvciAoaW50IGkgPSAwOyBpIDwgcm93czsgaSsrKSB7DQogICAgICAgICAg\nICBmb3IgKGludCBqID0gMDsgaiA8IGNvbHM7IGorKykgew0KICAgICAgICAg\nICAgICAgIHNlYXRbaV1bal0gPSBzYy5uZXh0SW50KCk7DQogICAgICAgICAg\nICB9DQogICAgICAgIH0NCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nIlNlYXRpbmcgTGF5b3V0OiIpOw0KICAgICAgICBmb3IgKGludCBpID0gMDsg\naSA8IHJvd3M7IGkrKykgew0KICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7\nIGogPCBjb2xzOyBqKyspIHsNCiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50KHNlYXRbaV1bal0gKyAiICIpOw0KICAgICAgICAgICAgfQ0KICAg\nICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7DQogICAgICAgIH0NCiAg\nICAgICAgaW50IHZpb2xhdGlvbnMgPSAwOw0KICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJWaW9s\nYXRpb24gQ29vcmRpbmF0ZXM6Iik7DQogICAgICAgIGZvciAoaW50IGkgPSAw\nOyBpIDwgcm93czsgaSsrKSB7DQogICAgICAgICAgICBmb3IgKGludCBqID0g\nMDsgaiA8IGNvbHM7IGorKykgew0KICAgICAgICAgICAgICAgIGlmIChzZWF0\nW2ldW2pdID09IDEpIHsNCiAgICAgICAgICAgICAgICAgICAgaWYgKGogKyAx\nIDwgY29scyAmJiBzZWF0W2ldW2ogKyAxXSA9PSAxKSB7DQogICAgICAgICAg\nICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0gU2VhdCBhdCAo\nIiArIGkgKyAiLCAiICsgaiArICIpIGlzIHRvbyBjbG9zZSB0byAoIiArIGkg\nKyAiLCAiICsgKGogKyAxKSArICIpIik7DQogICAgICAgICAgICAgICAgICAg\nICAgICB2aW9sYXRpb25zKys7DQogICAgICAgICAgICAgICAgICAgIH0NCiAg\nICAgICAgICAgICAgICAgICAgaWYgKGkgKyAxIDwgcm93cyAmJiBzZWF0W2kg\nKyAxXVtqXSA9PSAxKSB7DQogICAgICAgICAgICAgICAgICAgICAgICBTeXN0\nZW0ub3V0LnByaW50bG4oIi0gU2VhdCBhdCAoIiArIGkgKyAiLCAiICsgaiAr\nICIpIGlzIHRvbyBjbG9zZSB0byAoIiArIChpICsgMSkgKyAiLCAiICsgaiAr\nICIpIik7DQogICAgICAgICAgICAgICAgICAgICAgICB2aW9sYXRpb25zKys7\nDQogICAgICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgICAgICAgICAg\naWYgKGkgKyAxIDwgcm93cyAmJiBqICsgMSA8IGNvbHMgJiYgc2VhdFtpICsg\nMV1baiArIDFdID09IDEpIHsNCiAgICAgICAgICAgICAgICAgICAgICAgIFN5\nc3RlbS5vdXQucHJpbnRsbigiLSBTZWF0IGF0ICgiICsgaSArICIsICIgKyBq\nICsgIikgaXMgdG9vIGNsb3NlIHRvICgiICsgKGkgKyAxKSArICIsICIgKyAo\naiArIDEpICsgIikiKTsNCiAgICAgICAgICAgICAgICAgICAgICAgIHZpb2xh\ndGlvbnMrKzsNCiAgICAgICAgICAgICAgICAgICAgfQ0KICAgICAgICAgICAg\nICAgICAgICBpZiAoaSArIDEgPCByb3dzICYmIGogLSAxID49IDAgJiYgc2Vh\ndFtpICsgMV1baiAtIDFdID09IDEpIHsNCiAgICAgICAgICAgICAgICAgICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLSBTZWF0IGF0ICgiICsgaSArICIs\nICIgKyBqICsgIikgaXMgdG9vIGNsb3NlIHRvICgiICsgKGkgKyAxKSArICIs\nICIgKyAoaiAtIDEpICsgIikiKTsNCiAgICAgICAgICAgICAgICAgICAgICAg\nIHZpb2xhdGlvbnMrKzsNCiAgICAgICAgICAgICAgICAgICAgfQ0KDQogICAg\nICAgICAgICAgICAgfQ0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQoNCiAg\nICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJWaW9sYXRpb25zIEZvdW5kOiAi\nICsgdmlvbGF0aW9ucyk7DQoNCiAgICAgICAgaWYgKHZpb2xhdGlvbnMgPT0g\nMCkgew0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTdGF0dXM6\nIENvbXBsaWFudCIpOw0KICAgICAgICB9IGVsc2Ugew0KICAgICAgICAgICAg\nU3lzdGVtLm91dC5wcmludGxuKCJTdGF0dXM6IE5vbi1Db21wbGlhbnQiKTsN\nCiAgICAgICAgfQ0KDQogICAgICAgIHNjLmNsb3NlKCk7DQogICAgfQ0KfQ0K\nDQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/4efa7e8816584f594553ef868cd0d4177f6c7e98/2D_Array/Array2D_11.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/8fe1294a3d9542dc2fb59eb0be1e73cda5dc72ba', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/4efa7e8816584f594553ef868cd0d4177f6c7e98/2D_Array/Array2D_11.java', 'name': 'Array2D_11.java', 'path': '2D_Array/Array2D_11.java', 'sha': '8fe1294a3d9542dc2fb59eb0be1e73cda5dc72ba', 'size': 2297, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_11.java?ref=4efa7e8816584f594553ef868cd0d4177f6c7e98'}
+import java.util.Scanner;
+public class Array2D_11 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int rows = sc.nextInt();
+        int cols = sc.nextInt();
+
+        int[][] seat = new int[rows][cols];
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                seat[i][j] = sc.nextInt();
+            }
+        }
+
+        System.out.println("Seating Layout:");
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                System.out.print(seat[i][j] + " ");
+            }
+            System.out.println();
+        }
+        int violations = 0;
+        System.out.println();
+        System.out.println("Violation Coordinates:");
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (seat[i][j] == 1) {
+                    if (j + 1 < cols && seat[i][j + 1] == 1) {
+                        System.out.println("- Seat at (" + i + ", " + j + ") is too close to (" + i + ", " + (j + 1) + ")");
+                        violations++;
+                    }
+                    if (i + 1 < rows && seat[i + 1][j] == 1) {
+                        System.out.println("- Seat at (" + i + ", " + j + ") is too close to (" + (i + 1) + ", " + j + ")");
+                        violations++;
+                    }
+                    if (i + 1 < rows && j + 1 < cols && seat[i + 1][j + 1] == 1) {
+                        System.out.println("- Seat at (" + i + ", " + j + ") is too close to (" + (i + 1) + ", " + (j + 1) + ")");
+                        violations++;
+                    }
+                    if (i + 1 < rows && j - 1 >= 0 && seat[i + 1][j - 1] == 1) {
+                        System.out.println("- Seat at (" + i + ", " + j + ") is too close to (" + (i + 1) + ", " + (j - 1) + ")");
+                        violations++;
+                    }
+
+                }
+            }
+        }
+
+        System.out.println("Violations Found: " + violations);
+
+        if (violations == 0) {
+            System.out.println("Status: Compliant");
+        } else {
+            System.out.println("Status: Non-Compliant");
+        }
+
+        sc.close();
+    }
+}
+

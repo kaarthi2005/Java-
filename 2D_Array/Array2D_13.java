@@ -1,1 +1,61 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/110138e67c9c70cf43934543071d1617542f3f87', 'html': 'https://github.com/kaarthi2005/Java-/blob/e7285ed30bcb9181297053130dbc8c83cfa86c7d/2D_Array/Array2D_13.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_13.java?ref=e7285ed30bcb9181297053130dbc8c83cfa86c7d'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkyRF8xMyB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgciA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBpbnQgYyA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICBp\nbnQgYXJyW11bXSA9IG5ldyBpbnQgW3JdW2NdOw0KICAgICAgICBpbnQgY291\nbnQgPSAwOw0KICAgICAgICBpbnQgZW1wdHkxID0gMDsNCiAgICAgICAgZm9y\nKGludCBpPTAgO2k8ciA7aSsrKXsNCiAgICAgICAgICAgaW50IHN1bSA9MCA7\nDQogICAgICAgICAgICBmb3IoaW50IGo9MCA7ajxjIDtqKyspew0KICAgICAg\nICAgICAgICAgIGFycltpXVtqXSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAg\nICAgICAgICAgc3VtKz1hcnJbaV1bal07DQogICAgICAgICAgICAgICAgaWYo\nYXJyW2ldW2pdPjApew0KICAgICAgICAgICAgICAgICAgICBjb3VudCsrOw0K\nICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgICAgICANCiAgICAgICAg\nICAgIH0NCiAgICAgICAgICAgIGlmKHN1bSA9PSAwKXsNCiAgICAgICAgICAg\nICAgIGVtcHR5MSsrOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgDQog\nICAgICAgIH0NCiAgICAgICAgaW50IFtdIGVtcHR5ID0gbmV3IGludCBbZW1w\ndHkxXTsNCiAgICAgICAgaW50IGsgPTA7DQogICAgICAgIFN5c3RlbS5vdXQu\ncHJpbnRsbigpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNlYXRp\nbmcgTWFwOiAiKTsNCiAgICAgICAgZm9yKGludCBpPTAgO2k8ciA7aSsrKXsN\nCiAgICAgICAgICAgICBpbnQgc3VtID0wIDsNCiAgICAgICAgICAgIGZvcihp\nbnQgaj0wIDtqPGMgO2orKyl7DQogICAgICAgICAgICAgICAgIHN1bSs9YXJy\nW2ldW2pdOw0KICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoYXJy\nW2ldW2pdKyIgIik7DQogICAgICAgICAgICB9DQogICAgICAgICAgICBpZihz\ndW0gPT0gMCl7DQogICAgICAgICAgICAgICAgZW1wdHlba10gPSBpOw0KICAg\nICAgICAgICAgICAgIGsrKzsNCiAgICAgICAgICAgIH0NCiAgICAgICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAgICB9DQogICAgICAgIGlu\ndCB0b3RhbCA9IHIqYzsNCiAgICAgICAgZG91YmxlIGF2ZyA9ICgoZG91Ymxl\nKWNvdW50L3RvdGFsICkqMTAwOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7DQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiVG90YWwgT2NjdXBpZWQ6ICIrY291bnQp\nOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiT2NjdXBhbmN5IFJhdGU6\nICUuMmYlJVxuIixhdmcpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJF\nbXB0eSBSb3dzOiBbIik7DQogICAgICAgIGJvb2xlYW4gZmxhZyA9IHRydWU7\nDQogICAgICAgIGZvcihpbnQgaT0wIDtpPGVtcHR5MSA7aSsrKXsNCiAgICAg\nICAgICAgIGlmKCFmbGFnKXsNCiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50KCIsICIpOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgU3lz\ndGVtLm91dC5wcmludChlbXB0eVtpXSk7DQogICAgICAgICAgICBmbGFnID0g\nZmFsc2U7DQogICAgICAgIH0NCiAgICAgICAgU3lzdGVtLm91dC5wcmludCgi\nXSIpOw0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgICAgIA0KICAgIH0N\nCn0=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/e7285ed30bcb9181297053130dbc8c83cfa86c7d/2D_Array/Array2D_13.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/110138e67c9c70cf43934543071d1617542f3f87', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/e7285ed30bcb9181297053130dbc8c83cfa86c7d/2D_Array/Array2D_13.java', 'name': 'Array2D_13.java', 'path': '2D_Array/Array2D_13.java', 'sha': '110138e67c9c70cf43934543071d1617542f3f87', 'size': 1757, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_13.java?ref=e7285ed30bcb9181297053130dbc8c83cfa86c7d'}
+import java.util.Scanner;
+
+public class Array2D_13 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+        int arr[][] = new int [r][c];
+        int count = 0;
+        int empty1 = 0;
+        for(int i=0 ;i<r ;i++){
+           int sum =0 ;
+            for(int j=0 ;j<c ;j++){
+                arr[i][j] = scan.nextInt();
+               sum+=arr[i][j];
+                if(arr[i][j]>0){
+                    count++;
+                }
+                
+            }
+            if(sum == 0){
+               empty1++;
+            }
+            
+        }
+        int [] empty = new int [empty1];
+        int k =0;
+        System.out.println();
+        System.out.println("Seating Map: ");
+        for(int i=0 ;i<r ;i++){
+             int sum =0 ;
+            for(int j=0 ;j<c ;j++){
+                 sum+=arr[i][j];
+                System.out.print(arr[i][j]+" ");
+            }
+            if(sum == 0){
+                empty[k] = i;
+                k++;
+            }
+            System.out.println();
+        }
+        int total = r*c;
+        double avg = ((double)count/total )*100;
+        System.out.println();
+        System.out.println();
+        System.out.println("Total Occupied: "+count);
+        System.out.printf("Occupancy Rate: %.2f%%\n",avg);
+        System.out.print("Empty Rows: [");
+        boolean flag = true;
+        for(int i=0 ;i<empty1 ;i++){
+            if(!flag){
+                System.out.print(", ");
+            }
+            System.out.print(empty[i]);
+            flag = false;
+        }
+        System.out.print("]");
+        scan.close();
+        
+    }
+}

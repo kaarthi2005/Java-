@@ -1,1 +1,50 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/35c710edce5eb7e73ef6c9824184cd036b966bd8', 'html': 'https://github.com/kaarthi2005/Java-/blob/957fb3af5eeec1c8c242a0443e4d34337fb5b93a/2D_Array/Array2D_12.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_12.java?ref=957fb3af5eeec1c8c242a0443e4d34337fb5b93a'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkyRF8xMiB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KDQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2Fu\nbmVyKFN5c3RlbS5pbik7DQogICAgICAgIGludCBuID0gc2Nhbi5uZXh0SW50\nKCk7DQogICAgICAgIGludCBuMiA9IHNjYW4ubmV4dEludCgpOw0KDQogICAg\nICAgIGludCByYWluZmFsbFtdW10gPSBuZXcgaW50W25dW24yXTsNCiAgICAg\nICAgaW50IHdlZWtseVRvdGFsW10gPSBuZXcgaW50W25dOw0KICAgICAgICBp\nbnQgbW9udGhseVRvdGFsID0gMDsNCiAgICAgICAgZm9yIChpbnQgaSA9IDA7\nIGkgPCBuOyBpKyspIHsNCiAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBq\nIDwgbjI7IGorKykgew0KICAgICAgICAgICAgICAgIHJhaW5mYWxsW2ldW2pd\nID0gc2Nhbi5uZXh0SW50KCk7DQogICAgICAgICAgICB9DQogICAgICAgIH0N\nCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJSYWluZmFsbCBEYXRhOiIp\nOw0KICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG47IGkrKykgew0KICAg\nICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBuMjsgaisrKSB7DQogICAg\nICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChyYWluZmFsbFtpXVtqXSAr\nICIgIik7DQogICAgICAgICAgICB9DQogICAgICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oKTsNCiAgICAgICAgfQ0KICAgICAgICBmb3IgKGludCBpID0g\nMDsgaSA8IG47IGkrKykgew0KICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7\nIGogPCBuMjsgaisrKSB7DQogICAgICAgICAgICAgICAgd2Vla2x5VG90YWxb\naV0gKz0gcmFpbmZhbGxbaV1bal07DQogICAgICAgICAgICB9DQogICAgICAg\nICAgICBtb250aGx5VG90YWwgKz0gd2Vla2x5VG90YWxbaV07DQogICAgICAg\nIH0NCiAgICAgICAgaW50IG1pbiA9IHdlZWtseVRvdGFsWzBdOw0KICAgICAg\nICBpbnQgd2VlayA9IDA7DQoNCiAgICAgICAgZm9yIChpbnQgaSA9IDE7IGkg\nPCBuOyBpKyspIHsNCiAgICAgICAgICAgIGlmICh3ZWVrbHlUb3RhbFtpXSA8\nIG1pbikgew0KICAgICAgICAgICAgICAgIG1pbiA9IHdlZWtseVRvdGFsW2ld\nOw0KICAgICAgICAgICAgICAgIHdlZWsgPSBpOw0KICAgICAgICAgICAgfQ0K\nICAgICAgICB9DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiV2Vla2x5\nIFRvdGFsczoiKTsNCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBp\nKyspIHsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiV2VlayAi\nICsgKGkgKyAxKSArICI6ICIgKyB3ZWVrbHlUb3RhbFtpXSArICIgbW0iKTsN\nCiAgICAgICAgfQ0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk1vbnRo\nbHkgVG90YWw6ICIgKyBtb250aGx5VG90YWwgKyAiIG1tIik7DQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiRHJpZXN0IFdlZWs6IFdlZWsgIiArICh3\nZWVrICsgMSkgKyAiICgiICsgbWluICsgIiBtbSkiKTsNCg0KICAgICAgICBz\nY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0KDQo=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/957fb3af5eeec1c8c242a0443e4d34337fb5b93a/2D_Array/Array2D_12.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/35c710edce5eb7e73ef6c9824184cd036b966bd8', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/957fb3af5eeec1c8c242a0443e4d34337fb5b93a/2D_Array/Array2D_12.java', 'name': 'Array2D_12.java', 'path': '2D_Array/Array2D_12.java', 'sha': '35c710edce5eb7e73ef6c9824184cd036b966bd8', 'size': 1556, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_12.java?ref=957fb3af5eeec1c8c242a0443e4d34337fb5b93a'}
+import java.util.Scanner;
+
+public class Array2D_12 {
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int n2 = scan.nextInt();
+
+        int rainfall[][] = new int[n][n2];
+        int weeklyTotal[] = new int[n];
+        int monthlyTotal = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n2; j++) {
+                rainfall[i][j] = scan.nextInt();
+            }
+        }
+        System.out.println("Rainfall Data:");
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n2; j++) {
+                System.out.print(rainfall[i][j] + " ");
+            }
+            System.out.println();
+        }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n2; j++) {
+                weeklyTotal[i] += rainfall[i][j];
+            }
+            monthlyTotal += weeklyTotal[i];
+        }
+        int min = weeklyTotal[0];
+        int week = 0;
+
+        for (int i = 1; i < n; i++) {
+            if (weeklyTotal[i] < min) {
+                min = weeklyTotal[i];
+                week = i;
+            }
+        }
+        System.out.println("Weekly Totals:");
+        for (int i = 0; i < n; i++) {
+            System.out.println("Week " + (i + 1) + ": " + weeklyTotal[i] + " mm");
+        }
+        System.out.println("Monthly Total: " + monthlyTotal + " mm");
+        System.out.println("Driest Week: Week " + (week + 1) + " (" + min + " mm)");
+
+        scan.close();
+    }
+}
+

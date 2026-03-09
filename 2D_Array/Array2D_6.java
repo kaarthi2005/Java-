@@ -1,1 +1,52 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/fd7db2475c9e02d42b63ea759a2ff435367abd1d', 'html': 'https://github.com/kaarthi2005/Java-/blob/a5d9d174ab6ccb0e80b41fb90968b5ee0b77b1ad/2D_Array/Array2D_6.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_6.java?ref=a5d9d174ab6ccb0e80b41fb90968b5ee0b77b1ad'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkyRF82IHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIGludCByID0gc2Nhbi5uZXh0SW50KCk7\nDQogICAgICAgIGludCBjID0gc2Nhbi5uZXh0SW50KCk7DQoNCiAgICAgICAg\naW50IFtdW10gYXJyID0gbmV3IGludCBbcl1bY107DQogICAgICAgIGludCBb\nXSBhcnIxID0gbmV3IGludFtyXSA7DQogICAgICAgIGludCBzdW07DQogICAg\nICAgIGZvcihpbnQgaT0wIDtpPHIgO2krKyl7DQogICAgICAgICAgICBzdW0g\nPSAwOw0KICAgICAgICAgICAgZm9yKGludCBqPTAgO2o8YyA7aisrKXsNCiAg\nICAgICAgICAgICAgICBhcnJbaV1bal0gPSBzY2FuLm5leHRJbnQoKTsNCiAg\nICAgICAgICAgICAgICBzdW0rPWFycltpXVtqXTsNCiAgICAgICAgICAgIH0N\nCiAgICAgICAgICAgIGFycjFbaV0gPSBzdW07DQogICAgICAgIH0NCiAgICAg\nICAgaW50IG1heCA9IDE7DQogICAgICAgIGludCBjb2xzdW0gOw0KICAgICAg\nICBpbnQgaW5kZXggPSAtMTsNCiAgICAgICAgZm9yKGludCBpPTAgO2k8Yztp\nKyspew0KICAgICAgICAgICAgY29sc3VtID0gMDsNCiAgICAgICAgICAgIGZv\ncihpbnQgaj0wIDtqPHI7aisrKXsNCiAgICAgICAgICAgICAgICBjb2xzdW0g\nKz0gYXJyW2pdW2ldOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgaWYo\nbWF4IDw9IGNvbHN1bSB8fCBtYXggPT0xKXsNCiAgICAgICAgICAgICAgICBt\nYXggPSBjb2xzdW07DQogICAgICAgICAgICAgICAgaW5kZXggPSBpKzE7DQog\nICAgICAgICAgICB9DQogICAgICAgIH0NCg0KICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUcmFm\nZmljIERhdGE6ICIpOw0KICAgICAgICBmb3IoaW50IGk9MCA7aTxyIDtpKysp\new0KICAgICAgICAgICAgZm9yKGludCBqPTAgO2o8YyA7aisrKXsNCiAgICAg\nICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGFycltpXVtqXSsiICIpOw0K\nICAgICAgICAgICAgfQ0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCk7DQogICAgICAgIH0NCg0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4o\nKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUb3RhbCBUcmFmZmlj\nIFBlciBMYW5lOiAiKTsNCiAgICAgICAgZm9yKGludCBpPTAgO2k8ciA7aSsr\nKXsNCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTGFuZSAiKyhp\nKzEpKyIgIithcnIxW2ldKTsNCiAgICAgICAgfQ0KICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50bG4oIkJ1c2llc3QgSG91cjogSG91ciAiK2luZGV4KyIgd2l0\naCAiK21heCsiIFZlY2hpbGVzIik7DQogICAgICAgIFN5c3RlbS5vdXQucHJp\nbnRsbigpOw0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAgfSANCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/a5d9d174ab6ccb0e80b41fb90968b5ee0b77b1ad/2D_Array/Array2D_6.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/fd7db2475c9e02d42b63ea759a2ff435367abd1d', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/a5d9d174ab6ccb0e80b41fb90968b5ee0b77b1ad/2D_Array/Array2D_6.java', 'name': 'Array2D_6.java', 'path': '2D_Array/Array2D_6.java', 'sha': 'fd7db2475c9e02d42b63ea759a2ff435367abd1d', 'size': 1483, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_6.java?ref=a5d9d174ab6ccb0e80b41fb90968b5ee0b77b1ad'}
+import java.util.Scanner;
+
+public class Array2D_6 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+
+        int [][] arr = new int [r][c];
+        int [] arr1 = new int[r] ;
+        int sum;
+        for(int i=0 ;i<r ;i++){
+            sum = 0;
+            for(int j=0 ;j<c ;j++){
+                arr[i][j] = scan.nextInt();
+                sum+=arr[i][j];
+            }
+            arr1[i] = sum;
+        }
+        int max = 1;
+        int colsum ;
+        int index = -1;
+        for(int i=0 ;i<c;i++){
+            colsum = 0;
+            for(int j=0 ;j<r;j++){
+                colsum += arr[j][i];
+            }
+            if(max <= colsum || max ==1){
+                max = colsum;
+                index = i+1;
+            }
+        }
+
+        System.out.println();
+        System.out.println("Traffic Data: ");
+        for(int i=0 ;i<r ;i++){
+            for(int j=0 ;j<c ;j++){
+                System.out.print(arr[i][j]+" ");
+            }
+            System.out.println();
+        }
+
+        System.out.println();
+        System.out.println("Total Traffic Per Lane: ");
+        for(int i=0 ;i<r ;i++){
+            System.out.println("Lane "+(i+1)+" "+arr1[i]);
+        }
+        System.out.println("Busiest Hour: Hour "+index+" with "+max+" Vechiles");
+        System.out.println();
+        scan.close();
+    } 
+}

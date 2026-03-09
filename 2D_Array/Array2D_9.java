@@ -1,1 +1,45 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9e6c11d18b6be4f38b79c16e6e2979afff12de16', 'html': 'https://github.com/kaarthi2005/Java-/blob/19e85a5b9a6f762b4dae39437a78f0366d09cbcf/2D_Array/Array2D_9.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_9.java?ref=19e85a5b9a6f762b4dae39437a78f0366d09cbcf'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkyRF85ew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1td\nIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIo\nU3lzdGVtLmluKTsNCiAgICAgICAgaW50IHIgPSBzY2FuLm5leHRJbnQoKTsN\nCiAgICAgICAgaW50IGMgPSBzY2FuLm5leHRJbnQoKTsNCg0KICAgICAgICBs\nb25nIFtdW10gYXJyPSBuZXcgbG9uZ1tyXVtjXTsNCiAgICAgICAgbG9uZyBt\naW4gPSAtMTsNCiAgICAgICAgbG9uZyBtYXggPSAxOw0KDQogICAgICAgIGZv\ncihpbnQgaT0wIDtpPHIgO2krKyl7DQogICAgICAgICAgICBmb3IoaW50IGo9\nMCA7ajxjIDtqKyspew0KICAgICAgICAgICAgICAgIGFycltpXVtqXSA9IHNj\nYW4ubmV4dExvbmcoKTsNCiAgICAgICAgICAgICAgICBpZihtYXggPD0gYXJy\nW2ldW2pdIHx8IG1heCA9PSAxKXsNCiAgICAgICAgICAgICAgICAgICAgbWF4\nID0gYXJyW2ldW2pdOw0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAg\nICAgICBpZihtaW4gPj0gYXJyW2ldW2pdIHx8IG1pbiA9PS0xKXsNCiAgICAg\nICAgICAgICAgICAgICAgbWluID0gYXJyW2ldW2pdOw0KICAgICAgICAgICAg\nICAgIH0NCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KDQogICAgICAgIFN5\nc3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50\nbG4oIkVsZXZhdGlvbiBNYXA6ICIpOw0KICAgICAgICBmb3IoaW50IGk9MCA7\naTxyIDtpKyspew0KICAgICAgICAgICAgZm9yKGludCBqPTAgO2o8YyA7aisr\nKXsNCiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGFycltpXVtq\nXSsiICIpOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgU3lzdGVtLm91\ndC5wcmludGxuKCk7DQogICAgICAgIH0NCg0KICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50bG4oKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIaWdo\nZXN0IFBvaW50OiAiK21heCsiIG0iKTsNCiAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCJMb3dlc3QgUG9pbnQ6ICIrbWluKyIgbSIpOw0KICAgICAgICBp\nZigobWF4LW1pbikgPT0gMCl7DQogICAgICAgICAgICAgU3lzdGVtLm91dC5w\ncmludGxuKCJFbGV2YXRpb24gUmFuZ2U6ICIrIjAwIisiIG0iKTsNCiAgICAg\nICAgfWVsc2V7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRWxldmF0\naW9uIFJhbmdlOiAiKyhtYXgtbWluKSsiIG0iKTsNCiAgICAgICAgfQ0KICAg\nICAgICBzY2FuLmNsb3NlKCk7DQogICAgICAgIA0KICAgIH0NCn0=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/19e85a5b9a6f762b4dae39437a78f0366d09cbcf/2D_Array/Array2D_9.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9e6c11d18b6be4f38b79c16e6e2979afff12de16', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/19e85a5b9a6f762b4dae39437a78f0366d09cbcf/2D_Array/Array2D_9.java', 'name': 'Array2D_9.java', 'path': '2D_Array/Array2D_9.java', 'sha': '9e6c11d18b6be4f38b79c16e6e2979afff12de16', 'size': 1298, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_9.java?ref=19e85a5b9a6f762b4dae39437a78f0366d09cbcf'}
+import java.util.Scanner;
+
+public class Array2D_9{
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+
+        long [][] arr= new long[r][c];
+        long min = -1;
+        long max = 1;
+
+        for(int i=0 ;i<r ;i++){
+            for(int j=0 ;j<c ;j++){
+                arr[i][j] = scan.nextLong();
+                if(max <= arr[i][j] || max == 1){
+                    max = arr[i][j];
+                }
+                if(min >= arr[i][j] || min ==-1){
+                    min = arr[i][j];
+                }
+            }
+        }
+
+        System.out.println();
+        System.out.println("Elevation Map: ");
+        for(int i=0 ;i<r ;i++){
+            for(int j=0 ;j<c ;j++){
+                System.out.print(arr[i][j]+" ");
+            }
+            System.out.println();
+        }
+
+        System.out.println();
+        System.out.println("Highest Point: "+max+" m");
+        System.out.println("Lowest Point: "+min+" m");
+        if((max-min) == 0){
+             System.out.println("Elevation Range: "+"00"+" m");
+        }else{
+        System.out.println("Elevation Range: "+(max-min)+" m");
+        }
+        scan.close();
+        
+    }
+}

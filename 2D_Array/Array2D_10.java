@@ -1,1 +1,53 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/ef6c61d0617be5a5b88423f58741f9b5aa8b5e27', 'html': 'https://github.com/kaarthi2005/Java-/blob/ecec41411a48b626ce74a52dcde166cddcd5007a/2D_Array/Array2D_10.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_10.java?ref=ecec41411a48b626ce74a52dcde166cddcd5007a'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkyRF8xMCB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgciA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBpbnQgYyA9IHNjYW4ubmV4dEludCgpOw0KDQogICAgICAg\nIGludCBbXSByb3dzdW0gPSBuZXcgaW50IFtyXTsNCiAgICAgICAgaW50IFtd\nIGNvbHN1bSA9IG5ldyBpbnQgW2NdOw0KICAgICAgICBpbnQgW11bXSBhcnIg\nPSBuZXcgaW50IFtyXVtjXTsNCiAgICAgICAgZm9yKGludCBpPTAgO2k8ciA7\naSsrKXsNCiAgICAgICAgICAgIGludCBzdW0gPTAgOw0KICAgICAgICAgICAg\nZm9yKGludCBqPTAgO2o8YyA7aisrKXsNCiAgICAgICAgICAgICAgICBhcnJb\naV1bal0gPSBzY2FuLm5leHRJbnQoKTsNCiAgICAgICAgICAgICAgICBzdW0g\nKz0gYXJyW2ldW2pdOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgcm93\nc3VtW2ldID0gc3VtOw0KICAgICAgICB9DQoNCiAgICAgICAgZm9yKGludCBp\nPTAgO2k8YyA7aSsrKXsNCiAgICAgICAgICAgIGludCBzdW0gPTAgOw0KICAg\nICAgICAgICAgZm9yKGludCBqPTAgO2o8ciA7aisrKXsNCiAgICAgICAgICAg\nICAgICBzdW0rPSBhcnJbal1baV07DQogICAgICAgICAgICB9DQogICAgICAg\nICAgICBjb2xzdW1baV0gPSBzdW07DQogICAgICAgIH0NCg0KICAgICAgICBT\neXN0ZW0ub3V0LnByaW50bG4oKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmlu\ndGxuKCJTYWxlcyBNYXRyaXg6ICIpOw0KICAgICAgICBmb3IoaW50IGk9MCA7\naTwgciA7aSsrKXsNCiAgICAgICAgICAgIGZvcihpbnQgaj0wIDtqPGMgO2or\nKyl7DQogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChhcnJbaV1b\nal0rIiAiKTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgICAgIFN5c3RlbS5v\ndXQucHJpbnRsbigpOw0KICAgICAgICB9DQoNCg0KICAgICAgICBTeXN0ZW0u\nb3V0LnByaW50bG4oKTsNCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJS\nZXByZXNlbnRhdGl2ZSBUb3RhbHM6Iik7DQoNCiAgICAgICAgZm9yKGludCBp\nPTAgO2k8cjtpKyspew0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCJSZXA6ICIrKGkrMSkrIiA6ICIrcm93c3VtW2ldKTsNCiAgICAgICAgfQ0K\nICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsNCiAgICAgICAgU3lzdGVt\nLm91dC5wcmludGxuKCJUZXJyaXRvcnkgVG90YWxzOiAiKTsNCiAgICAgICAg\nZm9yKGludCBpPTAgO2k8YztpKyspew0KICAgICAgICAgICAgU3lzdGVtLm91\ndC5wcmludGxuKCJUZXJyaXRvcnkgIisoaSsxKSsiIDogIitjb2xzdW1baV0p\nOw0KICAgICAgICB9DQoNCiAgICAgICAgc2Nhbi5jbG9zZSgpOw0KICAgIH0N\nCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/ecec41411a48b626ce74a52dcde166cddcd5007a/2D_Array/Array2D_10.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/ef6c61d0617be5a5b88423f58741f9b5aa8b5e27', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/ecec41411a48b626ce74a52dcde166cddcd5007a/2D_Array/Array2D_10.java', 'name': 'Array2D_10.java', 'path': '2D_Array/Array2D_10.java', 'sha': 'ef6c61d0617be5a5b88423f58741f9b5aa8b5e27', 'size': 1444, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_10.java?ref=ecec41411a48b626ce74a52dcde166cddcd5007a'}
+import java.util.Scanner;
+
+public class Array2D_10 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int r = scan.nextInt();
+        int c = scan.nextInt();
+
+        int [] rowsum = new int [r];
+        int [] colsum = new int [c];
+        int [][] arr = new int [r][c];
+        for(int i=0 ;i<r ;i++){
+            int sum =0 ;
+            for(int j=0 ;j<c ;j++){
+                arr[i][j] = scan.nextInt();
+                sum += arr[i][j];
+            }
+            rowsum[i] = sum;
+        }
+
+        for(int i=0 ;i<c ;i++){
+            int sum =0 ;
+            for(int j=0 ;j<r ;j++){
+                sum+= arr[j][i];
+            }
+            colsum[i] = sum;
+        }
+
+        System.out.println();
+        System.out.println("Sales Matrix: ");
+        for(int i=0 ;i< r ;i++){
+            for(int j=0 ;j<c ;j++){
+                System.out.print(arr[i][j]+" ");
+            }
+            System.out.println();
+        }
+
+
+        System.out.println();
+        System.out.println("Representative Totals:");
+
+        for(int i=0 ;i<r;i++){
+            System.out.println("Rep: "+(i+1)+" : "+rowsum[i]);
+        }
+        System.out.println();
+        System.out.println("Territory Totals: ");
+        for(int i=0 ;i<c;i++){
+            System.out.println("Territory "+(i+1)+" : "+colsum[i]);
+        }
+
+        scan.close();
+    }
+}

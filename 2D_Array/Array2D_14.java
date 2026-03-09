@@ -1,1 +1,38 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/1120539b4de0a58e2ca1f7711211f4039f81c2c1', 'html': 'https://github.com/kaarthi2005/Java-/blob/f00d4128c25784884b11d1bba3a790e485b1ff1e/2D_Array/Array2D_14.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_14.java?ref=f00d4128c25784884b11d1bba3a790e485b1ff1e'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpjbGFzcyBBcnJheTJEXzE0\nIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdz\nKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVyKFN5c3Rl\nbS5pbik7DQoNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJbnQoKTsNCiAg\nICAgICAgaW50W11bXSBhcnIgPSBuZXcgaW50W25dW25dOw0KICAgICAgICBp\nbnRbXVtdIHJvdGF0ZWQgPSBuZXcgaW50W25dW25dOw0KICAgICAgICBmb3Io\naW50IGkgPSAwOyBpIDwgbjsgaSsrKXsNCiAgICAgICAgICAgIGZvcihpbnQg\naiA9IDA7IGogPCBuOyBqKyspew0KICAgICAgICAgICAgICAgIGFycltpXVtq\nXSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICAgICAgfQ0KICAgICAgICB9\nDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiT3JpZ2luYWwgTWF0cml4\nOiIpOw0KICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgbjsgaSsrKXsNCiAg\nICAgICAgICAgIGZvcihpbnQgaiA9IDA7IGogPCBuOyBqKyspew0KICAgICAg\nICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoYXJyW2ldW2pdICsgIiAiKTsN\nCiAgICAgICAgICAgIH0NCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRs\nbigpOw0KICAgICAgICB9DQogICAgICAgIGZvcihpbnQgaSA9IDA7IGkgPCBu\nOyBpKyspew0KICAgICAgICAgICAgZm9yKGludCBqID0gMDsgaiA8IG47IGor\nKyl7DQogICAgICAgICAgICAgICAgcm90YXRlZFtqXVtuIC0gMSAtIGldID0g\nYXJyW2ldW2pdOw0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigpOw0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oIlJvdGF0ZWQgTWF0cml4ICg5MCBkZWcgY2xvY2t3aXNlKToiKTsN\nCiAgICAgICAgZm9yKGludCBpID0gMDsgaSA8IG47IGkrKyl7DQogICAgICAg\nICAgICBmb3IoaW50IGogPSAwOyBqIDwgbjsgaisrKXsNCiAgICAgICAgICAg\nICAgICBTeXN0ZW0ub3V0LnByaW50KHJvdGF0ZWRbaV1bal0gKyAiICIpOw0K\nICAgICAgICAgICAgfQ0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxu\nKCk7DQogICAgICAgIH0NCg0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAg\nfQ0KfQ==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/f00d4128c25784884b11d1bba3a790e485b1ff1e/2D_Array/Array2D_14.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/1120539b4de0a58e2ca1f7711211f4039f81c2c1', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/f00d4128c25784884b11d1bba3a790e485b1ff1e/2D_Array/Array2D_14.java', 'name': 'Array2D_14.java', 'path': '2D_Array/Array2D_14.java', 'sha': '1120539b4de0a58e2ca1f7711211f4039f81c2c1', 'size': 1129, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_14.java?ref=f00d4128c25784884b11d1bba3a790e485b1ff1e'}
+import java.util.Scanner;
+
+class Array2D_14 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int n = scan.nextInt();
+        int[][] arr = new int[n][n];
+        int[][] rotated = new int[n][n];
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++){
+                arr[i][j] = scan.nextInt();
+            }
+        }
+        System.out.println("Original Matrix:");
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++){
+                System.out.print(arr[i][j] + " ");
+            }
+            System.out.println();
+        }
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++){
+                rotated[j][n - 1 - i] = arr[i][j];
+            }
+        }
+        System.out.println();
+        System.out.println("Rotated Matrix (90 deg clockwise):");
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++){
+                System.out.print(rotated[i][j] + " ");
+            }
+            System.out.println();
+        }
+
+        scan.close();
+    }
+}

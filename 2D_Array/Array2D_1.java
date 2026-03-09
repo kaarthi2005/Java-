@@ -1,1 +1,37 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9a352ab05d4213b246ccf0158362f609154c3837', 'html': 'https://github.com/kaarthi2005/Java-/blob/050c19c62ee653e23110b9b1205d484a71e011de/2D_Array/Array2D_1.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_1.java?ref=050c19c62ee653e23110b9b1205d484a71e011de'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOwoKcHVibGljIGNsYXNzIEFycmF5\nMkRfMSB7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBh\ncmdzKSB7CiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIoU3lz\ndGVtLmluKTsKCiAgICAgICAgaW50IHN0dWRlbnRzID0gc2Nhbi5uZXh0SW50\nKCk7CiAgICAgICAgaW50IHN1YmplY3RzID0gc2Nhbi5uZXh0SW50KCk7Cgog\nICAgICAgIGludFtdW10gZ3JhZGVzID0gbmV3IGludFtzdHVkZW50c11bc3Vi\namVjdHNdOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgc3R1ZGVudHM7\nIGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IHN1Ympl\nY3RzOyBqKyspIHsKICAgICAgICAgICAgICAgIGdyYWRlc1tpXVtqXSA9IHNj\nYW4ubmV4dEludCgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAg\nIFN5c3RlbS5vdXQucHJpbnRsbigiU3R1ZGVudCBBdmVyYWdlczoiKTsKICAg\nICAgICBmb3IgKGludCBpID0gMDsgaSA8IHN0dWRlbnRzOyBpKyspIHsKICAg\nICAgICAgICAgaW50IHN1bSA9IDA7CiAgICAgICAgICAgIGZvciAoaW50IGog\nPSAwOyBqIDwgc3ViamVjdHM7IGorKykgewogICAgICAgICAgICAgICAgc3Vt\nICs9IGdyYWRlc1tpXVtqXTsKICAgICAgICAgICAgfQogICAgICAgICAgICBk\nb3VibGUgYXZnID0gKGRvdWJsZSkgc3VtIC8gc3ViamVjdHM7CiAgICAgICAg\nICAgIFN5c3RlbS5vdXQucHJpbnRmKCJTdHVkZW50ICVkOiAlLjJmXG4iLCAo\naSArIDEpLCBhdmcpOwogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnBy\naW50bG4oKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlN1YmplY3Qg\nQXZlcmFnZXM6Iik7CiAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBzdWJq\nZWN0czsgaisrKSB7CiAgICAgICAgICAgIGludCBzdW0gPSAwOwogICAgICAg\nICAgICBmb3IgKGludCBpID0gMDsgaSA8IHN0dWRlbnRzOyBpKyspIHsKICAg\nICAgICAgICAgICAgIHN1bSArPSBncmFkZXNbaV1bal07CiAgICAgICAgICAg\nIH0KICAgICAgICAgICAgZG91YmxlIGF2ZyA9IChkb3VibGUpIHN1bSAvIHN0\ndWRlbnRzOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU3ViamVj\ndCAlZDogJS4yZlxuIiwgKGogKyAxKSwgYXZnKTsKICAgICAgICB9CiAgICAg\nICAgc2Nhbi5jbG9zZSgpOwogICAgfQp9Cg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/050c19c62ee653e23110b9b1205d484a71e011de/2D_Array/Array2D_1.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/9a352ab05d4213b246ccf0158362f609154c3837', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/050c19c62ee653e23110b9b1205d484a71e011de/2D_Array/Array2D_1.java', 'name': 'Array2D_1.java', 'path': '2D_Array/Array2D_1.java', 'sha': '9a352ab05d4213b246ccf0158362f609154c3837', 'size': 1195, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_1.java?ref=050c19c62ee653e23110b9b1205d484a71e011de'}
+import java.util.Scanner;
+
+public class Array2D_1 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int students = scan.nextInt();
+        int subjects = scan.nextInt();
+
+        int[][] grades = new int[students][subjects];
+        for (int i = 0; i < students; i++) {
+            for (int j = 0; j < subjects; j++) {
+                grades[i][j] = scan.nextInt();
+            }
+        }
+        System.out.println("Student Averages:");
+        for (int i = 0; i < students; i++) {
+            int sum = 0;
+            for (int j = 0; j < subjects; j++) {
+                sum += grades[i][j];
+            }
+            double avg = (double) sum / subjects;
+            System.out.printf("Student %d: %.2f\n", (i + 1), avg);
+        }
+        System.out.println();
+        System.out.println("Subject Averages:");
+        for (int j = 0; j < subjects; j++) {
+            int sum = 0;
+            for (int i = 0; i < students; i++) {
+                sum += grades[i][j];
+            }
+            double avg = (double) sum / students;
+            System.out.printf("Subject %d: %.2f\n", (j + 1), avg);
+        }
+        scan.close();
+    }
+}
