@@ -1,1 +1,30 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/4f63989209dd30153a2f7fc760b0d58100cdd3a1', 'html': 'https://github.com/kaarthi2005/Java-/blob/ed0095bff3e6e8e492ad405f0fd793a33e539de6/2D_Array/Array2D_17.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_17.java?ref=ed0095bff3e6e8e492ad405f0fd793a33e539de6'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkyRF8xNyB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBpbnQgciA9IChuKjIpLTE7DQogICAgICAgIGZvcihpbnQg\naT0wIDtpPHIgO2krKyl7DQogICAgICAgICAgICBmb3IoaW50IGo9MCA7ajxy\nO2orKyl7DQogICAgICAgICAgICAgICAgaW50IHRvcCA9IGk7DQogICAgICAg\nICAgICAgICAgaW50IGxlZnQgPSBqOw0KICAgICAgICAgICAgICAgIGludCBy\naWdodCA9IChyLTEpLWo7DQogICAgICAgICAgICAgICAgaW50IGJvdHRvbSA9\nIChyLTEpLWk7DQogICAgICAgICAgICAgICAgaW50IG1heCA9IHRvcDsNCiAg\nICAgICAgICAgICAgICBpZihsZWZ0PG1heCl7DQogICAgICAgICAgICAgICAg\nICAgIG1heCA9IGxlZnQ7DQogICAgICAgICAgICAgICAgfQ0KICAgICAgICAg\nICAgICAgIGlmKHJpZ2h0PG1heCl7DQogICAgICAgICAgICAgICAgICAgIG1h\neCA9IHJpZ2h0Ow0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgICAg\nICAgaWYoYm90dG9tPG1heCl7DQogICAgICAgICAgICAgICAgICAgIG1heCA9\nIGJvdHRvbTsNCiAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICAgICAg\nU3lzdGVtLm91dC5wcmludChuLW1heCsiICIpOw0KICAgICAgICAgICAgfQ0K\nICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7DQogICAgICAgIH0N\nCiAgICAgICAgc2Nhbi5jbG9zZSgpOw0KICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/ed0095bff3e6e8e492ad405f0fd793a33e539de6/2D_Array/Array2D_17.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/4f63989209dd30153a2f7fc760b0d58100cdd3a1', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/ed0095bff3e6e8e492ad405f0fd793a33e539de6/2D_Array/Array2D_17.java', 'name': 'Array2D_17.java', 'path': '2D_Array/Array2D_17.java', 'sha': '4f63989209dd30153a2f7fc760b0d58100cdd3a1', 'size': 844, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_17.java?ref=ed0095bff3e6e8e492ad405f0fd793a33e539de6'}
+import java.util.Scanner;
+
+public class Array2D_17 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int r = (n*2)-1;
+        for(int i=0 ;i<r ;i++){
+            for(int j=0 ;j<r;j++){
+                int top = i;
+                int left = j;
+                int right = (r-1)-j;
+                int bottom = (r-1)-i;
+                int max = top;
+                if(left<max){
+                    max = left;
+                }
+                if(right<max){
+                    max = right;
+                }
+                 if(bottom<max){
+                    max = bottom;
+                }
+                System.out.print(n-max+" ");
+            }
+            System.out.println();
+        }
+        scan.close();
+    }
+}

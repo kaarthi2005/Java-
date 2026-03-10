@@ -1,1 +1,30 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3e732e51cd70619fbabe2c47f013799e528e6ee0', 'html': 'https://github.com/kaarthi2005/Java-/blob/a372534ac981a72a0b500b873920dd7df79b8c11/2D_Array/Array2D_15.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_15.java?ref=a372534ac981a72a0b500b873920dd7df79b8c11'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkyRF8xNSB7DQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5n\nW10gYXJncykgew0KICAgICAgICBTY2FubmVyIHNjYW4gPSBuZXcgU2Nhbm5l\ncihTeXN0ZW0uaW4pOw0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4dEludCgp\nOw0KICAgICAgICBpbnQgW11bXSBhcnIgPSBuZXcgaW50IFtuXVtdOw0KICAg\nICAgICBpbnQgIGNvdW50ID0gMDsNCiAgICAgICAgZm9yKGludCBpPTAgO2k8\nbjtpKyspew0KICAgICAgICAgICAgaW50IHggPSBzY2FuLm5leHRJbnQoKTsN\nCiAgICAgICAgICAgIGFycltpXSA9IG5ldyBpbnRbeF07DQogICAgICAgICAg\nICBmb3IoaW50IGo9MCA7ajx4IDtqKyspew0KICAgICAgICAgICAgICAgIGFy\ncltpXVtqXSA9IHNjYW4ubmV4dEludCgpOw0KICAgICAgICAgICAgICAgIGNv\ndW50Kys7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCiAgICAgICAgZm9y\nKGludCBpPTAgO2k8biA7aSsrKXsNCiAgICAgICAgICAgICBTeXN0ZW0ub3V0\nLnByaW50KCJEZXB0ICIrKGkrMSkrIiA6ICIpOw0KICAgICAgICAgICAgZm9y\nKGludCBqPTAgO2o8YXJyW2ldLmxlbmd0aDtqKyspew0KICAgICAgICAgICAg\nICAgU3lzdGVtLm91dC5wcmludChhcnJbaV1bal0gKyIgIik7DQogICAgICAg\nICAgICB9DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsNCiAg\nICAgICAgfQ0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsNCiAgICAg\nICAgU3lzdGVtLm91dC5wcmludGxuKCJUb3RhbCBFbXBsb3llZXM6ICIrY291\nbnQpOw0KICAgICAgICANCg0KICAgICAgICBzY2FuLmNsb3NlKCk7DQogICAg\nfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/a372534ac981a72a0b500b873920dd7df79b8c11/2D_Array/Array2D_15.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/3e732e51cd70619fbabe2c47f013799e528e6ee0', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/a372534ac981a72a0b500b873920dd7df79b8c11/2D_Array/Array2D_15.java', 'name': 'Array2D_15.java', 'path': '2D_Array/Array2D_15.java', 'sha': '3e732e51cd70619fbabe2c47f013799e528e6ee0', 'size': 861, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_15.java?ref=a372534ac981a72a0b500b873920dd7df79b8c11'}
+import java.util.Scanner;
+
+public class Array2D_15 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int [][] arr = new int [n][];
+        int  count = 0;
+        for(int i=0 ;i<n;i++){
+            int x = scan.nextInt();
+            arr[i] = new int[x];
+            for(int j=0 ;j<x ;j++){
+                arr[i][j] = scan.nextInt();
+                count++;
+            }
+        }
+        for(int i=0 ;i<n ;i++){
+             System.out.print("Dept "+(i+1)+" : ");
+            for(int j=0 ;j<arr[i].length;j++){
+               System.out.print(arr[i][j] +" ");
+            }
+            System.out.println();
+        }
+        System.out.println();
+        System.out.println("Total Employees: "+count);
+        
+
+        scan.close();
+    }
+}
