@@ -1,1 +1,27 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/ff3f73b5c8ec85da0b6f1585228c2a6768975c39', 'html': 'https://github.com/kaarthi2005/Java-/blob/9693ce0fc9d9ef5da9c8200211cf5a38f5bffa4e/2D_Array/Array2D_21.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_21.java?ref=9693ce0fc9d9ef5da9c8200211cf5a38f5bffa4e'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgQXJy\nYXkyRF8yMXsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdb\nXSBhcmdzKSB7DQogICAgICAgIFNjYW5uZXIgc2NhbiA9IG5ldyBTY2FubmVy\nKFN5c3RlbS5pbik7DQogICAgICAgIGludCBuID0gc2Nhbi5uZXh0SW50KCk7\nDQogICAgICAgIGludCBudW1bXSA9IG5ldyBpbnRbbl07DQogICAgICAgIGlu\ndCBhbnN3ZXIgW109IG5ldyBpbnQgW25dOw0KDQogICAgICAgIGZvcihpbnQg\naT0wIDtpPG4gO2krKyl7DQogICAgICAgICAgICBudW1baV0gPSBzY2FuLm5l\neHRJbnQoKTsNCiAgICAgICAgfQ0KICAgICAgICBhbnN3ZXJbMF0gPSAxOw0K\nICAgICAgICBmb3IoaW50IGk9MSA7aTxuIDtpKyspew0KICAgICAgICAgICAg\nYW5zd2VyW2ldID0gYW5zd2VyW2ktMV0gKiBudW1baS0xXTsNCiAgICAgICAg\nfQ0KICAgICAgICBpbnQgc3VmZml4ID0gMTsNCiAgICAgICAgZm9yKGludCBp\nPW4tMSA7aT49MCA7aS0tKXsNCiAgICAgICAgICAgIGFuc3dlcltpXSA9IGFu\nc3dlcltpXSpzdWZmaXg7DQogICAgICAgICAgICBzdWZmaXggPSBzdWZmaXgq\nbnVtW2ldOw0KICAgICAgICB9DQogICAgICAgIGZvcihpbnQgaT0wIDtpPG4g\nO2krKyl7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGFuc3dlcltp\nXSsiICIpOw0KICAgICAgICB9DQogICAgICAgIHNjYW4uY2xvc2UoKTsNCiAg\nICB9DQp9\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/9693ce0fc9d9ef5da9c8200211cf5a38f5bffa4e/2D_Array/Array2D_21.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/ff3f73b5c8ec85da0b6f1585228c2a6768975c39', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/9693ce0fc9d9ef5da9c8200211cf5a38f5bffa4e/2D_Array/Array2D_21.java', 'name': 'Array2D_21.java', 'path': '2D_Array/Array2D_21.java', 'sha': 'ff3f73b5c8ec85da0b6f1585228c2a6768975c39', 'size': 726, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/2D_Array/Array2D_21.java?ref=9693ce0fc9d9ef5da9c8200211cf5a38f5bffa4e'}
+import java.util.Scanner;
+
+public class Array2D_21{
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int num[] = new int[n];
+        int answer []= new int [n];
+
+        for(int i=0 ;i<n ;i++){
+            num[i] = scan.nextInt();
+        }
+        answer[0] = 1;
+        for(int i=1 ;i<n ;i++){
+            answer[i] = answer[i-1] * num[i-1];
+        }
+        int suffix = 1;
+        for(int i=n-1 ;i>=0 ;i--){
+            answer[i] = answer[i]*suffix;
+            suffix = suffix*num[i];
+        }
+        for(int i=0 ;i<n ;i++){
+            System.out.print(answer[i]+" ");
+        }
+        scan.close();
+    }
+}
