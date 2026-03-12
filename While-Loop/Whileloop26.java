@@ -1,1 +1,54 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/7d801bb16985bfaf6fa549eeb4ad815011892343', 'html': 'https://github.com/kaarthi2005/Java-/blob/1cd387ab14e3db9a939f73012d80e30dee6dbe6b/While-Loop/Whileloop26.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop26.java?ref=1cd387ab14e3db9a939f73012d80e30dee6dbe6b'}, 'content': 'aW1wb3J0IGphdmEudXRpbC4qOw0KDQpwdWJsaWMgY2xhc3MgV2hpbGVsb29w\nMjYgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFy\nZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIoU3lz\ndGVtLmluKTsNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJbnQoKTsNCiAg\nICAgICAgaW50IGNvdW50ID0gMDsNCiAgICAgICAgaW50IHJlbSA9IDA7DQog\nICAgICAgIGludCBudW0gPSAwOw0KICAgICAgICB3aGlsZSAobj4wKXsNCiAg\nICAgICAgICAgIGNvdW50Kys7DQogICAgICAgICAgICBpZihuJTI9PTApew0K\nICAgICAgICAgICAgICAgIG51bSA9IDA7DQogICAgICAgICAgICB9ZWxzZXsN\nCiAgICAgICAgICAgICAgICBudW0gPSAxOw0KICAgICAgICAgICAgfQ0KDQog\nICAgICAgICAgICByZW0gPSAocmVtKjEwKStudW07DQogICAgICAgICAgICBu\nID0gbi8yOw0KICAgICAgICB9ICANCiAgICAgICAgaW50IGNvdW50MSA9IDA7\nDQogICAgICAgIGludCBuMSA9IHJlbTsNCiAgICAgICAgd2hpbGUgKG4xPjAp\nIHsNCiAgICAgICAgICAgIGNvdW50MSsrOw0KICAgICAgICAgICAgbjEvPTEw\nOw0KICAgICAgICB9DQogICAgICAgIGludCB0b3RhbCA9IGNvdW50LWNvdW50\nMTsNCiAgICAgICAgaW50IGEgPSAwIDsNCiAgICAgICAgaWYoY291bnQhPWNv\ndW50MSl7DQogICAgICAgICAgICBTdHJpbmcgY2ggPSAiMCI7DQogICAgICAg\nICAgU3RyaW5nIHN0ciA9IEludGVnZXIudG9TdHJpbmcocmVtKTsNCiAgICAg\nICAgICB3aGlsZSAodG90YWwgIT0gMCkgew0KICAgICAgICAgICAgc3RyICs9\nIGNoOw0KICAgICAgICAgICAgdG90YWwtLTsNCiAgICAgICAgICB9DQogICAg\nICAgICAgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKHN0\ncik7DQogICAgICAgICAgc2IucmV2ZXJzZSgpOw0KICAgICAgICAgDQogICAg\nICAgICAgIGE9IEludGVnZXIucGFyc2VJbnQoc2IudG9TdHJpbmcoKSk7DQog\nICAgICAgIGludCBzdW0gPSAwOw0KICAgICAgICBpbnQgbnVtMiA9IDE7DQog\nICAgICAgIHdoaWxlIChhPjApIHsNCiAgICAgICAgICAgIGludCByZW0yID0g\nYSUxMDsNCiAgICAgICAgICAgIGlmKHJlbTIgPT0gMSl7DQogICAgICAgICAg\nICAgICAgc3VtICs9IG51bTI7DQogICAgICAgICAgICB9DQogICAgICAgICAg\nICBudW0yID0gbnVtMiAqIDI7DQogICAgICAgICAgICBhLz0xMDsNCiAgICAg\nICAgfQ0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3VtKTsNCiAgICAg\nICAgc2Nhbi5jbG9zZSgpOw0KICAgIH0NCn0NCn0=\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/1cd387ab14e3db9a939f73012d80e30dee6dbe6b/While-Loop/Whileloop26.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/7d801bb16985bfaf6fa549eeb4ad815011892343', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/1cd387ab14e3db9a939f73012d80e30dee6dbe6b/While-Loop/Whileloop26.java', 'name': 'Whileloop26.java', 'path': 'While-Loop/Whileloop26.java', 'sha': '7d801bb16985bfaf6fa549eeb4ad815011892343', 'size': 1289, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop26.java?ref=1cd387ab14e3db9a939f73012d80e30dee6dbe6b'}
+import java.util.*;
+
+public class Whileloop26 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int count = 0;
+        int rem = 0;
+        int num = 0;
+        while (n>0){
+            count++;
+            if(n%2==0){
+                num = 0;
+            }else{
+                num = 1;
+            }
+
+            rem = (rem*10)+num;
+            n = n/2;
+        }  
+        int count1 = 0;
+        int n1 = rem;
+        while (n1>0) {
+            count1++;
+            n1/=10;
+        }
+        int total = count-count1;
+        int a = 0 ;
+        if(count!=count1){
+            String ch = "0";
+          String str = Integer.toString(rem);
+          while (total != 0) {
+            str += ch;
+            total--;
+          }
+          StringBuilder sb = new StringBuilder(str);
+          sb.reverse();
+         
+           a= Integer.parseInt(sb.toString());
+        int sum = 0;
+        int num2 = 1;
+        while (a>0) {
+            int rem2 = a%10;
+            if(rem2 == 1){
+                sum += num2;
+            }
+            num2 = num2 * 2;
+            a/=10;
+        }
+        System.out.println(sum);
+        scan.close();
+    }
+}
+}
