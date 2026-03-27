@@ -31,7 +31,7 @@ public class Array1D_12 {
         double average = total / n;
 
         System.out.println("Hours Monitored: " + n);
-        System.out.printf("Total Daily Consumption: %.2f kWh\n", total);
+        System.out.printf("Total Daily Consumption:" %.2f kWh\n", total);
         System.out.printf("Peak Hour: Hour %d (%.2f kWh)\n", peakHour + 1, max);
         System.out.printf("Average Hourly: %.2f kWh\n", average);
         System.out.printf("Daily Limit: %.2f kWh\n", dailyLimit);
