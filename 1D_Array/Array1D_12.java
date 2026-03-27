@@ -1,1 +1,48 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/721a55db5489290415693f90445d4eba58aec92f', 'html': 'https://github.com/kaarthi2005/Java-/blob/104fdb0c056d3bd984f057b3120a4b693864efe6/1D_Array/Array1D_12.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_12.java?ref=104fdb0c056d3bd984f057b3120a4b693864efe6'}, 'content': 'DQppbXBvcnQgamF2YS51dGlsLlNjYW5uZXI7DQoNCnB1YmxpYyBjbGFzcyBB\ncnJheTFEXzEyIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJp\nbmdbXSBhcmdzKSB7DQoNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNj\nYW5uZXIoU3lzdGVtLmluKTsNCg0KICAgICAgICBpbnQgbiA9IHNjYW4ubmV4\ndEludCgpOw0KICAgICAgICBkb3VibGVbXSBhcnIgPSBuZXcgZG91YmxlW25d\nOw0KDQogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgaSsrKSB7DQog\nICAgICAgICAgICBhcnJbaV0gPSBzY2FuLm5leHREb3VibGUoKTsNCiAgICAg\nICAgfQ0KDQogICAgICAgIGRvdWJsZSBkYWlseUxpbWl0ID0gc2Nhbi5uZXh0\nRG91YmxlKCk7DQoNCiAgICAgICAgZG91YmxlIHRvdGFsID0gMDsNCiAgICAg\nICAgZG91YmxlIG1heCA9IGFyclswXTsNCiAgICAgICAgaW50IHBlYWtIb3Vy\nID0gMDsNCg0KICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG47IGkrKykg\new0KICAgICAgICAgICAgdG90YWwgKz0gYXJyW2ldOw0KDQogICAgICAgICAg\nICBpZiAoYXJyW2ldID4gbWF4KSB7DQogICAgICAgICAgICAgICAgbWF4ID0g\nYXJyW2ldOw0KICAgICAgICAgICAgICAgIHBlYWtIb3VyID0gaTsNCiAgICAg\nICAgICAgIH0NCiAgICAgICAgfQ0KDQogICAgICAgIGRvdWJsZSBhdmVyYWdl\nID0gdG90YWwgLyBuOw0KDQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi\nSG91cnMgTW9uaXRvcmVkOiAiICsgbik7DQogICAgICAgIFN5c3RlbS5vdXQu\ncHJpbnRmKCJUb3RhbCBEYWlseSBDb25zdW1wdGlvbjoiICUuMmYga1doXG4i\nLCB0b3RhbCk7DQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJQZWFrIEhv\ndXI6IEhvdXIgJWQgKCUuMmYga1doKVxuIiwgcGVha0hvdXIgKyAxLCBtYXgp\nOw0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiQXZlcmFnZSBIb3VybHk6\nICUuMmYga1doXG4iLCBhdmVyYWdlKTsNCiAgICAgICAgU3lzdGVtLm91dC5w\ncmludGYoIkRhaWx5IExpbWl0OiAlLjJmIGtXaFxuIiwgZGFpbHlMaW1pdCk7\nDQoNCiAgICAgICAgaWYgKHRvdGFsIDw9IGRhaWx5TGltaXQpIHsNCiAgICAg\nICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3RhdHVzOiBXaXRoaW4gTGlt\naXQiKTsNCiAgICAgICAgfSBlbHNlIHsNCiAgICAgICAgICAgIGRvdWJsZSBk\naWZmID0gdG90YWwgLSBkYWlseUxpbWl0Ow0KICAgICAgICAgICAgU3lzdGVt\nLm91dC5wcmludGYoIlN0YXR1czogRXhjZWVkZWQgYnkgJS4yZiBrV2hcbiIs\nIGRpZmYpOw0KICAgICAgICB9DQoNCiAgICAgICAgc2Nhbi5jbG9zZSgpOw0K\nICAgIH0NCn0NCg==\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/104fdb0c056d3bd984f057b3120a4b693864efe6/1D_Array/Array1D_12.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/721a55db5489290415693f90445d4eba58aec92f', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/104fdb0c056d3bd984f057b3120a4b693864efe6/1D_Array/Array1D_12.java', 'name': 'Array1D_12.java', 'path': '1D_Array/Array1D_12.java', 'sha': '721a55db5489290415693f90445d4eba58aec92f', 'size': 1315, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/1D_Array/Array1D_12.java?ref=104fdb0c056d3bd984f057b3120a4b693864efe6'}
+
+import java.util.Scanner;
+
+public class Array1D_12 {
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+
+        int n = scan.nextInt();
+        double[] arr = new double[n];
+
+        for (int i = 0; i < n; i++) {
+            arr[i] = scan.nextDouble();
+        }
+
+        double dailyLimit = scan.nextDouble();
+
+        double total = 0;
+        double max = arr[0];
+        int peakHour = 0;
+
+        for (int i = 0; i < n; i++) {
+            total += arr[i];
+
+            if (arr[i] > max) {
+                max = arr[i];
+                peakHour = i;
+            }
+        }
+
+        double average = total / n;
+
+        System.out.println("Hours Monitored: " + n);
+        System.out.printf("Total Daily Consumption:" %.2f kWh\n", total);
+        System.out.printf("Peak Hour: Hour %d (%.2f kWh)\n", peakHour + 1, max);
+        System.out.printf("Average Hourly: %.2f kWh\n", average);
+        System.out.printf("Daily Limit: %.2f kWh\n", dailyLimit);
+
+        if (total <= dailyLimit) {
+            System.out.println("Status: Within Limit");
+        } else {
+            double diff = total - dailyLimit;
+            System.out.printf("Status: Exceeded by %.2f kWh\n", diff);
+        }
+
+        scan.close();
+    }
+}
