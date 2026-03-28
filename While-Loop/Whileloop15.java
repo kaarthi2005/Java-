@@ -1,1 +1,29 @@
-{'_links': {'git': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/836f75a2011659afa4a734891a5362d57edf9f1a', 'html': 'https://github.com/kaarthi2005/Java-/blob/e79f9ed723a2cb7140fe87b3af280c6d0dee6551/While-Loop/Whileloop15.java', 'self': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop15.java?ref=e79f9ed723a2cb7140fe87b3af280c6d0dee6551'}, 'content': 'aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOw0KDQpwdWJsaWMgY2xhc3MgV2hp\nbGVsb29wMTUgew0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmlu\nZ1tdIGFyZ3MpIHsNCiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5u\nZXIoU3lzdGVtLmluKTsNCiAgICAgICAgaW50IG4gPSBzY2FuLm5leHRJbnQo\nKTsNCiAgICAgICAgaW50IGNvdW50ID0gMDsNCiAgICAgICAgYm9vbGVhbiBm\nbGFnID0gdHJ1ZTsNCiAgICAgICAgZG97DQogICAgICAgICAgICBpZihuPT0x\nKXsNCiAgICAgICAgICAgICAgICBmbGFnID0gZmFsc2U7DQogICAgICAgICAg\nICB9DQogICAgICAgICAgICBjb3VudCsrOw0KICAgICAgICAgICAgaWYoY291\nbnQgPT0gMSl7DQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNv\nbGxhdHp6eiBzZXF1ZW5jZSBzdGFydGluZyBmcm9tICIrbisiOiIpOw0KICAg\nICAgICAgICAgfQ0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChuKyIg\nIik7DQogICAgICAgICAgICBpZihuJTI9PTApew0KICAgICAgICAgICAgICAg\nIG4gPSBuLzI7DQogICAgICAgICAgICB9ZWxzZSB7DQogICAgICAgICAgICAg\nICAgbiA9IDMqbisxOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgDQog\nICAgICAgIH0NCiAgICAgICAgd2hpbGUoZmxhZyk7DQogICAgICAgIFN5c3Rl\nbS5vdXQucHJpbnRsbigiXG5TdGVwczogIisoY291bnQtMSkpOw0KICAgICAg\nICBzY2FuLmNsb3NlKCk7DQogICAgfQ0KfQ0K\n', 'download_url': 'https://raw.githubusercontent.com/kaarthi2005/Java-/e79f9ed723a2cb7140fe87b3af280c6d0dee6551/While-Loop/Whileloop15.java', 'encoding': 'base64', 'git_url': 'https://api.github.com/repos/kaarthi2005/Java-/git/blobs/836f75a2011659afa4a734891a5362d57edf9f1a', 'html_url': 'https://github.com/kaarthi2005/Java-/blob/e79f9ed723a2cb7140fe87b3af280c6d0dee6551/While-Loop/Whileloop15.java', 'name': 'Whileloop15.java', 'path': 'While-Loop/Whileloop15.java', 'sha': '836f75a2011659afa4a734891a5362d57edf9f1a', 'size': 747, 'type': 'file', 'url': 'https://api.github.com/repos/kaarthi2005/Java-/contents/While-Loop/Whileloop15.java?ref=e79f9ed723a2cb7140fe87b3af280c6d0dee6551'}
+import java.util.Scanner;
+
+public class Whileloop15 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int count = 0;
+        boolean flag = true;
+        do{
+            if(n==1){
+                flag = false;
+            }
+            count++;
+            if(count == 1){
+            System.out.println("Collatzzz sequence starting from "+n+":");
+            }
+            System.out.print(n+" ");
+            if(n%2==0){
+                n = n/2;
+            }else {
+                n = 3*n+1;
+            }
+            
+        }
+        while(flag);
+        System.out.println("\nSteps: "+(count-1));
+        scan.close();
+    }
+}
