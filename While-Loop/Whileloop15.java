@@ -12,7 +12,7 @@ public class Whileloop15 {
             }
             count++;
             if(count == 1){
-            System.out.println("Collatz sequence starting from "+n+":");
+            System.out.println("Collatzz sequence starting from "+n+":");
             }
             System.out.print(n+" ");
             if(n%2==0){
