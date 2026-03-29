@@ -5,7 +5,7 @@ public class probelm15 {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter a total no of Room: ");
         int room = scan.nextInt();
-        System.out.println("Enter a room price: ");
+        System.out.println("Enter a  room price: ");
 
         int price = scan.nextInt();
         System.out.println("Enter a servicecharge: ");
