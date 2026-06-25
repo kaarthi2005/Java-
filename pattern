@@ -1,0 +1,138 @@
+import java.util.*;
+
+public class Pattern1{
+     static Scanner scan = new Scanner (System.in);
+    public static void main(String[] args) {
+       
+       // Pattern1();
+       //Pattern2();
+       //Pattern3();
+       //Pattern4();
+        //Pattern5();
+        //Pattern6();
+       //Pattern7();
+       //Pattern8();
+       Pattern9();
+       scan.close();
+    }
+    public static void Pattern1(){
+        int n = scan.nextInt();
+        for(int i =0 ;i< n ;i ++){
+            for(int j=0 ;j<n ;j++){
+                System.out.print("* ");
+            }System.out.println();
+        }
+    }
+    public static void Pattern2(){
+        int n = scan.nextInt();
+        for(int i = 0; i< n ;i++){
+            for(int j = 1; j<i ; j++){
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+
+    public static void Pattern3(){
+        int n = scan.nextInt();
+        for(int i = 1;i<= n ;i++){
+            for(int j = 1;j< i+1;j++){
+                System.out.print(j+" ");
+            }System.out.println();
+        }
+    }
+
+
+    public static void Pattern4(){
+        int n = scan.nextInt();
+        for(int i = 1 ;i <= n;i++){
+            for(int j = 1 ;j< i+1 ;j++){
+                System.out.print(i+" ");
+            }System.out.println();
+        }
+    }
+    public static void Pattern5(){
+        int n = scan.nextInt();
+        for(int i = 1 ;i <= n ;i++){
+            for(int j = n ;j >= i ;j--){
+                System.out.print("* ");
+            }System.out.println();
+        }
+    }
+
+     public static void Pattern6(){
+        int n = scan.nextInt();
+       
+        for(int i = 1 ;i <= n ;i++){
+            int k = 1;
+            for(int j = n ;j >= i ;j--){
+                System.out.print(k+" ");
+                k++;
+            }System.out.println();
+        }
+    }
+
+    public static void Pattern7(){
+        int n = scan.nextInt();
+        int space = n;
+        int star = 1;
+        for(int i=1 ; i<= n ;i++){
+            // for initialize space x 
+            for(int j= space ;j >0 ;j--){
+                System.out.print(" ");
+            }
+            // for initialize star x
+            for(int k = 1 ;k <= star  ;k++){
+                System.out.print("*");
+            }System.out.println();
+            space--;
+            star +=2;
+        }
+    }
+
+
+    public static void Pattern8(){
+        int n = scan.nextInt();
+        int star = (n*2)-1;
+        int space = 0;
+        for(int i =1 ;i<= n;i++){
+            for(int k=space ;k >0 ;k--){
+                System.out.print(" ");
+            }
+            for(int j= star ;j>0;j--){
+                System.out.print("*");
+            }
+            System.out.println();
+            star -=2;
+            
+            space++;
+        }
+    }
+
+    public static void Pattern9(){
+        int n = scan.nextInt();
+        int space = n/2;
+        int star = 1;
+
+        for(int i= 1 ;i<=n ;i++){
+            if(i <= n / 2 ){
+                for(int j = space;j>0;j--){
+                    System.out.print(" ");
+                }for(int k = star;k>0;k--){
+                    System.out.print("*");
+                }System.out.println();
+                space--;
+                star +=2;
+            }else{
+                for(int l = space;l>0;l--){
+                    System.out.print(" ");
+                }for(int m = star;m>0;m--){
+                    System.out.print("*");
+                }System.out.println();
+                space++;
+                star-=2;
+            }
+        }
+    }
+
+}
