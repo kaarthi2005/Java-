@@ -31,7 +31,7 @@ public class Conditonal10 {
         float totalCost = (powerConsumption*baseRate*rateMultiplier)-renewableCredit;
 
         System.out.println("Time of Day: "+timeOfDay);
-        System.out.println("Power Consumption: "+powerConsumption+" kWh");
+        System.out.println("Power  Consumption: "+powerConsumption+" kWh");
         System.out.println("Renewable Energy: "+renewablePercentage+" %");
         System.out.println("Rate Tier: "+rateTier);
         System.out.println("Base Rate: $"+baseRate+"/kWh");
