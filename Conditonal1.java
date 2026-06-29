@@ -7,7 +7,7 @@ public class Conditonal1 {
         int performanceRating = scan.nextInt();
          int yearsOfService = scan.nextInt();
 
-         System.out.print("Enter deparment press1 Critical or press0 Non-Critical : ");
+         System.out.print("Enter  deparment press1 Critical or press0 Non-Critical : ");
         
           int departmentType = scan.nextInt();
            float baseSalary = scan.nextFloat();
