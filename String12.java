@@ -34,7 +34,7 @@ public class String12 {
             }
 
             fields.add(current.toString().trim());
-            System.out.println(i + ". " + fields);
+            System.out.println(i + ". " +  fields);
         }
 
         sc.close();
