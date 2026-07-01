@@ -50,7 +50,7 @@ public class String2 {
                 System.out.println(i + ". " + password + " - Strong");
             } else {
                 reason = reason.substring(0, reason.length() - 2);
-                System.out.println(i + ". " + password + " - Weak (" + reason + ")");
+                System.out.println(i + ". " + password  + " - Weak (" + reason + ")");
             }
         }
 
