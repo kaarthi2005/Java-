@@ -24,7 +24,7 @@ public class String3 {
 
         double ratio = ((double)(originalLength - compressedLength) / originalLength) * 100;
 
-        System.out.println("Original: " + input);
+        System.out.println("Original:  " + input);
         System.out.println("Compressed: " + compressed);
         System.out.printf("Compression Ratio: %.2f%%", ratio);
 
