@@ -8,7 +8,7 @@ public class String16 {
         int count = 0;
         for (int i = 0; i < n; i++) {
             String logEntry = sc.nextLine();
-            if (logEntry.contains("ERROR") || logEntry.contains("EXCEPTION")) {
+            if (logEntry.contains("ERROR ") || logEntry.contains("EXCEPTION")) {
                 logs[count] = logEntry;
                 count++;
             }
