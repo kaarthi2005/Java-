@@ -17,7 +17,7 @@ public class String14 {
             Matcher matcher = pattern.matcher(sentence);
             String result = matcher.replaceAll("<b>$0</b>");
 
-            System.out.println(i + ". " + result);
+            System.out.println(i + ".  " + result);
         }
 
         sc.close();
