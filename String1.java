@@ -10,7 +10,7 @@ public class String1 {
         int validCount = 0;
         int invalidCount = 0;
 
-        System.out.println("Email Validation Results:");
+        System.out.println("Email Validation Results: ");
 
         for (int i = 1; i <= n; i++) {
             String email = sc.nextLine();
