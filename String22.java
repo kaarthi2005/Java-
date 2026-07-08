@@ -48,7 +48,7 @@ public class String22 {
                 }
             }
 
-            System.out.println(i + ". " + ip + " -> " + (valid ? "Valid" : "Invalid"));
+            System.out.println(i + ".  " + ip + " -> " + (valid ? "Valid" : "Invalid"));
         }
 
         sc.close();
