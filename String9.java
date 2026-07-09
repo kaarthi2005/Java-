@@ -32,7 +32,7 @@ public class String9 {
             }
 
             if (result == 1) {
-                System.out.println(i + ". " + v1 + " vs " + v2 + " -> v1 is Newer");
+                System.out.println(i + ".  " + v1 + " vs " + v2 + " -> v1 is Newer");
             } else if (result == -1) {
                 System.out.println(i + ". " + v1 + " vs " + v2 + " -> v2 is Newer");
             } else {
