@@ -19,7 +19,7 @@ public class String20 {
         }
 
         System.out.println("CamelCase: " + camelStr);
-        System.out.println("SnakeCase: " + snakeStr.toString());
+        System.out.println("SnakeCase:  " + snakeStr.toString());
         sc.close();
     }
 }
