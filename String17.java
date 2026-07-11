@@ -10,7 +10,7 @@ public class String17 {
         
         for (int i = 1; i <= n; i++) {
             String expr = sc.nextLine();
-            System.out.println(i + ". " + expr + " -> " + (isValid(expr) ? "Valid" : "Invalid"));
+            System.out.println(i + ". " + expr + " ->  " + (isValid(expr) ? "Valid" : "Invalid"));
         }
         
         sc.close();
