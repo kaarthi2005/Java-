@@ -19,7 +19,7 @@ public class String18 {
             }
         }
 
-        System.out.println("Original: " + message);
+        System.out.println("Original:  " + message);
         System.out.println("Encrypted: " + encrypted.toString());
 
         sc.close();
