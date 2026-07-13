@@ -7,7 +7,7 @@ public class String10 {
 
         int n = sc.nextInt();
         sc.nextLine();
-        System.out.println("Masked Data:");
+        System.out.println("Masked Data :");
 
         for (int i = 1; i <= n; i++) {
             String s = sc.nextLine();
