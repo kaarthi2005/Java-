@@ -12,7 +12,7 @@ public class String13 {
         for (int i = 1; i <= n; i++) {
             String dna = sc.nextLine();
             String rna = dna.replace('T', 'U');
-            System.out.println(i + ". " + dna + " -> " + rna);
+            System.out.println(i + ".  " + dna + " -> " + rna);
         }
 
         sc.close();
