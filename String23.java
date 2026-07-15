@@ -7,7 +7,7 @@ public class String23 {
             reversed += input.charAt(i);
         }
 
-        System.out.println("Reversed string: " + reversed);
+        System.out.println("Reversed string:  " + reversed);
     }
     
 }  
