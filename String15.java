@@ -15,7 +15,7 @@ public class String15 {
             text = text.replaceAll("\\s+", " ");
             text = text.trim();
             
-            System.out.println(i + ".   " + text);
+            System.out.println(i + ".  " + text);
         }
         
         sc.close();
