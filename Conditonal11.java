@@ -16,7 +16,7 @@ public class Conditonal11 {
            baseDiscount = 15 ;
         }else  if(loyaltyStatus.equals("Silver")){
             baseDiscount = 10 ;
-        }else  if(loyaltyStatus.equals("Bronze")){
+        }else  if(loyaltyStatus.equals("Bronze ")){
             baseDiscount = 5 ;
         }else{
              baseDiscount = 0 ;
