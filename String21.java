@@ -39,7 +39,7 @@ public class String21 {
             if (valid) {
                 System.out.println(k + ". " + expr + " -> Valid");
             } else {
-                System.out.println(k + ". " + expr + " -> Invalid");
+                System.out.println(k + ". " + expr + " ->  Invalid");
             }
         }
         sc.close();
