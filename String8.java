@@ -22,7 +22,7 @@ public class String8 {
             Arrays.sort(b);
 
             if (Arrays.equals(a, b)) {
-                System.out.println(i + ". " + str1 + " & " + str2 + " -> Anagram");
+                System.out.println(i + ". " + str1 + " & " + str2 + " ->  Anagram");
             } else {
                 System.out.println(i + ". " + str1 + " & " + str2 + " -> Not Anagram");
             }
