@@ -37,7 +37,7 @@ public class String10 {
                 result = new StringBuilder(last4);
             }
 
-            System.out.println(i + ". " + result.toString());
+            System.out.println(i + " . " + result.toString());
         }
 
         sc.close();
