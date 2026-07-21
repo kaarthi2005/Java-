@@ -29,7 +29,7 @@ public class String6 {
             System.out.println(word + ": " + wordCount.get(word));
         }
 
-        System.out.println("Total Unique Words: " + wordCount.size());
+        System.out.println("Total  Unique  Words: " + wordCount.size());
 
         scanner.close();
     }
