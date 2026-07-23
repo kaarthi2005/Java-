@@ -9,7 +9,7 @@ public class String11 {
             String input = sc.nextLine();
             String sanitized = input.replace("'", "''");
 
-            System.out.println(i + ". " + input + " -> " + sanitized);
+            System.out.println(i + ".  + input + " -> " + sanitized);
         }
         sc.close();
     }
