@@ -36,7 +36,7 @@ public class String5 {
                 domain = domain + ch;
             }
 
-            System.out.println(i + ". " + url + " -> Domain: " + domain);
+            System.out.println(i + ". " + url + " -> Domain:  " + domain);
         }
 
         sc.close();
