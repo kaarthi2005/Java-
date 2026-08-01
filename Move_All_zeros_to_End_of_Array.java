@@ -12,7 +12,7 @@ public class Move_All_zeros_to_End_of_Array{
     String zero = "";
     List<Integer> list = new ArrayList<>();
 
-    for(int val : arr){
+    for(int val :  arr){
         if(val == 0){
             zero += String.valueOf(val);
         }else{
