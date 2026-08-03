@@ -20,8 +20,8 @@ public class String4 {
 
             if (original.equals(reverse)) {
                 System.out.println(i + ". " + sequence + " - Palindrome");
-            } else {
-                System.out.println(i + ". " + sequence + " - Not Palindrome");
+            } else { 
+                System.out.println(i + ". " + sequence + "  - Not Palindrome");
             }
         }
 
