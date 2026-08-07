@@ -28,7 +28,7 @@ public class String7 {
                 }
             }
 
-            System.out.println(i + ". Airline: " + airline + ", Flight: " + flightNumber +
+            System.out.println(i + ". Airline: " + airline + ", Flight:   " + flightNumber +
                     ", From: " + origin + ", To: " + destination);
         }
 
