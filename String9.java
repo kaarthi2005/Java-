@@ -1,45 +1,24 @@
 import java.util.*;
-
 public class String9 {
-
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
-        int n = sc.nextInt();
-        System.out.println("Version Comparison:");
-
-        for (int i = 1; i <= n; i++) {
-            String v1 = sc.next();
-            String v2 = sc.next();
-
-            String[] a = v1.split("\\.");
-            String[] b = v2.split("\\.");
-
-            int max = Math.max(a.length, b.length);
-            int result = 0;
-
-            for (int j = 0; j < max; j++) {
-                int num1 = j < a.length ? Integer.parseInt(a[j]) : 0;
-                int num2 = j < b.length ? Integer.parseInt(b[j]) : 0;
-
-                if (num1 > num2) {
-                    result = 1;
-                    break;
-                } else if (num1 < num2) {
-                    result = -1;
-                    break;
-                }
+    public static void main(String [ ] args){
+        Scanner scan =  new Scanner(System.in);
+        int n = scan.nextInt();
+        String str [] = new String[n];
+        for(int i=0 ;i<n;i++){
+            str[i] = scan.next();
+        }
+        for(int i=0 ;i<n ;i++){
+            char ch [] = str[i].toCharArray();
+            String comp ="";
+            for(int j= ch.length-1;j>=0;j--){
+                comp+= ch[j];
             }
-
-            if (result == 1) {
-                System.out.println(i + ".  " + v1 + " vs " + v2 + " -> v1 is Newer");
-            } else if (result == -1) {
-                System.out.println(i + ". " + v1 + " vs " + v2 + " -> v2 is Newer");
-            } else {
-                System.out.println(i + ". " + v1 + " vs " + v2 + " -> Equal");
+            if(str[i].equalsIgnoreCase(comp)){
+                System.out.println(str[i]+""+" Palindrome");
+            }else{
+                System.out.println(str[i]+""+" Notpalindrome");
             }
         }
-
-        sc.close();
+        scan.close();
     }
 }
